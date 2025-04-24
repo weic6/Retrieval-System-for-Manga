@@ -1,6 +1,9 @@
 import os
 from google import genai
 from google.genai import types
+from dotenv import load_dotenv
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
 
 prompt_page_level = """ 
 You are analysing a single manga **page** that consists of multiple panels.
@@ -78,7 +81,7 @@ def generate_multiturn_comic_analysis(image_paths):
         return
 
     client = genai.Client(
-        api_key="AIzaSyAszN7F6QDqJg7kbYshDIk-yrpUJ4ce3jU",  
+        api_key=API_KEY,
     )
 
     print(f"共找到 {len(image_paths)} 张图片：")
