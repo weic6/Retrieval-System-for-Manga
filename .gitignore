@@ -1,2 +1,5 @@
 .env
 .DS_STORE
+
+_chroma
+manga_analyses
