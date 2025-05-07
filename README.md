@@ -1,3 +1,8 @@
+# How to start
+
+**add api key**:
+rename `.env_sample` to `.env` and update the API_KEY inside with yours.
+
 ```python
 # start vir env
 python -m venv test_env
