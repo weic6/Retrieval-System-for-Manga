@@ -4,25 +4,22 @@ import chromadb
 from chromadb.utils import embedding_functions
 import uuid
 
-def load_manga_summaries(manga_root_folder="./manga_images"):
+def load_manga_schema_files(manga_root_folder="./manga_images"):
     """
-    Load all manga summaries from the manga_analyses folder
+    Load all manga schema files from the manga_analyses folder
     """
-    analyses_dir = os.path.join(manga_root_folder, "manga_analyses")
+    analyses_dir = os.path.join(manga_root_folder, "..", "manga_analyses")
     
-    # Load the summary file to get list of manga titles
-    summary_file = os.path.join(analyses_dir, "all_manga_summary.json")
-    with open(summary_file, 'r', encoding='utf-8') as f:
-        summary_data = json.load(f)
-    
-    manga_titles = summary_data["manga_titles"]
-    print(f"Found {len(manga_titles)} manga titles to process")
+    # Get all files ending with _schema.json
+    schema_files = [f for f in os.listdir(analyses_dir) if f.endswith("_schema.json")]
+    print(f"Found {len(schema_files)} manga schema files to process")
     
     all_manga_data = []
     
-    # Process each manga title
-    for manga_title in manga_titles:
-        manga_file = os.path.join(analyses_dir, f"{manga_title}_analysis.json")
+    # Process each schema file
+    for schema_file in schema_files:
+        manga_file = os.path.join(analyses_dir, schema_file)
+        manga_title = schema_file.replace("_schema.json", "")
         
         try:
             with open(manga_file, 'r', encoding='utf-8') as f:
@@ -31,38 +28,16 @@ def load_manga_summaries(manga_root_folder="./manga_images"):
                     "title": manga_title,
                     "data": manga_data
                 })
-                print(f"Loaded data for manga: {manga_title}")
+                print(f"Loaded schema data for manga: {manga_title}")
         except FileNotFoundError:
-            print(f"Warning: Analysis file for {manga_title} not found")
+            print(f"Warning: Schema file for {manga_title} not found")
             continue
     
     return all_manga_data
 
-def extract_clean_json_content(text):
+def create_documents_from_manga_schema(manga_data):
     """
-    Extract and clean JSON content from text that might contain markdown code blocks
-    """
-    if text.startswith("```json") and text.endswith("```"):
-        # Extract content between the backticks
-        json_text = text[7:-3]  # Remove ```json and ``` markers
-    else:
-        json_text = text
-    
-    print(text)
-    try:
-        # Try to parse as JSON to ensure it's valid
-        parsed = json.loads(json_text)
-        
-        # Convert back to string - this effectively cleans the JSON
-        return json.dumps(parsed, ensure_ascii=False)
-    except json.JSONDecodeError:
-        # If we can't parse it as JSON, return the original text
-        print("Warning: Could not parse JSON content, using raw text")
-        return text
-
-def create_documents_from_manga(manga_data):
-    """
-    Create documents from manga data for vectorization
+    Create documents from manga schema data for vectorization at book, page, and panel levels
     """
     documents = []
     metadatas = []
@@ -70,57 +45,99 @@ def create_documents_from_manga(manga_data):
     
     for manga in manga_data:
         manga_title = manga["title"]
-        pages = manga["data"]
+        manga_obj = manga["data"]
         
         # Create a book-level document
-        if pages and "summary_book_level" in pages[0]:
-            book_summary = pages[0]["summary_book_level"]
-            documents.append(book_summary)
+        book_summary = manga_obj.get("summary", "")
+        if book_summary:
+            book_doc = f"Manga: {manga_obj['manga_name']}. Summary: {book_summary}"
+            documents.append(book_doc)
             metadatas.append({
                 "manga_title": manga_title,
                 "type": "book_summary",
-                "page_number": -1,  # Use -1 instead of None for book summaries
-                "json_data": json.dumps({"summary": book_summary})
+                "level": "book"
             })
-            ids.append(f"{manga_title}_book_summary")
+            ids.append(f"{manga_title}_book")
         
         # Create page-level documents
-        for page in pages:
-            try:
-                page_number = page["page_number"]
-                page_summary_raw = page["summary_page_level"]
+        for page in manga_obj.get("pages", []):
+            page_number = page.get("page_number", "unknown")
+            page_summary = page.get("summary", "")
+            
+            # Create a descriptive page-level document
+            page_doc = f"Manga: {manga_obj['manga_name']}. Page {page_number}. {page_summary}"
+            documents.append(page_doc)
+            metadatas.append({
+                "manga_title": manga_title,
+                "type": "page",
+                "page_number": page_number,
+                "level": "page",
+                "image_path": page.get("image_path", "")
+            })
+            ids.append(f"{manga_title}_page_{page_number}")
+            
+            # Create panel-level documents
+            for panel_idx, panel in enumerate(page.get("panels", [])):
+                panel_id = panel.get("panel_id", f"{panel_idx+1}")
+                panel_summary = panel.get("summary", "")
                 
-                # Clean up the page-level summary JSON
-                cleaned_page_summary = extract_clean_json_content(page_summary_raw)
+                # Combine character information
+                characters_text = ""
+                for char in panel.get("characters", []):
+                    char_name = char.get("name", "")
+                    char_expr = char.get("expression", "")
+                    char_pose = char.get("pose", "")
+                    if char_name:
+                        characters_text += f"{char_name} with {char_expr} expression, {char_pose}. "
                 
-                # Add page-level document
-                documents.append(cleaned_page_summary)
+                # Combine setting information
+                setting = panel.get("setting", {})
+                location = setting.get("location", "")
+                bg_elements = ", ".join(setting.get("background_elements", []))
+                setting_text = f"Location: {location}. Background elements: {bg_elements}. "
+                
+                # Combine narrative information
+                narrative = panel.get("narrative", {})
+                actions = ", ".join(narrative.get("actions", []))
+                dialogue = ". ".join(narrative.get("dialogue", []))
+                emotion = narrative.get("emotion", "")
+                narrative_text = f"Actions: {actions}. Dialogue: {dialogue}. Emotion: {emotion}. "
+                
+                # Combine text elements
+                text_elements = ", ".join(panel.get("text_elements", []))
+                text_elements_text = f"Text elements: {text_elements}. " if text_elements else ""
+                
+                # Create a descriptive panel-level document
+                panel_doc = f"Manga: {manga_obj['manga_name']}. Page {page_number}, Panel {panel_id}. {panel_summary} {characters_text}{setting_text}{narrative_text}{text_elements_text}"
+                documents.append(panel_doc)
                 metadatas.append({
                     "manga_title": manga_title,
-                    "type": "page_summary",
+                    "type": "panel",
                     "page_number": page_number,
-                    "json_data": cleaned_page_summary
+                    "panel_id": panel_id,
+                    "level": "panel",
+                    "image_path": page.get("image_path", "")
                 })
-                ids.append(f"{manga_title}_page_{page_number}")
-            except Exception as e:
-                print(f"Error processing page {page.get('page_number', 'unknown')} of {manga_title}: {e}")
+                ids.append(f"{manga_title}_page_{page_number}_panel_{panel_id}")
     
     return documents, metadatas, ids
 
-def vectorize_manga_summaries(chroma_path="_chroma"):
+def vectorize_manga_schemas(chroma_path="_chroma"):
     """
-    Vectorize manga summaries and store in ChromaDB
+    Vectorize manga schema data and store in ChromaDB
     """
-    # Load manga data
-    manga_data = load_manga_summaries()
+    # Load manga schema data
+    manga_data = load_manga_schema_files()
     if not manga_data:
-        print("No manga data found to vectorize")
+        print("No manga schema data found to vectorize")
         return
     
     # Create documents for vectorization
-    documents, metadatas, ids = create_documents_from_manga(manga_data)
+    documents, metadatas, ids = create_documents_from_manga_schema(manga_data)
     
     print(f"Created {len(documents)} documents for vectorization")
+    for i in range(min(3, len(documents))):
+        print(f"Sample document {i+1}: {documents[i][:100]}...")
     
     # Initialize ChromaDB
     chroma_client = chromadb.PersistentClient(path=chroma_path)
@@ -142,16 +159,9 @@ def vectorize_manga_summaries(chroma_path="_chroma"):
     
     # Add documents to collection
     if documents:
-        # Clean metadata by removing None values and the large json_data field
-        cleaned_metadatas = []
-        for m in metadatas:
-            # Only keep non-None values and skip json_data
-            cleaned_metadata = {k: v for k, v in m.items() if v is not None and k != 'json_data'}
-            cleaned_metadatas.append(cleaned_metadata)
-            
         collection.add(
             documents=documents,
-            metadatas=cleaned_metadatas,
+            metadatas=metadatas,
             ids=ids
         )
         print(f"Added {len(documents)} documents to ChromaDB collection")
@@ -161,6 +171,6 @@ if __name__ == "__main__":
     # Create _chroma directory if it doesn't exist
     os.makedirs("_chroma", exist_ok=True)
     
-    # Vectorize manga summaries
-    vectorize_manga_summaries()
-    print("Manga summaries vectorization complete!")
+    # Vectorize manga schemas
+    vectorize_manga_schemas()
+    print("Manga schema vectorization complete!")

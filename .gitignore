@@ -1,5 +1,6 @@
 .env
 .DS_STORE
-
+_notes
+output*
 _chroma
 manga_analyses
