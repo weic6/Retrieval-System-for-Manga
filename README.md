@@ -41,3 +41,42 @@ python3.11 preprocessing.py
 python3.11 vectorize.py
 python3.11 query.py
 ```
+
+### example: manga analysis and summary obtained in `preprocessing.py`
+
+```json
+{
+  "manga_name": "encyclopedia_girls",
+  "summary": "The Encyclopedia Girls introduce various topics and provide educational insights, often with humorous and dramatic interactions among the characters.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images/encyclopedia_girls/page1.png",
+      "summary": "The Encyclopedia Girls introduce themselves and share some knowledge about mooring posts in harbors.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": ["building"]
+          },
+          "narrative": {
+            "actions": ["introduces a topic"],
+            "dialogue": ["Mooring posts!"],
+            "emotion": "cheerful"
+          },
+          "text_elements": [],
+          "summary": "A girl introduces the topic of 'mooring posts'."
+        }
+      ]
+    }
+  ]
+}
+```
