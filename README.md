@@ -16,6 +16,11 @@ Manga Retrieval System is a tool that lets readers rediscover manga from the fai
 
 ## How to start
 
+**Prepare data:**
+Before running the app, user should create a folder `manga_images` in project root directory. Inside it, user can create folders called `manga_name_1`, `manga_name_2`, ..., `manga_name_n` for differnt manga books. Each `manga_name_n` folder contain images (should be in format .webp/.jpeg/.jpg/.png) for all the pages in that manga book.
+
+I have upload one sample input `manga_images` for testing. You can download with this link: https://drive.google.com/drive/folders/1I0EOQyQLR32NNWqxWrcv7oKKc-OLzy29?usp=sharing
+
 **add api key**:
 rename `.env_sample` to `.env` and update the API_KEY inside with yours.
 
@@ -27,9 +32,6 @@ source test_env/bin/activate
 # install dependencies
 pip install -r requirements.txt
 ```
-
-**Prepare data:**
-Before running the app, drag a folder named after your manga book name `book_name`into `manga_images` folder. The folder `book_name` should only contain images for all the pages in that manga book.
 
 ```
 # run the app
