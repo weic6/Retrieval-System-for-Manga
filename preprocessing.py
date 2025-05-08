@@ -252,19 +252,7 @@ def process_all_manga(manga_root_folder):
         else:
             print(f"漫画 '{manga_name}' 文件夹中没有找到图片文件")
     
-    # 保存所有漫画的汇总信息
-    output_dir = os.path.join(manga_root_folder,"..", "manga_analyses")
-    os.makedirs(output_dir, exist_ok=True)
-    summary_file = os.path.join(output_dir, "all_manga_schema_summary.json")
-    
-    with open(summary_file, "w", encoding="utf-8") as f:
-        json.dump({
-            "total_manga": len(all_manga_objects),
-            "manga_titles": list(all_manga_objects.keys()),
-            "creation_date": str(datetime.datetime.now())
-        }, f, ensure_ascii=False, indent=2)
-    
-    print(f"\n所有漫画处理完成。汇总信息保存至 {summary_file}")
+    print(f"\n所有漫画处理完成。成功处理了 {len(all_manga_objects)} 本漫画。")
 
 
 if __name__ == "__main__":
