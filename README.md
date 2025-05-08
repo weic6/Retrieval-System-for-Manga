@@ -10,6 +10,8 @@ Manga Retrieval System is a tool that lets readers rediscover manga from the fai
 
 **Content understanding & summarization:** uses multimodal Gemini-2.0-flash to create rich textual summaries.
 
+For each manga, the following contents are extracted
+
 **Vague‑memory search:** Accepts natural‑language queries and surfaces the most semantically relevant manga.
 
 **LLM re‑ranking & explanations:** Uses a large language model to justify why each returned title matches the memory fragment.
