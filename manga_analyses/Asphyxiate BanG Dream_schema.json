@@ -1,0 +1,784 @@
+{
+  "manga_name": "Asphyxiate (BanG Dream!)",
+  "summary": "A manga exploring the complex and potentially toxic relationship between two sisters. It delves into themes of obsession, guilt, and acceptance, possibly involving past trauma and unhealthy dynamics. One sister experiences intense emotional distress, possibly reliving a traumatic event, while the other exhibits extreme acceptance and potentially self-destructive behavior within the relationship.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\Asphyxiate (BanG Dream!)\\0.webp",
+      "summary": "A girl is talking to her older sister, expressing her desire to do what her sister is doing and copy her actions, which annoys the sister. The younger sister expresses wanting to do things with her sister.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "leaning"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "leaning",
+              "speaking"
+            ],
+            "dialogue": [
+              "Onee-chan, what are you doing?",
+              "I want to do that too!"
+            ],
+            "emotion": "Excited"
+          },
+          "text_elements": [],
+          "summary": "A girl asks her older sister what she is doing and expresses her desire to do the same."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "looking up"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "speaking",
+              "looking up"
+            ],
+            "dialogue": [
+              "Stop it already.",
+              "Onee-chan,",
+              "Let's do it together next time..."
+            ],
+            "emotion": "Annoyed"
+          },
+          "text_elements": [],
+          "summary": "The older sister tells the younger sister to stop copying her and suggests doing things together in the future."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "speaking"
+            ],
+            "dialogue": [
+              "Stop copying me...",
+              "Onee-chan!",
+              "With you...I..."
+            ],
+            "emotion": "Longing"
+          },
+          "text_elements": [],
+          "summary": "The younger sister continues to call out to her older sister, expressing her desire to be with her."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\Asphyxiate (BanG Dream!)\\1.webp",
+      "summary": "A character is having a flashback or reliving a traumatic experience, showing intense emotions and distress related to someone calling out to them. The character seems to be experiencing a breakdown, triggered by a voice that causes them great distress.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "crying",
+              "pose": "close-up of eyes"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "I..."
+            ],
+            "emotion": "anguish"
+          },
+          "text_elements": [],
+          "summary": "Close up of character's eyes, with tears streaming down their face."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "crying",
+              "pose": "leaning forward"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "calls out"
+            ],
+            "dialogue": [
+              "...chan...",
+              "Onee-chan!"
+            ],
+            "emotion": "desperate"
+          },
+          "text_elements": [],
+          "summary": "Character calls out 'Onee-chan' in a desperate tone."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "distressed",
+              "pose": "clutching at something"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Yes... That's right... Always calling out to me like that..."
+            ],
+            "emotion": "anguish"
+          },
+          "text_elements": [],
+          "summary": "Character is speaking about a voice that is causing them distress."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "distressed",
+              "pose": "clutching their chest"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "How I hate... That voice...!"
+            ],
+            "emotion": "hate"
+          },
+          "text_elements": [],
+          "summary": "Character expresses hatred for the voice."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "crying",
+              "pose": "close-up of face"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "That voice..."
+            ],
+            "emotion": "distress"
+          },
+          "text_elements": [],
+          "summary": "Close up of character looking distressed and crying."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "crying",
+              "pose": "being comforted"
+            },
+            {
+              "name": "Character",
+              "expression": "concerned",
+              "pose": "comforting"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "comforting"
+            ],
+            "dialogue": [
+              "Why are you crying? You're sweating so much?!",
+              "Are you al...?"
+            ],
+            "emotion": "concern"
+          },
+          "text_elements": [],
+          "summary": "Character being comforted by another character who seems concerned about their wellbeing."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\Asphyxiate (BanG Dream!)\\2.webp",
+      "summary": "Hina appears to be in danger as someone may be attacking her. She says Hina's name and seems to be losing consciousness.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "determined",
+              "pose": "straddling"
+            },
+            {
+              "name": "Unknown",
+              "expression": "unseen",
+              "pose": "pinned"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "someone is attacked",
+              "someone is straddling someone",
+              "someone is pinning someone"
+            ],
+            "dialogue": [],
+            "emotion": "violent"
+          },
+          "text_elements": [
+            "BAM",
+            "CRUNCH",
+            "!!"
+          ],
+          "summary": "Hina is on top of someone and a loud noise is heard, implying an attack."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "scared",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "lying down"
+            ],
+            "dialogue": [
+              "ss...",
+              "gah...",
+              "hina...",
+              "if not for you...!",
+              "stare",
+              "hah",
+              "stare"
+            ],
+            "emotion": "fear"
+          },
+          "text_elements": [
+            "glare"
+          ],
+          "summary": "Hina appears to be in danger, and is thinking about someone."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "weak",
+              "pose": "lying down"
+            },
+            {
+              "name": "Unknown",
+              "expression": "unseen",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "losing consciousness"
+            ],
+            "dialogue": [
+              "...ah...",
+              "o...",
+              "...nee...",
+              "...cha..."
+            ],
+            "emotion": "despair"
+          },
+          "text_elements": [],
+          "summary": "Hina is losing consciousness as someone stands over her."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\Asphyxiate (BanG Dream!)\\3.webp",
+      "summary": "A character is being choked, and expresses relief at finally being seen. The scene has a tense and disturbing atmosphere.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "distressed",
+              "pose": "being choked"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reaches"
+            ],
+            "dialogue": [
+              "Reach"
+            ],
+            "emotion": "tense"
+          },
+          "text_elements": [
+            "JOLT"
+          ],
+          "summary": "A girl is being choked and tries to reach out."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "void",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "...Onee-chan..."
+            ],
+            "emotion": "yearning"
+          },
+          "text_elements": [],
+          "summary": "A thought bubble expresses a character addressing someone as 'Onee-chan'."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "tearful, relieved",
+              "pose": "being choked"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "choking",
+              "looking"
+            ],
+            "dialogue": [
+              "Finally...",
+              "My face... You finally... Looked at it..."
+            ],
+            "emotion": "disturbing, relieved"
+          },
+          "text_elements": [],
+          "summary": "A girl is being choked, but expresses relief that her face is finally being looked at."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "shocked",
+              "pose": "touching face"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "staring"
+            ],
+            "dialogue": [],
+            "emotion": "shock"
+          },
+          "text_elements": [],
+          "summary": "The girl looks shocked and touches her face."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\Asphyxiate (BanG Dream!)\\4.webp",
+      "summary": "Hina is having nightmares and expresses remorse for hurting someone; the other person forgives Hina.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "distressed",
+              "pose": "kneeling"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "clutching her head",
+              "apologizing"
+            ],
+            "dialogue": [
+              "ah... i... why...?",
+              "hina... i'm so sorry...!",
+              "it's these dreams... recently, i've had nothing but nightmares...! because of that..."
+            ],
+            "emotion": "anguished"
+          },
+          "text_elements": [],
+          "summary": "Hina is kneeling, clutching her head, and apologizing, indicating she is distressed and feels guilty."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "pained",
+              "pose": "choking"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "coughing",
+              "choking"
+            ],
+            "dialogue": [
+              "eh...?",
+              "ah...",
+              "ugh!",
+              "cough",
+              "lets go"
+            ],
+            "emotion": "fearful"
+          },
+          "text_elements": [
+            "ugh!",
+            "cough"
+          ],
+          "summary": "Hina is coughing and choking, possibly reliving a nightmare or hallucination."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "sad",
+              "pose": "kneeling"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": [
+              "chairs"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "kneeling",
+              "clutching her neck"
+            ],
+            "dialogue": [
+              "i... i've been hurting you, onee-chan...",
+              "cough",
+              "...yeah.",
+              "i understand..."
+            ],
+            "emotion": "sorrowful"
+          },
+          "text_elements": [
+            "choke"
+          ],
+          "summary": "Hina is kneeling, clutching her neck, and expressing remorse for hurting her Onee-chan, while the other person says they understand."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "comforting",
+              "pose": "holding hands"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding hands"
+            ],
+            "dialogue": [
+              "so...",
+              "...it's fine..."
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [],
+          "summary": "Someone is holding Hina's hands, reassuring her that everything is fine."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\Asphyxiate (BanG Dream!)\\5.webp",
+      "summary": "A character expresses acceptance of another's actions while internally struggling with their feelings.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "leaning"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking",
+              "questioning"
+            ],
+            "dialogue": [
+              "Alright...?"
+            ],
+            "emotion": "anxious"
+          },
+          "text_elements": [],
+          "summary": "A girl looks concerned and questions another's actions."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "resigned",
+              "pose": "being choked"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "accepting",
+              "clenched"
+            ],
+            "dialogue": [
+              "I'm fine with whatever onee-chan wants to do..."
+            ],
+            "emotion": "resigned"
+          },
+          "text_elements": [
+            "CLENCH"
+          ],
+          "summary": "The girl accepts being choked, stating that she is fine with whatever her older sister wants to do."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "distressed",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking",
+              "crying"
+            ],
+            "dialogue": [
+              "Ah...",
+              "It's as I thought..."
+            ],
+            "emotion": "distressed"
+          },
+          "text_elements": [],
+          "summary": "Close-up of the girl's face as she realizes something and is distressed."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\Asphyxiate (BanG Dream!)\\6.webp",
+      "summary": "This is the end page to the manga, which gives credit to the translators and editors.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "black background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "\"Does hina have an asphyxiation kinkz\" - h",
+              "\"I'm not sure about hina herself, but maybe the people that have her as their favorite character? since i'm sure they find her breathtaking after all.\" - L"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "A3's band scans",
+            "Translator, cleaner/redrawer, typesetter, pr - lex",
+            "OL-hijacker54",
+            "Join our discord:",
+            "https://discord.gg/VvntNxv",
+            "We like bandori.",
+            "See next page for a \"group-made omake\" ->"
+          ],
+          "summary": "This page is the end page to the manga, which gives credit to the translators and editors."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\Asphyxiate (BanG Dream!)\\7.webp",
+      "summary": "Two girls are eating fries, and one asks the other to say tuna sub backwards. The second panel shows a fight scene between the two girls.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "sitting"
+            },
+            {
+              "name": "Girl",
+              "expression": "questioning",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": [
+              "fries",
+              "drinks"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "eating fries",
+              "talking"
+            ],
+            "dialogue": [
+              "Hey Onee-chan! Say \"tuna sub\" backwards.",
+              "Bus a-"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [
+            "OMAKE"
+          ],
+          "summary": "One girl asks the other to say \"tuna sub\" backwards as they eat fries."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "angry",
+              "pose": "fighting"
+            },
+            {
+              "name": "Girl",
+              "expression": "angry",
+              "pose": "fighting"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "fighting",
+              "punching"
+            ],
+            "dialogue": [],
+            "emotion": "violent"
+          },
+          "text_elements": [
+            "BAM",
+            "CRUNCH",
+            "!!!"
+          ],
+          "summary": "The girls are fighting."
+        }
+      ]
+    }
+  ]
+}

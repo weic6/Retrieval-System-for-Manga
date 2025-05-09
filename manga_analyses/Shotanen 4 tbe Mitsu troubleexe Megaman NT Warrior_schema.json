@@ -1,0 +1,720 @@
+{
+  "manga_name": "(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)",
+  "summary": "This manga is a fan book centered around characters, potentially from the Megaman NT Warrior series, featuring a boy who takes on various jobs and is sometimes forced to wear unconventional clothing, including a maid outfit. The plot involves his exploration of society and workplace dynamics, ending with a distressed scene and some meta elements like the author's notes and contact information.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\0.webp",
+      "summary": "The cover of the fan book features a manga-style character with pink background.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Ein",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "plain background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "E in U.W.R",
+            "syun*en fan book vol.5 by tbe"
+          ],
+          "summary": "Ein is standing in a maid outfit, against a pink background."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\1.webp",
+      "summary": "A character in a frilly outfit is shown in a close-up, holding what appears to be a thin object near their mouth.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "uncertain",
+              "pose": "holding object to mouth"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding object to mouth",
+              "wearing frilly outfit"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "A character in a frilly outfit is holding a thin object near their mouth. The character's expression appears uncertain."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\2.webp",
+      "summary": "The author, Mitsu, introduces themself and apologizes for potential errors and scheduling issues related to the book.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mitsu",
+              "expression": "apologetic",
+              "pose": "writing"
+            }
+          ],
+          "setting": {
+            "location": "author's desk",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "introducing self",
+              "apologizing for errors",
+              "explaining scheduling issues"
+            ],
+            "dialogue": [
+              "Hello!",
+              "Nice to meet you all (or perhaps nice to see you again), I'm Mitsu.",
+              "Thank you so much for taking a look at this book.",
+              "Originally the title was going to be \"Enzan in Under Wonderland\" or something like that which is quite long...but in the end I made it shorter.",
+              "I wasn't really confident with my English/spelling skills either.",
+              "I was on an even tighter schedule for this book, and it's somewhat linked to this other book I worked on before, and there was this cat character which appeared in that other book.....which makes an apperance in THIS book too....I know, it's just confusing and I'm just making excuses here.",
+              "That was my first manga about Shun choosing this partner, this cat appears and the his name is Enzan....blah blah....",
+              "...well it's been nearly a year!!!",
+              "Maybe even for the people who read that previous book don't remember much about it.",
+              "I'm sorry you guys, but my love for the series, is REAL.",
+              "IT'S LOVE.",
+              "I hope you enjoy this book too! See ya!",
+              "2004 spring Mitsu"
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "Mitsu introduces themself, expresses gratitude to the readers, and apologizes for any inconsistencies or errors in the book, citing scheduling constraints and concerns about English skills."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\3.webp",
+      "summary": "A character decides to work at another company to learn about society, and a manager encourages him to try everything, including wearing a maid outfit.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "character",
+              "expression": "concerned",
+              "pose": "standing"
+            },
+            {
+              "name": "Manager",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "store",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "questioning"
+            ],
+            "dialogue": [
+              "....Manager, is it OK for me to wear this outfit, even after the store has closed...",
+              "Oh, NOT a problem because you look so darn cute in it!"
+            ],
+            "emotion": "lighthearted"
+          },
+          "text_elements": [
+            "にこ♡"
+          ],
+          "summary": "A character asks his manager if he can wear the maid outfit after hours, and the manager says it's okay."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "character",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "another company",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "deciding",
+              "working"
+            ],
+            "dialogue": [
+              "I decided to work at another company to learn more about society."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "A character decides to work at another company to learn about society."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "character",
+              "expression": "thinking",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "store",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "It's good to know that I look good in this, however...."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "A character acknowledges that he looks good in the outfit but has reservations."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "character",
+              "expression": "shocked",
+              "pose": "being grabbed"
+            },
+            {
+              "name": "Manager",
+              "expression": "excited",
+              "pose": "grabbing"
+            }
+          ],
+          "setting": {
+            "location": "store",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "grabbing",
+              "encouraging"
+            ],
+            "dialogue": [
+              "It's all about EXPERIENCE! You need to try everything!!!!!",
+              "I get the feeling I should dress like the OTHER male employees"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "*GRAB"
+          ],
+          "summary": "The manager insists that the character needs to try everything, grabbing him in the process."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\4.webp",
+      "summary": "A maid is training a young boy on how to serve customers. The boy rings the bell but is yelled at.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Maid",
+              "expression": "serious",
+              "pose": "kneeling"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "maid is speaking to a customer"
+            ],
+            "dialogue": [
+              "Please ring this bell and let me know once you are ready to order."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "The maid tells the customer to ring the bell when they are ready to order."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Trainer",
+              "expression": "serious",
+              "pose": "standing"
+            },
+            {
+              "name": "Boy",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "trainer is teaching the boy"
+            ],
+            "dialogue": [
+              "OK, so try showing the menu, just like I taught you"
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [
+            "~training~"
+          ],
+          "summary": "The trainer is teaching the boy how to show the menu to the customer."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "neutral",
+              "pose": "ringing bell"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": [
+              "table",
+              "menus"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "boy is ringing the bell"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "*ring"
+          ],
+          "summary": "The boy rings the bell."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "shocked",
+              "pose": "looking surprised"
+            },
+            {
+              "name": "Trainer",
+              "expression": "angry",
+              "pose": "yelling"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "trainer is yelling at the boy"
+            ],
+            "dialogue": [
+              "cut??",
+              "....cu..... cut!!!!"
+            ],
+            "emotion": "angry"
+          },
+          "text_elements": [],
+          "summary": "The trainer yells at the boy."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\5.webp",
+      "summary": "A character dressed in a female staff uniform is being fussed over by his coworkers. He is then offered a job at a place where he can wear the outfit without problems.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "annoyed",
+              "pose": "standing"
+            },
+            {
+              "name": "Boy",
+              "expression": "embarrassed",
+              "pose": "fidgeting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "arguing about uniform"
+            ],
+            "dialogue": [
+              "Well then you can just give me the regular uniform...",
+              "No!!!!! you look cuter in that one!!!"
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [],
+          "summary": "A boy wants to wear the regular uniform, but another boy thinks he looks cuter in the female staff uniform."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "annoyed",
+              "pose": "standing"
+            },
+            {
+              "name": "Boy",
+              "expression": "embarrassed",
+              "pose": "fidgeting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "arguing about uniform"
+            ],
+            "dialogue": [
+              "Not in your case! You are wearing a female staff uniform!!",
+              "But all the other male staffs are...",
+              "Don't!",
+              "Don't sit like that! Your underwear will show!!"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Another boy is upset that he is wearing a female uniform."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "neutral",
+              "pose": "walking"
+            },
+            {
+              "name": "Boy",
+              "expression": "neutral",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": [
+              "door",
+              "whiteboard"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "walking down hallway",
+              "leading to a new job"
+            ],
+            "dialogue": [
+              "Follow me! I'll give you a job where you can stay in the outfit with no problem"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "dude....",
+            "staff only"
+          ],
+          "summary": "The boy is lead to a new job."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "neutral",
+              "pose": "looking at menu"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reading a menu"
+            ],
+            "dialogue": [
+              "....and then......",
+              "So you can choose between \"Cal-can\" and Mon-Petit. you have other choices too.",
+              "What would you like to have?"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "The boy is presented with a menu."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\6.webp",
+      "summary": "A boy and his cat are looking at something, the cat is sniffing a box, and the boy is looking at a glass of 'grown cats'. The boy is dressed in a uniform that is not fully resolved.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "smiling",
+              "pose": "leaning"
+            },
+            {
+              "name": "Cat",
+              "expression": "happy",
+              "pose": "reaching"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "boxes"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "tapped box",
+              "reached out"
+            ],
+            "dialogue": [
+              "Ah, you prefer this one..."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "tap"
+          ],
+          "summary": "The boy asks if the cat prefers this box and the cat reaches out to tap it."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Cat",
+              "expression": "neutral",
+              "pose": "sniffing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "boxes"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sniffed"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "*sniffing"
+          ],
+          "summary": "The cat sniffs a box."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "serious",
+              "pose": "holding glass"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "held glass",
+              "measured"
+            ],
+            "dialogue": [
+              "Allow me to measure the correct amount for grown cats....!",
+              "Give me a moment"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "The boy holds up a glass and says he needs to measure the correct amount for grown cats."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "smiling",
+              "pose": "resting chin"
+            },
+            {
+              "name": "Cat",
+              "expression": "happy",
+              "pose": "touching"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looked at",
+              "touched"
+            ],
+            "dialogue": [
+              "Me and my cat are the only ones who get to see his underwear!",
+              "Hahaha",
+              "The uniform problem has not really been solved, but I guess as long as he is \"working,\" it should be OK...?"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The boy and cat are happy, and the boy says that the uniform problem has not been solved."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\7.webp",
+      "summary": "Two characters in maid outfits are depicted in a distressed state, one on the floor and the other sitting nearby.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "sad",
+              "pose": "lying down"
+            },
+            {
+              "name": "Boy",
+              "expression": "concerned",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Girl is lying on the floor, face down",
+              "Boy is sitting, touching his chest area",
+              "Both appear to be distressed"
+            ],
+            "dialogue": [],
+            "emotion": "distressed"
+          },
+          "text_elements": [],
+          "summary": "A girl in a maid outfit lies face down on the floor, while a boy in a similar outfit sits beside her looking concerned."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\8.webp",
+      "summary": "This page contains information about the publisher, copyright notices, and contact details.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "white background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "informational"
+          },
+          "text_elements": [
+            "Eim O.W.R",
+            "発行 20040313",
+            "発行元 tbe",
+            "発行人 みつ",
+            "mail mithu253@hotmail.com",
+            "乱丁、落丁本はお取り替えいたします",
+            "禁無断転載、複写、複製",
+            "環境ございましたらこちらもヨロシク",
+            "HP",
+            "http://tbe.bambina.jp/",
+            "楽書きやサークル情報など配信しています"
+          ],
+          "summary": "The panel displays publication information, contact details, copyright notice, and a website URL."
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "image_path": "./manga_images\\(Shotanen! 4) [tbe (Mitsu)] trouble.exe (Megaman NT Warrior)\\9.webp",
+      "summary": "This page is blank with some minor imperfections, possibly indicating a pause or transition in the story.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "blank page",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "silent"
+          },
+          "text_elements": [],
+          "summary": "The panel is completely empty, signifying silence or a break in the action."
+        }
+      ]
+    }
+  ]
+}

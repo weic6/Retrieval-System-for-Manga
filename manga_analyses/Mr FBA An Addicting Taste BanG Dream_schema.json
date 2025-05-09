@@ -1,0 +1,450 @@
+{
+  "manga_name": "[Mr. FBA] An Addicting Taste (BanG Dream!)",
+  "summary": "Soyorin is being fed by another girl, initially resisting before relenting. The dynamic shifts from feeding to a more suggestive scenario with the introduction of a collar.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Mr. FBA] An Addicting Taste (BanG Dream!)\\0.webp",
+      "summary": "Soyorin is being fed noodles by someone, but she is not enjoying it, she is telling the other person to stop.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "Restaurant",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "feeding noodles"
+            ],
+            "dialogue": [
+              "Open wide~",
+              "Come on, Soyorin~"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [],
+          "summary": "Someone is trying to feed Soyorin noodles."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Soyorin",
+              "expression": "annoyed",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "Restaurant",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "...sigh.",
+              "That isn't the issue here, alright?"
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "Soyorin is annoyed by the feeding."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding noodles"
+            }
+          ],
+          "setting": {
+            "location": "Restaurant",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "Could it be that Soyorin isn't used to eating at family restaurants?"
+            ],
+            "emotion": "questioning"
+          },
+          "text_elements": [],
+          "summary": "Girl wonders if Soyorin isn't used to eating at family restaurants."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Soyorin",
+              "expression": "exasperated",
+              "pose": "eating noodles"
+            },
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "feeding noodles"
+            }
+          ],
+          "setting": {
+            "location": "Restaurant",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating noodles",
+              "feeding noodles"
+            ],
+            "dialogue": [
+              "Enough already, I'll eat it, okay!?",
+              "Choo-choo! Here comes the train~ Choo-choo!"
+            ],
+            "emotion": "exasperated"
+          },
+          "text_elements": [],
+          "summary": "Soyorin gets exasperated with being fed noodles and tells girl she will eat it herself."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Mr. FBA] An Addicting Taste (BanG Dream!)\\1.webp",
+      "summary": "Soyorin is eating spaghetti and expresses that it is good. The other girl decides to give her more.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Soyorin",
+              "expression": "neutral",
+              "pose": "holding fork"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating spaghetti"
+            ],
+            "dialogue": [
+              "Mm",
+              "Soyorin",
+              "Ahh."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Soyorin is eating spaghetti."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Soyorin",
+              "expression": "content",
+              "pose": "wiping mouth"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "wiping mouth"
+            ],
+            "dialogue": [
+              "That tasted rather nice, I suppose."
+            ],
+            "emotion": "satisfied"
+          },
+          "text_elements": [],
+          "summary": "Soyorin says the food tasted nice."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding chopsticks"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding chopsticks"
+            ],
+            "dialogue": [
+              "Since Soyorin likes it, she should have a little bit more!"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The girl decides to give Soyorin more to eat."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Soyorin",
+              "expression": "surprised",
+              "pose": "looking at chopsticks"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at chopsticks"
+            ],
+            "dialogue": [
+              "Huh?",
+              "One more mouthful!"
+            ],
+            "emotion": "surprise"
+          },
+          "text_elements": [],
+          "summary": "Soyorin is surprised to be offered more food."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Mr. FBA] An Addicting Taste (BanG Dream!)\\2.webp",
+      "summary": "A girl is feeding another girl and the second girl warns her to quit pushing her luck. The second girl is feeding the first girl another piece of food and tells her to chew it well.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "none"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "It's rare that it's just the two of us eating together like this."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "A girl smiles and comments on the rarity of them eating together."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "uneasy",
+              "pose": "crossed arms"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "I'm warning you, quit pushing your luck.",
+              "Is that really fine with you, Soyorin?"
+            ],
+            "emotion": "tense"
+          },
+          "text_elements": [],
+          "summary": "A girl warns the other to quit pushing her luck and asks if she is ok with it."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "eating"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "feeding"
+            ],
+            "dialogue": [
+              "I might not be able to feed you like this again, you know?"
+            ],
+            "emotion": "teasing"
+          },
+          "text_elements": [],
+          "summary": "A girl feeds the other girl and says she might not be able to feed her again."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "eating"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating"
+            ],
+            "dialogue": [
+              "Yeap, yeap~ What a good girl~",
+              "Ugh."
+            ],
+            "emotion": "grateful"
+          },
+          "text_elements": [],
+          "summary": "The girl eats and expresses her gratitude."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding food"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "offering food"
+            ],
+            "dialogue": [
+              "I've also got something else here that Soyorin would definitely love..."
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "A girl offers the other girl more food."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "eating"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating"
+            ],
+            "dialogue": [
+              "Make sure to chew it well, alright?"
+            ],
+            "emotion": "caring"
+          },
+          "text_elements": [],
+          "summary": "The girl is told to chew her food well."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Mr. FBA] An Addicting Taste (BanG Dream!)\\3.webp",
+      "summary": "A girl happily presents a new collar to another girl, hinting at a role-playing scenario.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding collar"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "chair"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "presents a collar",
+              "speaks"
+            ],
+            "dialogue": [
+              "I had picked out a new collar for you.",
+              "This one's really cute, don't you think?"
+            ],
+            "emotion": "cheerful"
+          },
+          "text_elements": [],
+          "summary": "A girl excitedly shows a new collar to another person."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Soyorin",
+              "expression": "smirking",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holds collar",
+              "speaks"
+            ],
+            "dialogue": [
+              "Ngh...",
+              "After Soyorin's done putting this on, she's not allowed to eat while sitting at the table anymore, got it?"
+            ],
+            "emotion": "suggestive"
+          },
+          "text_elements": [],
+          "summary": "Soyorin anticipates the consequences of wearing the collar."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "manga_name": "The Midnight Incident (Mitsuharu Nene) - E-Hentai Galleries",
+  "summary": "A tale of emotional vulnerability and growing intimacy, where a late-night movie screening sparks a passionate confession and unexpected intimacy, leaving Nick and Judy to navigate the complexities of their relationship the following day. The story explores themes of responsibility, emotional support, and the transformative power of shared experiences.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\The Midnight Incident (Mitsuharu Nene) - E-Hentai Galleries\\0.webp",
+      "summary": "A fox-like character embraces a rabbit-like character, expressing intense emotions, while a separate panel shows someone reacting to the situation from a distance. The scene is titled 'The Midnight Incident'.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Nick Wilde",
+              "expression": "distressed",
+              "pose": "hugging"
+            },
+            {
+              "name": "Judy Hopps",
+              "expression": "crying",
+              "pose": "being hugged"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Nick hugs Judy tightly",
+              "Judy cries and clings to Nick"
+            ],
+            "dialogue": [
+              "I can't be without you!!!!",
+              "I mean i feel the same way, but what in the world happened that made you come over so suddenly in the middle of the night?",
+              "I thought there was an incident or something..."
+            ],
+            "emotion": "emotional"
+          },
+          "text_elements": [
+            "AM 3:00",
+            "SQUEEZE"
+          ],
+          "summary": "Nick is embracing Judy, who is crying, and expressing his attachment while questioning why she came over so late."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "unknown",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "room with a window",
+            "background_elements": [
+              "window",
+              "wall"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "someone observes the scene"
+            ],
+            "dialogue": [
+              "Alright, what is it",
+              "What's with you"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Someone is observing the scene from a distance, expressing concern."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\The Midnight Incident (Mitsuharu Nene) - E-Hentai Galleries\\1.webp",
+      "summary": "Judy and Nick are watching a tragic romance movie and Judy is crying a lot. Nick is surprised by her reaction and says he would never let her go through an ending like that.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Judy",
+              "expression": "crying",
+              "pose": "leaning forward"
+            },
+            {
+              "name": "Nick",
+              "expression": "surprised",
+              "pose": "covering mouth"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Judy is crying while watching a movie",
+              "Nick is comforting her"
+            ],
+            "dialogue": [
+              "Why don't you watch it then!!",
+              "We'll see who's laughing!!",
+              "So you're how old and you still came crying all the way here because of some tragic romance movie?"
+            ],
+            "emotion": "emotional"
+          },
+          "text_elements": [
+            "Snickering",
+            "Still crying"
+          ],
+          "summary": "Judy cries and Nick is surprised."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Judy",
+              "expression": "sad",
+              "pose": "leaning forward"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Judy is still crying"
+            ],
+            "dialogue": [
+              "Yeah... I just got all wrapped up in it and it hurt",
+              "That kind of story happens all the time, you know"
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Judy explains why she is so upset."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Nick",
+              "expression": "surprised",
+              "pose": "leaning back"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Nick is surprised at Judy's emotion"
+            ],
+            "dialogue": [
+              "It was really enough to cry over, huh?",
+              "I've never really gotten you that way about relationships"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Nick is surprised at Judy's emotion."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Judy",
+              "expression": "crying",
+              "pose": "leaning forward"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Judy explains why she is crying"
+            ],
+            "dialogue": [
+              "If they're happy, then it's not a lie to say it's a happy end, is it?",
+              "But you and I aren't something that \"happens all the time\"",
+              "They think they've found their one and only, but then through unavoidable circumstances they drift apart and break up",
+              "After that, they get hitched up with some other guy and the past becomes a \"nice memory\""
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Judy explains her feelings about tragic endings."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Nick",
+              "expression": "sad",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Nick is listening to Judy"
+            ],
+            "dialogue": [
+              "Ahhh... my condolences...",
+              "I saw a review and thought it'd have a happy end...",
+              "I can't stand tragic romances..."
+            ],
+            "emotion": "sympathetic"
+          },
+          "text_elements": [],
+          "summary": "Nick expresses sympathy."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Nick",
+              "expression": "serious",
+              "pose": "looking at Judy"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Nick is looking at Judy with a serious expression"
+            ],
+            "dialogue": [
+              "I would never make you go through an ending like that, Nick"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Nick promises Judy that he will never let her experience a tragic ending."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\The Midnight Incident (Mitsuharu Nene) - E-Hentai Galleries\\2.webp",
+      "summary": "Judy and Nick discuss how a movie has affected Judy, leading to a tender moment between them.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Nick",
+              "expression": "concerned",
+              "pose": "sitting"
+            },
+            {
+              "name": "Judy",
+              "expression": "slightly upset",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "living room",
+            "background_elements": [
+              "couch",
+              "curtains"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "That's right",
+              "There's no need to be upset about it",
+              "So that kind of movie won't be a reference for anything"
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Nick and Judy are sitting on the couch, discussing a movie."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Nick",
+              "expression": "concerned",
+              "pose": "standing"
+            },
+            {
+              "name": "Judy",
+              "expression": "apologetic",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "living room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "apologizing",
+              "explaining"
+            ],
+            "dialogue": [
+              "I was worried that something had happened. It's fine, just let me know beforehand what's going on",
+              "Right! Sorry!!",
+              "On the move, huh",
+              "Sorry for waking you up in the middle of the night",
+              "That's right!!!"
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "Judy apologizes for waking Nick up in the middle of the night, and Nick expresses his concern."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Nick",
+              "expression": "gentle",
+              "pose": "standing"
+            },
+            {
+              "name": "Judy",
+              "expression": "tearful",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "living room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "comforting",
+              "acknowledging"
+            ],
+            "dialogue": [
+              "You're right",
+              "When you get too shaken up like that, you lose sight of the obvious",
+              "It looks like that film really resonated with you, carrots"
+            ],
+            "emotion": "tender"
+          },
+          "text_elements": [
+            "gasp"
+          ],
+          "summary": "Nick comforts Judy, acknowledging that the movie affected her."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Judy",
+              "expression": "flustered",
+              "pose": "holding glasses"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "leaving",
+              "thanking",
+              "reflecting"
+            ],
+            "dialogue": [
+              "Alright, see you tomorrow... ah, today I guess",
+              "Hey,",
+              "Thanks for the drinks",
+              "You bursting into my house and confusing the heck out of me sure did pique my interest in that movie, though",
+              "Like how we are who we are"
+            ],
+            "emotion": "grateful"
+          },
+          "text_elements": [],
+          "summary": "Judy thanks Nick for the drinks and leaves, reflecting on the movie and their relationship."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\The Midnight Incident (Mitsuharu Nene) - E-Hentai Galleries\\3.webp",
+      "summary": "The two characters discuss the safety of the town and the possibility of waiting for sunrise. The characters have conflicting feelings about their current situation.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Officer",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Talking"
+            ],
+            "dialogue": [
+              "We're the ones who keep this town safe in the first place",
+              "I... I'll be fine",
+              "It's almost morning, anyways",
+              "No need to worry"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "An officer states they keep the town safe."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Officer",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Talking"
+            ],
+            "dialogue": [
+              "No matter how safe a town this is, I can't just let you go home in the middle of the night all your own"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "An officer states they can't let the other character go home alone at night."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Officer",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Talking"
+            ],
+            "dialogue": [
+              "Right after that heart-stopping, passionate confession of yours",
+              "Isn't that a little cruel of you?"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "The officer brings up a passionate confession."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Nick Wilde",
+              "expression": "serious",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "couch",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Talking"
+            ],
+            "dialogue": [
+              "You're headed home?"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Nick asks if the other character is headed home."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Officer",
+              "expression": "unsure",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Talking"
+            ],
+            "dialogue": [
+              "Then you might as well wait for sunrise, right?"
+            ],
+            "emotion": "unsure"
+          },
+          "text_elements": [],
+          "summary": "The officer suggests waiting for sunrise."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Judy Hopps",
+              "expression": "flustered",
+              "pose": "leaning"
+            },
+            {
+              "name": "Nick Wilde",
+              "expression": "serious",
+              "pose": "leaning"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Talking"
+            ],
+            "dialogue": [
+              "Lighting this fire then abandoning it",
+              "That's awful of you, officer",
+              "Take responsibility for your actions"
+            ],
+            "emotion": "tense"
+          },
+          "text_elements": [],
+          "summary": "The two characters have a tense exchange about taking responsibility."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\The Midnight Incident (Mitsuharu Nene) - E-Hentai Galleries\\4.webp",
+      "summary": "Judy and Nick share affectionate moments and exchange heartfelt words, culminating in a promise of responsibility and a warm embrace.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Judy",
+              "expression": "surprised",
+              "pose": "leaning"
+            },
+            {
+              "name": "Nick",
+              "expression": "affectionate",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Nick kisses Judy"
+            ],
+            "dialogue": [
+              "That so"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "Nick kisses Judy on the cheek, and Judy seems surprised."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Judy",
+              "expression": "flustered",
+              "pose": "embraced"
+            },
+            {
+              "name": "Nick",
+              "expression": "smiling",
+              "pose": "embracing"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Nick hugs Judy",
+              "Nick kisses Judy"
+            ],
+            "dialogue": [
+              "Whoops, that's right",
+              "Well then, Judy,"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "Nick hugs and kisses Judy, who appears flustered."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Judy",
+              "expression": "touched",
+              "pose": "embraced"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Judy is embraced"
+            ],
+            "dialogue": [
+              "I'm honored",
+              "But don't forget you're my hero, too"
+            ],
+            "emotion": "touched"
+          },
+          "text_elements": [],
+          "summary": "Judy is touched by Nick's words."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Nick",
+              "expression": "sincere",
+              "pose": "embracing"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Nick embraces Judy"
+            ],
+            "dialogue": [
+              "Well then, there's no mistake here",
+              "Isn't it usually the heroine who says that?",
+              "When it comes to that line with that meaning",
+              "Because you're my hero!"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "Nick tells Judy that she is his hero."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Judy",
+              "expression": "smiling",
+              "pose": "embraced"
+            },
+            {
+              "name": "Nick",
+              "expression": "content",
+              "pose": "embracing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "luggage",
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Nick hugs Judy"
+            ],
+            "dialogue": [
+              "I'll take your responsibility!"
+            ],
+            "emotion": "loving"
+          },
+          "text_elements": [],
+          "summary": "Nick promises to take responsibility."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\The Midnight Incident (Mitsuharu Nene) - E-Hentai Galleries\\5.webp",
+      "summary": "The character is watching something on his phone and is very upset by it, expressing disbelief and distress. He is surrounded by chip bags and is clearly having a hard time watching whatever is on the screen.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "distressed",
+              "pose": "sitting, hugging self"
+            }
+          ],
+          "setting": {
+            "location": "couch",
+            "background_elements": [
+              "chip bag"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "watching something on phone",
+              "expressing distress",
+              "sitting on couch"
+            ],
+            "dialogue": [
+              "The next day",
+              "Huh??",
+              "Why did it end up like this?",
+              "So suddenly??",
+              "What was the point of everything till now",
+              "What are you showing me",
+              "Can I stop watching already?",
+              "No watch till the end",
+              "*Haaaah*",
+              "I can't do this...",
+              "Already doesn't want to watch"
+            ],
+            "emotion": "distress"
+          },
+          "text_elements": [
+            "パサ..."
+          ],
+          "summary": "The character is very upset by something they are watching on their phone and questions the purpose of it all, stating they can't continue watching."
+        }
+      ]
+    }
+  ]
+}

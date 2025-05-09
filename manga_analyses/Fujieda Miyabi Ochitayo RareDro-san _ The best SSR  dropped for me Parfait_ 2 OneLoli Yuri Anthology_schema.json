@@ -1,0 +1,892 @@
+{
+  "manga_name": "[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)",
+  "summary": "A cute story about girls playing gacha games, dealing with jealousy and sharing affection.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\0.webp",
+      "summary": "A girl is playing a mobile game with her friend, hoping to get an SSR character, but is disappointed by the results.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Divine Crusade!",
+              "It's over!"
+            ],
+            "emotion": "Excited"
+          },
+          "text_elements": [],
+          "summary": "The characters are playing a mobile game, and the battle is over."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "Annoyed",
+              "pose": "Sitting"
+            },
+            {
+              "name": "Girl",
+              "expression": "Hopeful",
+              "pose": "Sitting"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": [
+              "Bed",
+              "Pillows"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Playing a game",
+              "Getting results"
+            ],
+            "dialogue": [
+              "Yay! A treasure chest.",
+              "Did I get it? Do I get the SSR now?",
+              "Too bad.",
+              "It's just another trash R."
+            ],
+            "emotion": "Disappointed"
+          },
+          "text_elements": [],
+          "summary": "The girls are playing a mobile game, and the younger girl is disappointed that she didn't get the desired SSR character."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Fujieda Miyabi",
+              "expression": "Happy",
+              "pose": "Sitting"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Got lucky"
+            ],
+            "dialogue": [
+              "The best SSR ★ dropped for me."
+            ],
+            "emotion": "Excited"
+          },
+          "text_elements": [],
+          "summary": "Fujieda Miyabi is happy because she got the best SSR in a game."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\1.webp",
+      "summary": "The girls are playing a game, and one is complaining about getting bad drops, while another is luckier.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Terasa",
+              "expression": "happy",
+              "pose": "looking down"
+            },
+            {
+              "name": "Minato",
+              "expression": "sad",
+              "pose": "looking up"
+            }
+          ],
+          "setting": {
+            "location": "inferred",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "complaining about getting bad drops",
+              "feeling lucky"
+            ],
+            "dialogue": [
+              "Why do I keep getting such lame Rs?!",
+              "We've been farming this raid for over a week!",
+              "You got the SSR drop at least, Terasu. You're so lucky!"
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [],
+          "summary": "Terasu is happy about getting an SSR drop, while Minato complains about getting only Rs."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Anime Character",
+              "expression": "encouraging",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "inferred",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "encouraging the player"
+            ],
+            "dialogue": [
+              "You'll get lucky eventually! Keep trying!",
+              "Geez- You don't have to say it! I already know!"
+            ],
+            "emotion": "encouraging"
+          },
+          "text_elements": [],
+          "summary": "An anime character encourages the player to keep trying."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Anime Character",
+              "expression": "happy",
+              "pose": "reaching out"
+            }
+          ],
+          "setting": {
+            "location": "inferred",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "encouraging the player"
+            ],
+            "dialogue": [
+              "Yes! Master!"
+            ],
+            "emotion": "encouraging"
+          },
+          "text_elements": [
+            "Try Again",
+            "Yes"
+          ],
+          "summary": "Another anime character encourages the player."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Minato",
+              "expression": "upset",
+              "pose": "looking at her phone"
+            }
+          ],
+          "setting": {
+            "location": "inferred",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "feeling frustrated"
+            ],
+            "dialogue": [
+              "You aren't getting anything better than Rs though, your luck really sucks, Minato.",
+              "I had to run this raid like 30 times to get it though..."
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [],
+          "summary": "Minato is upset about her bad luck in the game."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Minato",
+              "expression": "shocked",
+              "pose": "looking at a tablet"
+            },
+            {
+              "name": "Anime Character",
+              "expression": "neutral",
+              "pose": "on the tablet"
+            }
+          ],
+          "setting": {
+            "location": "inferred",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at a tablet"
+            ],
+            "dialogue": [
+              "...Hmph."
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [
+            "Ah!?"
+          ],
+          "summary": "Minato is shocked by something she sees on a tablet."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Terasa",
+              "expression": "pouting",
+              "pose": "looking down"
+            },
+            {
+              "name": "Minato",
+              "expression": "pouting",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "inferred",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "pouting"
+            ],
+            "dialogue": [],
+            "emotion": "annoyed"
+          },
+          "text_elements": [
+            "Pout"
+          ],
+          "summary": "Terasu and Minato are both pouting."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\2.webp",
+      "summary": "The girl being hugged admits she doesn't hate hugs particularly, but feels awkward. She also asks to be treated appropriately as a girlfriend.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "crouching"
+            },
+            {
+              "name": "Girl",
+              "expression": "excited",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being hugged",
+              "thinking"
+            ],
+            "dialogue": [
+              "I don't particularly hate hugging... but...",
+              "Aaah! Wait! I'll try it 30 more times! I'll try it don't 100 more times! run away~! Let me hug you~!"
+            ],
+            "emotion": "awkward"
+          },
+          "text_elements": [],
+          "summary": "A girl is being enthusiastically hugged by another girl, while thinking she doesn't hate hugs, but it's awkward."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "embarrassed",
+              "pose": "looking down"
+            },
+            {
+              "name": "Girl",
+              "expression": "angry",
+              "pose": "tapping phone"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "apologizing",
+              "tapping phone"
+            ],
+            "dialogue": [
+              "I-I was too focused on the game so I just blurted that out...",
+              "Agh!",
+              "Wait!",
+              "...calling me master...",
+              "Hmph"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "tap tap"
+          ],
+          "summary": "One girl is embarrassed for something she said, while the other is upset about being called 'master'."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Terasu",
+              "expression": "apologetic",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "apologizing"
+            ],
+            "dialogue": [
+              "I'm sorry~!",
+              "Terasu."
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "Terasu apologizes for something."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "annoyed",
+              "pose": "holding phone"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding phone"
+            ],
+            "dialogue": [
+              "If we're girlfriends, then treat me appropriately, okay?"
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "A girl asks to be treated appropriately as a girlfriend."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\3.webp",
+      "summary": "Tarasu is forgiving and invites the other girls to come to her. One of the girls gets to lay in Tarasu's lap.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "invites someone to come",
+              "pats lap"
+            ],
+            "dialogue": [
+              "Now come here."
+            ],
+            "emotion": "inviting"
+          },
+          "text_elements": [
+            "pat",
+            "pat"
+          ],
+          "summary": "A girl invites someone to come over and pats her lap."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Tarasu",
+              "expression": "content",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "forgives"
+            ],
+            "dialogue": [
+              "...I forgive you."
+            ],
+            "emotion": "forgiving"
+          },
+          "text_elements": [],
+          "summary": "Tarasu forgives someone."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "tries again"
+            ],
+            "dialogue": [
+              "...Try again."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "A girl says they will try again."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "My legs will go numb before that."
+            ],
+            "emotion": "resigned"
+          },
+          "text_elements": [],
+          "summary": "A girl says her legs will go numb before that."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "laying down"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "laying in someone's lap"
+            ],
+            "dialogue": [
+              "If I'm here then that battle will be easy-peasy, even if we have to do it 50 times!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "A girl is laying in someone's lap and says it will be easy."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "excited"
+            ],
+            "dialogue": [
+              "Yaaay! Tarasu's lap!♪"
+            ],
+            "emotion": "joyful"
+          },
+          "text_elements": [
+            "ば",
+            "びく"
+          ],
+          "summary": "A girl is excited to be in Tarasu's lap."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\4.webp",
+      "summary": "A group of friends is playing a mobile game, and one of them is having incredible luck, while the others are not. One girl wishes she could share her luck.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "disappointed",
+              "pose": "leaning"
+            },
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "sitting"
+            },
+            {
+              "name": "Girl",
+              "expression": "unsure",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "playing mobile game",
+              "expressing frustration",
+              "sighing"
+            ],
+            "dialogue": [
+              "I'm sorry.",
+              "Aaargh! I didn't get anything good again! Terasu, you're so lucky!",
+              "Ah... I got an SSR.",
+              "This is the 5th time in a row, right? Ah, the boss died. That was fast.",
+              "If it keeps going like this, it won't take long to get to 100 wins...",
+              "Wow~ The boss' HP is going down quite fast~!"
+            ],
+            "emotion": "jealousy"
+          },
+          "text_elements": [
+            "Sigh~~~...",
+            "4414",
+            "319",
+            "4115744",
+            "5120"
+          ],
+          "summary": "One girl is frustrated with the mobile game as another gets an SSR. The boss' HP is going down fast."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "hopeful",
+              "pose": "small smile"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "wishing"
+            ],
+            "dialogue": [
+              "... but you know... maybe...",
+              "It would be nice if there was a way to share my luck with you."
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [
+            "ぴょ"
+          ],
+          "summary": "A girl wishes she could share her luck with her friends."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\5.webp",
+      "summary": "A girl explains her luck with SSR drops, while another girl lies on the floor.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "lying down",
+              "pose": "lying"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "lying down",
+              "said"
+            ],
+            "dialogue": [
+              "Naah~",
+              "No, I'm totally not an SSR or such..."
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [
+            "ひらひら"
+          ],
+          "summary": "A girl lying on the floor denies being an SSR."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "said"
+            ],
+            "dialogue": [
+              "Perhaps I used up all my luck when I got the ultimate supreme SSR terasu drop."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "A girl explains that she used all her luck."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "said"
+            ],
+            "dialogue": [
+              "Regarding my luck with SSR drops...",
+              "...If that was true, then I should only get trash drops too."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A girl says her luck with SSR drops means she should only get trash drops."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\6.webp",
+      "summary": "A girl hugs another girl, expressing her affection and calling her the cutest SSR ever dropped for her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "affectionate",
+              "pose": "hugging"
+            },
+            {
+              "name": "Girl",
+              "expression": "blushing",
+              "pose": "embraced"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "hugging",
+              "embracing"
+            ],
+            "dialogue": [
+              "...don't say that.",
+              "You're the cutest ssr that has ever dropped for me."
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "A girl affectionately hugs another, calling her the cutest SSR ever."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\7.webp",
+      "summary": "Two girls are snuggling, one expressing her bliss at the moment. The other girls are playing a gacha game, complaining about the need to farm for SSR characters and the garbage they get.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "blissful",
+              "pose": "snuggling"
+            },
+            {
+              "name": "Girl",
+              "expression": "content",
+              "pose": "snuggling"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "hearts"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "snuggling",
+              "expressing bliss"
+            ],
+            "dialogue": [
+              "i'm in such aaaw~ bliss right now that i'd be okay with never getting a single ssr again."
+            ],
+            "emotion": "blissful"
+          },
+          "text_elements": [
+            "きゅ",
+            "きゅ"
+          ],
+          "summary": "One girl is snuggling another and expressing her bliss."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "annoyed",
+              "pose": "playing game"
+            },
+            {
+              "name": "Girl",
+              "expression": "irritated",
+              "pose": "playing game"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "playing gacha game",
+              "complaining"
+            ],
+            "dialogue": [
+              "...that's no good.",
+              "if we play together, that would make me quite troubled.",
+              "eh? well then, it might be better if i don't get it...",
+              "baka",
+              "you're not going home today until you get an ssr.",
+              "hauuu?! just how much do i have to farm?",
+              "ah! another treasure chest! this is the power of love!",
+              "oh you just got an sr. it's still garbage, but it's a bit better than before."
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [
+            "き",
+            "き",
+            "きゃい",
+            "きゃい"
+          ],
+          "summary": "Two girls are playing a gacha game and complaining about not getting an SSR."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "image_path": "./manga_images\\[Fujieda Miyabi] Ochitayo RareDro-san _ The best SSR ★ dropped for me (Parfait_ 2 OneLoli Yuri Anthology)\\8.png",
+      "summary": "This page is a staff list for the translation and editing of the manga.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "white background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "informative"
+          },
+          "text_elements": [
+            "THE BEST SSR DROPPED FOR ME BY FUJIEDA MIYABI",
+            "TRANSLATING SORA",
+            "CLEANING & REDRAWING & TYPESETTING SU-47 BERKUTIE",
+            "EDITING FLYFUNGUS, SU-47 BERKUTIE, ASHNANODESU",
+            "PROOFREADING & QUALITY CHECK FLYFUNGUS",
+            "Tabunne Scans",
+            "CHECK OUT THE NEW WEBSITE~! TABUNNE.MANGADEX.COM",
+            "DISCORD.ME/TABUNNESCANS",
+            "KO-FI.COM/TABUNNESCANS"
+          ],
+          "summary": "This panel lists the staff members involved in translating and editing the manga."
+        }
+      ]
+    }
+  ]
+}

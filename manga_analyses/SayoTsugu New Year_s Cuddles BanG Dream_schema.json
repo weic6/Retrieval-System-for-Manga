@@ -1,0 +1,422 @@
+{
+  "manga_name": "SayoTsugu New Year_s Cuddles (BanG Dream!)",
+  "summary": "A heartwarming glimpse into Sayo and Tsugumi's intimate New Year's morning, filled with cuddles, affection, and quiet moments of connection as they wake up and share the first day of the year together.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\SayoTsugu New Year_s Cuddles (BanG Dream!)\\0.webp",
+      "summary": "The scene opens with Sayo and Tsugumi waking up on New Year's morning. Tsugumi checks her phone while Sayo is still asleep, and then Tsugumi asks Sayo if she is awake.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Tsugumi",
+              "expression": "neutral",
+              "pose": "lying down"
+            },
+            {
+              "name": "Sayo",
+              "expression": "sleeping",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "pillow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Tsugumi checks her phone in bed while Sayo sleeps"
+            ],
+            "dialogue": [],
+            "emotion": "peaceful"
+          },
+          "text_elements": [],
+          "summary": "Tsugumi is checking her phone while Sayo is sleeping."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Sayo",
+              "expression": "sleeping",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Sayo mumbles in her sleep"
+            ],
+            "dialogue": [
+              "Mmm..."
+            ],
+            "emotion": "peaceful"
+          },
+          "text_elements": [],
+          "summary": "Sayo mumbles in her sleep."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Tsugumi",
+              "expression": "smiling",
+              "pose": "sitting up"
+            },
+            {
+              "name": "Sayo",
+              "expression": "sleepy",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "pillow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Tsugumi asks Sayo if she is awake",
+              "Sayo answers"
+            ],
+            "dialogue": [
+              "Sayo-san, are you awake?",
+              "Yeah..."
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "Tsugumi asks Sayo if she is awake and Sayo replies."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\SayoTsugu New Year_s Cuddles (BanG Dream!)\\1.webp",
+      "summary": "A couple is in bed on New Year's day. One of them rolls over and asks the other if they were waiting long, then they cuddle and wish each other a happy new year.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Tsugumi Hazawa",
+              "expression": "sleepy",
+              "pose": "lying down"
+            },
+            {
+              "name": "Sayo Hikawa",
+              "expression": "sleepy",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "pillows",
+              "blanket"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "rolling over",
+              "asking a question"
+            ],
+            "dialogue": [
+              "Were you waiting long?"
+            ],
+            "emotion": "sleepy"
+          },
+          "text_elements": [
+            "ROLL!"
+          ],
+          "summary": "Tsugumi rolls over and asks Sayo if she was waiting long."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Tsugumi Hazawa",
+              "expression": "sleeping",
+              "pose": "lying down"
+            },
+            {
+              "name": "Sayo Hikawa",
+              "expression": "sleeping",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "pillows",
+              "blanket"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [],
+            "emotion": "peaceful"
+          },
+          "text_elements": [
+            "KISS-"
+          ],
+          "summary": "Sayo kisses Tsugumi while she is sleeping."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Tsugumi Hazawa",
+              "expression": "smiling",
+              "pose": "cuddling"
+            },
+            {
+              "name": "Sayo Hikawa",
+              "expression": "smiling",
+              "pose": "cuddling"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "pillows",
+              "blanket"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "cuddling",
+              "wishing someone a happy new year"
+            ],
+            "dialogue": [
+              "Happy new year!"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "EHEHE~"
+          ],
+          "summary": "Tsugumi and Sayo cuddle and wish each other a happy new year."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\SayoTsugu New Year_s Cuddles (BanG Dream!)\\2.webp",
+      "summary": "Tsugumi gets headpats from Sayo and then Sayo kisses Tsugumi on the forehead.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Sayo",
+              "expression": "neutral",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "lying down"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Sayo is lying down and looking at someone."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Tsugumi",
+              "expression": "happy",
+              "pose": "lying down"
+            },
+            {
+              "name": "Sayo",
+              "expression": "neutral",
+              "pose": "touching head"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "pats Tsugumi's head",
+              "touches Tsugumi's head"
+            ],
+            "dialogue": [
+              "?"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [
+            "SWISH"
+          ],
+          "summary": "Sayo pats Tsugumi's head as she lies down."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Tsugumi",
+              "expression": "happy",
+              "pose": "embraced"
+            },
+            {
+              "name": "Sayo",
+              "expression": "gentle",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kisses Tsugumi on the forehead",
+              "embracing"
+            ],
+            "dialogue": [],
+            "emotion": "affectionate"
+          },
+          "text_elements": [
+            "KISS"
+          ],
+          "summary": "Sayo kisses Tsugumi on the forehead."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\SayoTsugu New Year_s Cuddles (BanG Dream!)\\3.webp",
+      "summary": "Sayo and Tsugu share a sweet moment together for the new year, exchanging affectionate words and cuddling in bed.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hazawa Tsugumi",
+              "expression": "happy",
+              "pose": "embracing"
+            },
+            {
+              "name": "Sayo",
+              "expression": "smiling",
+              "pose": "embracing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "embracing",
+              "tickling"
+            ],
+            "dialogue": [
+              "Happy new year to you too, Hazawa-san."
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [
+            "FUFU~",
+            "TICKLE",
+            "TICKLE"
+          ],
+          "summary": "Sayo and Tsugumi embrace and exchange new year greetings."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Sayo",
+              "expression": "affectionate",
+              "pose": "hugging"
+            },
+            {
+              "name": "Hazawa Tsugumi",
+              "expression": "smiling",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "blanket"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "cuddling",
+              "kissing",
+              "hugging"
+            ],
+            "dialogue": [
+              "Sayo-sa~n, it's already morning though~",
+              "Just for today, it should be fine."
+            ],
+            "emotion": "loving"
+          },
+          "text_elements": [
+            "Chu-"
+          ],
+          "summary": "Sayo kisses Tsugumi, who mentions it's morning, but Sayo wants to continue cuddling."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\SayoTsugu New Year_s Cuddles (BanG Dream!)\\4.webp",
+      "summary": "The page is a title page with the title \"SAYOTSUGU NEW YEAR'S CUDDLES\" and credits for the translator, typesetter, redrawer, and QC.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "blanket",
+              "bed"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "feet cuddling under a blanket"
+            ],
+            "dialogue": [
+              "How are their feet not freezing?"
+            ],
+            "emotion": "cozy"
+          },
+          "text_elements": [],
+          "summary": "Two people's feet are shown cuddling under a blanket, with a question about how their feet are not freezing."
+        }
+      ]
+    }
+  ]
+}

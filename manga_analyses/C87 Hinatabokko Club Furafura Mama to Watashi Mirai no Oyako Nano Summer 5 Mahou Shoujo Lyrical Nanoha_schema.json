@@ -1,0 +1,1063 @@
+{
+  "manga_name": "(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)",
+  "summary": "This manga tells a story about the relationship between a mother and daughter, Nanoha and Vivio. Vivio struggles with feelings of inadequacy and wanting to live up to her mother's strength and expectations. The story explores their bond, insecurities, and ultimately, their acceptance and love for each other, culminating in Vivio's determination to protect what's important to her, just like her mother.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\0.webp",
+      "summary": "Vivio is upset that she lost to Nanoha ten times in a row, but Nanoha comforts her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Vivio",
+              "expression": "concerned",
+              "pose": "standing"
+            },
+            {
+              "name": "Nanoha",
+              "expression": "embarrassed",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "conversing"
+            ],
+            "dialogue": [
+              "Don't be like that, you were very strong",
+              "I lost to Mama even though she's younger than me..."
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [
+            "ずん"
+          ],
+          "summary": "Vivio is comforted by Nanoha after a loss."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Vivio",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Nanoha",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "B... but I wasn't able to land a hit...",
+              "Your skills were straightforward and beautiful",
+              "It was captivating"
+            ],
+            "emotion": "reassuring"
+          },
+          "text_elements": [],
+          "summary": "Vivio expresses her frustration, while Nanoha compliments her skills."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Nanoha",
+              "expression": "concerned",
+              "pose": "standing"
+            },
+            {
+              "name": "Vivio",
+              "expression": "sad",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "losing",
+              "talking"
+            ],
+            "dialogue": [
+              "Phew",
+              "I lost ten in a row?!"
+            ],
+            "emotion": "disappointed"
+          },
+          "text_elements": [],
+          "summary": "Nanoha is surprised by her losing streak."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Nanoha",
+              "expression": "comforting",
+              "pose": "petting head"
+            },
+            {
+              "name": "Vivio",
+              "expression": "looking up",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "comforting",
+              "petting"
+            ],
+            "dialogue": [
+              "Straightforward",
+              "I want you to stay that way, Vivio"
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [],
+          "summary": "Nanoha comforts Vivio, wanting her to stay the way she is."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\1.webp",
+      "summary": "The page shows a character, possibly Vivio, expressing sadness and frustration. Another character is running towards someone.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "unsure",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "standing",
+              "talking"
+            ],
+            "dialogue": [
+              "eh...?",
+              "...there's no way i can",
+              "stay that way..."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "A character seems unsure about something and says it's impossible to stay the way they are."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "determined",
+              "pose": "running"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "running",
+              "calling out"
+            ],
+            "dialogue": [
+              "ah! wait!"
+            ],
+            "emotion": "urgent"
+          },
+          "text_elements": [
+            "ダッ"
+          ],
+          "summary": "A character is running and calling out to someone."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Vivio",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "observing",
+              "calling out"
+            ],
+            "dialogue": [
+              "vivio.."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Vivio is standing and calling out another character's name."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "sad",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "crying",
+              "thinking"
+            ],
+            "dialogue": [
+              "i look up to mama... i want to be like you...",
+              "so to lose to mama even though i'm older...",
+              "that's not okay..."
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "A character is crying and expressing their desire to be like their mother."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\2.webp",
+      "summary": "The characters are discussing the performance of Vivio and Einhard, with some feeling inadequate while others try to offer support and perspective.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Vivi",
+              "expression": "sad",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "standing",
+              "talking"
+            ],
+            "dialogue": [
+              "...vivio-san",
+              "I'm... no good at all..."
+            ],
+            "emotion": "melancholy"
+          },
+          "text_elements": [
+            "ピク"
+          ],
+          "summary": "Vivi expresses her feelings of inadequacy."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "concerned",
+              "pose": "side view"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking",
+              "observing"
+            ],
+            "dialogue": [
+              "I think... you're probably wrong",
+              "Mama even had to give me fake praise",
+              "I wanted to show her how hard I'm working in the future, but with a result like that..."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "Another character contemplates Vivi's performance and their own efforts."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "serious",
+              "pose": "side view"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "speaking",
+              "observing"
+            ],
+            "dialogue": [
+              "To be honest, I didn't feel a very large gap in your power"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "A character states their honest opinion about Vivi's power level."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "serious",
+              "pose": "side view"
+            },
+            {
+              "name": "Einhard",
+              "expression": "confused",
+              "pose": "side view"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "questioning"
+            ],
+            "dialogue": [
+              "This is just what I took away from your match...",
+              "Einhard-san....?"
+            ],
+            "emotion": "pensive"
+          },
+          "text_elements": [],
+          "summary": "Einhard is addressed after a match, and her reaction is one of slight confusion."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\3.webp",
+      "summary": "The characters are having a conversation about the difference between their lives and the strength of a mother who had to fight terrible battles.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "The difference of your lives",
+              "Lives...?"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "A girl is contemplating the difference of their lives."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "angry",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "The difference between you is paper thin",
+              "B... But!",
+              "And that's probably..."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Two girls are having a discussion."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "And she wants that to continue to be true....",
+              "So for her, seeing your straight-forward and honest magic told her that in the future vivio-san had a happy life"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "A girl is talking about wanting the future to continue to be true."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "At your mother's current age she's had to fight with her life on the line, with everything on the line",
+              "That's what her strength comes from from having to fight in terrible battles"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "A girl is explaining that the strength of the mother comes from having to fight in terrible battles."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\4.webp",
+      "summary": "Einhard is holding Vivio's hand while declaring her feelings for her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "confused",
+              "pose": "side profile"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking",
+              "pondering"
+            ],
+            "dialogue": [
+              "eh?",
+              "... I understand how your mother feels"
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "A girl is confused while trying to understand someone's feelings."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl 1",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl 2",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "door",
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "standing",
+              "thinking"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Two girls standing in front of a door, both thinking"
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "blushing",
+              "pose": "holding hands"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding hands"
+            ],
+            "dialogue": [
+              "because I have also...",
+              "been attracted to Vivio-san's straight-forward, unwavering feelings",
+              "Einhard-san..."
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "A girl is holding another girl's hand and confessing her feelings."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\5.webp",
+      "summary": "A girl asks someone to talk to another person, and then the two girls talk, with one apologizing to the other.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "blushing",
+              "pose": "raising hand to face"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "agrees"
+            ],
+            "dialogue": [
+              "Yes!"
+            ],
+            "emotion": "agreeable"
+          },
+          "text_elements": [],
+          "summary": "A girl agrees to something."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "blushing",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "asks someone to talk to another person"
+            ],
+            "dialogue": [
+              "The way you did in your match with me",
+              "Please go talk to her once more, face her head on"
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [],
+          "summary": "A girl asks someone to talk to another person."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "trees",
+              "grass"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "shows a landscape with two small figures in the distance"
+            ],
+            "dialogue": [],
+            "emotion": "distant"
+          },
+          "text_elements": [],
+          "summary": "A distant shot of a landscape with two small figures."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "VIVIO",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "mountains"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "calls out to someone"
+            ],
+            "dialogue": [
+              "Vivio..."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "VIVIO calls out a name."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "MAMA",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "mountains"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "calls out to someone"
+            ],
+            "dialogue": [
+              "Mama..."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "MAMA calls out a name."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "MAMA",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "speaks"
+            ],
+            "dialogue": [
+              "Listen... Mama"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Mama speaks to someone."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "MAMA",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "grass"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "apologizes"
+            ],
+            "dialogue": [
+              "Nuh-uh",
+              "I was wrong to get upset, I didn't think about your feelings..."
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "Mama apologizes for getting upset."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "VIVIO",
+              "expression": "sad",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "grass"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "apologizes"
+            ],
+            "dialogue": [
+              "I'm sorry about before, I..."
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "VIVIO apologizes for something."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\6.webp",
+      "summary": "Vivio states she wants to become strong to protect those she cares about, like her Mama. She acknowledges that she can't stay the way her Mama wanted, but she can't help it since she's her daughter.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Vivio",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "watching"
+            ],
+            "dialogue": [
+              "Vivio..."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Vivio is watching someone with a concerned expression."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Vivio",
+              "expression": "determined",
+              "pose": "clenched fist"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "expressing resolve"
+            ],
+            "dialogue": [
+              "I want to be able to fight so that I can protect the people I care about",
+              "Because I want to be strong like Mama",
+              "Like the Mama who protected my happiness",
+              "I don't think I can stay like this, the way that you wanted"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Vivio expresses her desire to be strong like her Mama to protect others, indicating a change in her desired path."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Vivio",
+              "expression": "sad",
+              "pose": "clenched fist"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "crying"
+            ],
+            "dialogue": [
+              "I can't help it, can I?",
+              "I'm your daughter, after all"
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Vivio cries and acknowledges that she can't help her actions."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Unclear",
+              "expression": "unclear",
+              "pose": "unclear"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "responding"
+            ],
+            "dialogue": [
+              "Yeah..."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "ツ"
+          ],
+          "summary": "Someone responds with 'Yeah...'"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\7.webp",
+      "summary": "A mother and daughter are having a heartfelt conversation. The daughter expresses her gratitude and love for her mother, even if their memories might fade.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "annoyed",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "sad",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "tree",
+              "grass"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talked",
+              "expressed annoyance",
+              "showed concern"
+            ],
+            "dialogue": [
+              "Ahaha...",
+              "I don't want to hear that from mama",
+              "...but don't do anything too dangerous, you'll make me worry"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "A girl expresses annoyance at her mother's concern for her safety, while the mother expresses her worries."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "blushing",
+              "pose": "hugging"
+            },
+            {
+              "name": "Girl",
+              "expression": "closed eyes",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "embraced",
+              "expressed happiness",
+              "showed gratitude"
+            ],
+            "dialogue": [
+              "Thank you",
+              "I'm so happy that my future self had such a wonderful daughter"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A girl hugs her mother and expresses her happiness at having her as a daughter."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "closed eyes",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "expressed desire",
+              "conveyed finality"
+            ],
+            "dialogue": [
+              "I want to say",
+              "That's what"
+            ],
+            "emotion": "loving"
+          },
+          "text_elements": [],
+          "summary": "The girl wants to express her feelings of gratitude."
+        },
+        {
+          "panel_id": "4",
+          "characters": [],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "expressed gratitude",
+              "acknowledged memory loss"
+            ],
+            "dialogue": [
+              "Thank you, mama",
+              "Even if these memories disappear"
+            ],
+            "emotion": "grateful"
+          },
+          "text_elements": [],
+          "summary": "The girl expresses her gratitude to her mother, even if their memories might disappear."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "image_path": "./manga_images\\(C87) [Hinatabokko Club (Furafura)] Mama to Watashi Mirai no Oyako (Nano Summer 5) (Mahou Shoujo Lyrical Nanoha)\\8.jpg",
+      "summary": "The image is an advertisement for a translation service called Tigoris Translates.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "advertisement",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "To commission a translation go to: www.TigorisTranslates.com"
+            ],
+            "emotion": "informational"
+          },
+          "text_elements": [
+            "翻訳",
+            "サービス"
+          ],
+          "summary": "An advertisement for a translation service."
+        }
+      ]
+    }
+  ]
+}

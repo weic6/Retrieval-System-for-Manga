@@ -1,0 +1,785 @@
+{
+  "manga_name": "[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)",
+  "summary": "A sweet and wholesome Lycoris Recoil fan comic about Chisato and Takina having a cozy movie night together. They gather snacks, get comfortable, and enjoy each other's company, showcasing their close and affectionate relationship.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)\\0.webp",
+      "summary": "Two girls are shown sitting together with a bag of popcorn, presumably about to watch a movie. The image is from a Lycoris Recoil fan book and depicts them dating.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "bed",
+              "tree"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sitting",
+              "holding popcorn"
+            ],
+            "dialogue": [],
+            "emotion": "content"
+          },
+          "text_elements": [
+            "Lycoris Recoil Fan Book",
+            "This is a manga where they're dating!",
+            "POPC-",
+            "映画を観よう",
+            "energia"
+          ],
+          "summary": "Two girls sit together on a bed, holding a bag of popcorn and preparing to watch a movie."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)\\1.webp",
+      "summary": "Two girls prepare to watch a movie at home, one girl excitedly holds popcorn and says she is ready to watch a movie. The other girl questions why they are not going to the theater, but is convinced to watch a movie at home.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "indoor",
+            "background_elements": [
+              "snacks",
+              "table",
+              "drinks"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "A table with snacks and drinks is seen."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding popcorn"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding popcorn",
+              "speaking"
+            ],
+            "dialogue": [
+              "When watching movies, you gotta have popcorn!",
+              "I've got it ready, so let's watch a movie."
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "A girl excitedly holds popcorn and says she is ready to watch a movie."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": [
+              "couch",
+              "window",
+              "tree"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sitting",
+              "questioning"
+            ],
+            "dialogue": [
+              "We're not going to the theater to watch this?",
+              "Putting that aside, the movie we're watching today is having a revival screening right now."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "A girl questions why they are not going to the theater to watch the movie."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Girl",
+              "expression": "closed eyes",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": [
+              "couch",
+              "blanket"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sitting",
+              "agreeing"
+            ],
+            "dialogue": [
+              "I'm in the mood for home theater this time around.",
+              "Down we go."
+            ],
+            "emotion": "relaxed"
+          },
+          "text_elements": [],
+          "summary": "Two girls sit together on a couch, one agreeing to watch a movie at home."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)\\2.webp",
+      "summary": "Two girls are preparing to watch a movie at home, gathering snacks and drinks.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "home",
+            "background_elements": [
+              "TV",
+              "TV stand"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "discussing the lighting for watching a movie"
+            ],
+            "dialogue": [
+              "We've got the lighting, which is just a little bit bright as opposed to being pitch black."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "The scene shows a TV and discusses the lighting is not completely dark."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "home",
+            "background_elements": [
+              "popcorn"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "discussing having popcorn for the movie"
+            ],
+            "dialogue": [
+              "We've got the popcorn that you can't watch a movie without."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [
+            "POPC",
+            "ポップコーンしょ"
+          ],
+          "summary": "The scene shows a bag of popcorn and mentions that you can't watch a movie without it."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "home",
+            "background_elements": [
+              "coffee",
+              "sweets"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "discussing having coffee and sweets for the movie"
+            ],
+            "dialogue": [
+              "We've got the coffee and sweets that sensei recommended."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "The scene shows coffee and sweets, mentioning that they were recommended."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "content",
+              "pose": "lying down"
+            },
+            {
+              "name": "Girl",
+              "expression": "relaxed",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "home",
+            "background_elements": [
+              "blanket",
+              "pillow",
+              "tree"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "preparing to watch a movie"
+            ],
+            "dialogue": [
+              "...and..."
+            ],
+            "emotion": "cozy"
+          },
+          "text_elements": [],
+          "summary": "Two girls are lying down under a blanket, preparing to watch a movie."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)\\3.webp",
+      "summary": "Two girls are sitting together in bed, one commenting on their intimate closeness. The other girl looks down bashfully.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "pillow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sitting together in bed",
+              "embracing"
+            ],
+            "dialogue": [
+              "Who needs premium seating when you've got special seats like these?"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "Two girls are sitting together in bed, one commenting on their intimate closeness."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "bashful",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking down"
+            ],
+            "dialogue": [],
+            "emotion": "bashful"
+          },
+          "text_elements": [],
+          "summary": "The other girl looks down bashfully."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)\\4.webp",
+      "summary": "Two girls watch a love scene in a movie and begin to get emotional. One of the girls wants attention from the other.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "lying down"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "living room",
+            "background_elements": [
+              "TV",
+              "couch"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "watching TV"
+            ],
+            "dialogue": [
+              "right~?"
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Two girls are watching a movie on a couch."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "lying down"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "living room",
+            "background_elements": [
+              "table",
+              "cups"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "watching TV"
+            ],
+            "dialogue": [
+              "can't argue with that."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "The other girl agrees with the scene in the movie."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "leaning in"
+            },
+            {
+              "name": "Takina",
+              "expression": "unimpressed",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "living room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "leaning",
+              "asking"
+            ],
+            "dialogue": [
+              "taki- naa, me too~"
+            ],
+            "emotion": "emotional"
+          },
+          "text_elements": [
+            "ポチ"
+          ],
+          "summary": "One girl asks Takina for attention."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "embarrassed",
+              "pose": "standing"
+            },
+            {
+              "name": "Takina",
+              "expression": "surprised",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "living room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "blushing",
+              "watching"
+            ],
+            "dialogue": [
+              "that's quite the love scene..."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Takina comments on the love scene."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)\\5.webp",
+      "summary": "Chisato and Takina enjoy a movie together and express their enjoyment of the special seats. Later, Takina reaches into a container.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Takina",
+              "expression": "smiling",
+              "pose": "side-by-side"
+            },
+            {
+              "name": "Chisato",
+              "expression": "smiling",
+              "pose": "side-by-side"
+            }
+          ],
+          "setting": {
+            "location": "Unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "smiling"
+            ],
+            "dialogue": [
+              "Hehe."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Takina and Chisato are smiling and laughing at something."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Takina",
+              "expression": "smiling",
+              "pose": "kissing"
+            },
+            {
+              "name": "Chisato",
+              "expression": "smiling",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "Unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "Takina and Chisato share a kiss."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Takina",
+              "expression": "smiling",
+              "pose": "sitting"
+            },
+            {
+              "name": "Chisato",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "movie theater",
+            "background_elements": [
+              "seats"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sitting"
+            ],
+            "dialogue": [
+              "These special seats are awesome~",
+              "Yes.",
+              "They really are."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Takina and Chisato are sitting in special seats at the movie theater."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Takina",
+              "expression": "neutral",
+              "pose": "reaching"
+            }
+          ],
+          "setting": {
+            "location": "Unknown",
+            "background_elements": [
+              "container"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "reaching"
+            ],
+            "dialogue": [
+              "Ah- that was fun."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "Takina is reaching into a container."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)\\6.webp",
+      "summary": "Chisato suggests watching another movie, and Takina agrees while planning snacks and tea.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Chisato",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "suggests watching another movie"
+            ],
+            "dialogue": [
+              "Chisato.",
+              "Shall we put on another movie?"
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "Chisato suggests they watch another movie."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Takina",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "agrees to watch another movie"
+            ],
+            "dialogue": [
+              "Sounds great!",
+              "A double feature!"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Takina agrees with enthusiasm."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Takina",
+              "expression": "determined",
+              "pose": "standing"
+            },
+            {
+              "name": "Chisato",
+              "expression": "surprised",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "cityscape at night",
+            "background_elements": [
+              "buildings",
+              "stars"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "plans refreshments"
+            ],
+            "dialogue": [
+              "But first, let's stock up on refreshments.",
+              "I'll slice up some cheese then.",
+              "And some fresh ham.",
+              "Are you a genius, Takina?",
+              "That's the stuff that makes you wanna drink wine.",
+              "I'll put on some tea to go with it.",
+              "I can't drink, though"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "Fufu"
+          ],
+          "summary": "Takina enthusiastically plans snacks and tea for the movie."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[Energia (Pikachi)] Eiga o Miyou _ Let_s Watch a Movie (Lycoris Recoil)\\7.webp",
+      "summary": "Two girls are watching a movie, one is clinging to the other who finds it cute. The page also includes information about upcoming events and credits.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "worried",
+              "pose": "sitting"
+            },
+            {
+              "name": "Girl",
+              "expression": "content",
+              "pose": "clinging"
+            }
+          ],
+          "setting": {
+            "location": "movie theater",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "watching movie",
+              "clinging"
+            ],
+            "dialogue": [
+              "Regardless of whether it's horror, romance or action, the way she clings onto me every time we watch those films is way too cute, isn't it?"
+            ],
+            "emotion": "cute"
+          },
+          "text_elements": [
+            "ガシャアマン",
+            "!!"
+          ],
+          "summary": "Two girls are watching a movie, one clinging to the other."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "white background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "provide information"
+            ],
+            "dialogue": [],
+            "emotion": "informative"
+          },
+          "text_elements": [
+            "Extra",
+            "■次回参加予定イベント",
+            "・2023年3月19日(日)",
+            "Girls Love Festival37 内併催リコリス・リコイルオンリーイベント『リリリ#2』",
+            "・2023年5月5日(金/祝)",
+            "COMITIA144 創作百合",
+            "■プチあとがき",
+            "1月中旬から下旬にかけてコロナでダウンしていて、予想以上に原稿できなくて",
+            "ギリギリやっとこさの8P折り本だったので、次回のGLFでは今回出せなかった",
+            "描きたい話があるので、その辺りの新刊を出せたらと思います!",
+            "皆様も体調などなどお気をつけて･･･!",
+            "また次回イベントで元気にお会いできましたら幸いです。2023.2.18 ぴかち",
+            "余談ですが、今回のネタ元は古内東子さんの「映画を観よう」です。",
+            "そのままです。とてもいい曲なので機会がありましたら是非。",
+            "『映画を観よう』",
+            "発行者: えねるぎあ/ぴかち",
+            "発行日:2023. 2. 18",
+            "発行イベント: 私は君と会えて",
+            "連絡先:pikachi_p@hotmail.com",
+            "Twitter: @pikachi_"
+          ],
+          "summary": "The panel provides information about upcoming events and credits."
+        }
+      ]
+    }
+  ]
+}

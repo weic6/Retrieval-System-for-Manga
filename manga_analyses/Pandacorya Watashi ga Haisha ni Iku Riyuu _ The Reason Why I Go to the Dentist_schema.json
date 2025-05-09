@@ -1,0 +1,565 @@
+{
+  "manga_name": "[Pandacorya] Watashi ga Haisha ni Iku Riyuu _ The Reason Why I Go to the Dentist",
+  "summary": "A woman develops a crush on her dentist, finding her attractive and the dental examination a somewhat erotic experience. The dentist suspects the patient's lewd thoughts and is not entirely unaffected. The patient decides she needs to develop cavities to return for more visits.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Pandacorya] Watashi ga Haisha ni Iku Riyuu _ The Reason Why I Go to the Dentist\\0.webp",
+      "summary": "A woman enjoys going to the dentist, because she finds the dentist attractive. The dentist begins to check her teeth.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "sitting"
+            },
+            {
+              "name": "Dentist",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": [
+              "dental equipment",
+              "chair"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "sitting",
+              "holding clipboard"
+            ],
+            "dialogue": [
+              "I love going to this dentist.",
+              "I'll be in your care!",
+              "Alright",
+              "Let's begin then, shall we?"
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [
+            "5",
+            "T/N: DENTIST"
+          ],
+          "summary": "A woman tells the dentist that she loves going to her office, and the dentist tells her that they can begin."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Dentist",
+              "expression": "neutral",
+              "pose": "leaning over patient"
+            },
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": [
+              "dental equipment",
+              "sink"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "checking teeth",
+              "lying down",
+              "blushing"
+            ],
+            "dialogue": [
+              "The reason is",
+              "because she's",
+              "She's touching me...",
+              "I'll check your teeth one by one.",
+              "such a beauty"
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [
+            "BA-DUMP",
+            "BA-DUMP",
+            "BA-DUMP",
+            "BA-DUMP"
+          ],
+          "summary": "The woman thinks about how beautiful the dentist is as she checks her teeth."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Dentist",
+              "expression": "serious",
+              "pose": "leaning in"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "examining patient",
+              "giving instructions"
+            ],
+            "dialogue": [
+              "You need to open your mouth wider.",
+              "Open up",
+              "More."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "The dentist tells the woman to open her mouth wider."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Pandacorya] Watashi ga Haisha ni Iku Riyuu _ The Reason Why I Go to the Dentist\\1.webp",
+      "summary": "A woman believes having a beautiful lady dentist is erotic while she is being examined. Her heart beats rapidly as she is questioned about why she let her teeth become like this.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Dentist",
+              "expression": "smirking",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "If you think about it",
+              "Having a gorgeous lady",
+              "I always believed this, but"
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [
+            "clank",
+            "peek"
+          ],
+          "summary": "The dentist is examining the patient and the patient is thinking about how having a gorgeous lady dentist is erotic."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Patient",
+              "expression": "shocked",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being examined"
+            ],
+            "dialogue": [
+              "Aaah..."
+            ],
+            "emotion": "anxious"
+          },
+          "text_elements": [
+            "squish"
+          ],
+          "summary": "The dentist examines the patient's mouth."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Dentist",
+              "expression": "smirking",
+              "pose": "standing"
+            },
+            {
+              "name": "Patient",
+              "expression": "flustered",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "examining",
+              "questioning"
+            ],
+            "dialogue": [
+              "Why did you let them become like this?",
+              "Staring at the inside of your mouth",
+              "Is very erotic, isn't it?",
+              "Am 'owy..."
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [
+            "ba-dump",
+            "ba-dump",
+            "ba-dump",
+            "ba-dump",
+            "ba-dump",
+            "ba-dump",
+            "ba-dump",
+            "ba-dump"
+          ],
+          "summary": "The dentist asks why the patient let their teeth become like this, and the patient thinks it's erotic."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images/[Pandacorya] Watashi ga Haisha ni Iku Riyuu _ The Reason Why I Go to the Dentist/2.webp",
+      "summary": "Mitsui-san finishes her dental treatment and the dentist confronts her about having obscene thoughts during the treatment. Mitsui-san is embarrassed and the dentist blushes.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mitsui-san",
+              "expression": "neutral",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "dentist chair",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "sits in the dentist chair"
+            ],
+            "dialogue": [
+              "Hey Mitsui-san",
+              "Yes?"
+            ],
+            "emotion": "normal"
+          },
+          "text_elements": [],
+          "summary": "Mitsui-san is addressed by someone in the dentist office."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Mitsui-san",
+              "expression": "relieved",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thanks someone"
+            ],
+            "dialogue": [
+              "Ah, thank you!"
+            ],
+            "emotion": "grateful"
+          },
+          "text_elements": [],
+          "summary": "Mitsui-san thanks someone for the treatment."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Dentist",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Mitsui-san",
+              "expression": "seated",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "finishes treatment"
+            ],
+            "dialogue": [
+              "That's all for today's treatment."
+            ],
+            "emotion": "normal"
+          },
+          "text_elements": [
+            "VRR",
+            "KRR"
+          ],
+          "summary": "The dentist finishes the treatment for Mitsui-san."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Mitsui-san",
+              "expression": "shocked",
+              "pose": "seated"
+            },
+            {
+              "name": "Dentist",
+              "expression": "smirking",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "stares"
+            ],
+            "dialogue": [
+              "You were having obscene thoughts during the treatment, weren't you?"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "SHOCK",
+            "Stare~",
+            "She got me"
+          ],
+          "summary": "The dentist confronts Mitsui-san about her obscene thoughts."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Dentist",
+              "expression": "blushing",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "tells to not overdo it"
+            ],
+            "dialogue": [
+              "Try not to overdo it.",
+              "That's a no-no!"
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [
+            "Blush"
+          ],
+          "summary": "The dentist blushes and tells Mitsui-san to not overdo it."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Pandacorya] Watashi ga Haisha ni Iku Riyuu _ The Reason Why I Go to the Dentist\\3.webp",
+      "summary": "A woman reflects on her interaction with the dentist, while the dentist wonders how to handle the next encounter; the patient then eats chocolate and proclaims she needs cavities to return to the dentist.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Patient",
+              "expression": "flustered",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": [
+              "dentist office building",
+              "sign"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "rummages through thoughts"
+            ],
+            "dialogue": [
+              "i said such a thing, but..."
+            ],
+            "emotion": "anxious"
+          },
+          "text_elements": [
+            "Rummage"
+          ],
+          "summary": "The patient is flustered as she reflects on her interaction with the dentist."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Dentist",
+              "expression": "nervous",
+              "pose": "clasping hands"
+            }
+          ],
+          "setting": {
+            "location": "dentist office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinks about the patient"
+            ],
+            "dialogue": [
+              "she was definitely thinking about me...",
+              "what should i do the next time she shows up?"
+            ],
+            "emotion": "nervous"
+          },
+          "text_elements": [
+            "BA-DUMP"
+          ],
+          "summary": "The dentist nervously wonders about the patient's thoughts about her and what to do next time."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Patient",
+              "expression": "smitten",
+              "pose": "eating chocolate"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eats chocolate",
+              "desires cavities"
+            ],
+            "dialogue": [
+              "i want to go to this dentist",
+              "i need more cavities!",
+              "for the rest of my life!"
+            ],
+            "emotion": "lovestruck"
+          },
+          "text_elements": [
+            "Glow~",
+            "CRUNCH"
+          ],
+          "summary": "The patient eats chocolate while thinking about the dentist and decides she wants more cavities so she can go back."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[Pandacorya] Watashi ga Haisha ni Iku Riyuu _ The Reason Why I Go to the Dentist\\4.webp",
+      "summary": "This is the credits page for the manga translation, acknowledging the contributors and encouraging readers to support the artists and practice good oral hygiene.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "white space",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Many people are scared of dentists right? But what if the dentist is a cute girl?",
+              "And what if she's somehow able to read your (lewd) thoughts? Oooh, the possibilities!",
+              "This is the first time i translate a SFW manga by Pandacorya and I hope he makes more of them!",
+              "Don't forget that you can commission me stuff!",
+              "https://yuriyaku.gabbor.in/index.php/commissions/"
+            ],
+            "emotion": "humorous"
+          },
+          "text_elements": [
+            "Credits",
+            "Oral Hygiene edition"
+          ],
+          "summary": "The page opens with credits for the manga translation and mentions the concept of a cute dentist who can read minds, encouraging readers to commission the translator."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "white space",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "informative"
+          },
+          "text_elements": [
+            "Translation",
+            "Cleaning",
+            "Typesetting",
+            "Questionable grammar",
+            "Questionable choice of fonts:",
+            "Yuri",
+            "Proofreading",
+            "Quality check",
+            "Keyboard Guy",
+            "Falco main:",
+            "DaiChimpo"
+          ],
+          "summary": "Lists the roles of contributors, including translation, cleaning, typesetting, proofreading, and quality check."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "white space",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "encouraging"
+          },
+          "text_elements": [
+            "Follow YuriYaku's releases on:",
+            "@YuriMaker on Twitter",
+            "Yuriyaku.gabbor.in",
+            "Support your favourite artists!",
+            "Don't read on shitty aggregator sites!",
+            "Wash your hands!",
+            "Wash your teeth at least twice a day!",
+            "See a dentist at least once a year!",
+            "Have fun!"
+          ],
+          "summary": "Provides links to the translator's releases and encourages supporting artists, avoiding aggregator sites, and practicing good hygiene, including visiting the dentist."
+        }
+      ]
+    }
+  ]
+}

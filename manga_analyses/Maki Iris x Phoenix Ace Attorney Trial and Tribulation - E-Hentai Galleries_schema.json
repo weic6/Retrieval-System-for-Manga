@@ -1,0 +1,707 @@
+{
+  "manga_name": "[Maki] Iris x Phoenix (Ace Attorney Trial and Tribulation) - E-Hentai Galleries",
+  "summary": "Iris is finally released from detention and is reunited with her loved ones, including her sister Bikini and her long-time friend Phoenix Wright. While initially upset at Phoenix for taking so long to arrive, Iris quickly forgives him, and the two share a tender moment making up for lost time.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Maki] Iris x Phoenix (Ace Attorney Trial and Tribulation) - E-Hentai Galleries\\0.webp",
+      "summary": "Iris is leaving detention after a long time and is nervous about being released. She is grateful to the guard for his kindness and thanks him.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Iris",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "elevator",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "waiting for the elevator"
+            ],
+            "dialogue": [
+              "Wait a minute, miss! The elevator!"
+            ],
+            "emotion": "anxious"
+          },
+          "text_elements": [],
+          "summary": "Iris waits for the elevator."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Iris",
+              "expression": "nervous",
+              "pose": "standing"
+            },
+            {
+              "name": "Guard",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "detention center",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being released"
+            ],
+            "dialogue": [
+              "Ugh, I couldn't sleep at all... I am so nervous!"
+            ],
+            "emotion": "nervous"
+          },
+          "text_elements": [],
+          "summary": "Iris is being released from the detention center and expresses her nervousness to the guard."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Iris",
+              "expression": "grateful",
+              "pose": "arms crossed"
+            }
+          ],
+          "setting": {
+            "location": "detention center",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "leaving detention"
+            ],
+            "dialogue": [
+              "Please don't forget your belongings. From this point, you are officially released."
+            ],
+            "emotion": "grateful"
+          },
+          "text_elements": [
+            "ちらっ"
+          ],
+          "summary": "The guard tells Iris to not forget her belongings and that she is officially released."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Iris",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "detention center",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thanking the guard"
+            ],
+            "dialogue": [
+              "Ah, thank you very much."
+            ],
+            "emotion": "grateful"
+          },
+          "text_elements": [
+            "にゃ♡"
+          ],
+          "summary": "Iris is grateful and thanks the guard."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Iris",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Guard",
+              "expression": "flustered",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "detention center",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "leaving detention"
+            ],
+            "dialogue": [],
+            "emotion": "relieved"
+          },
+          "text_elements": [
+            "カチ",
+            "てくてく～"
+          ],
+          "summary": "Iris leaves the detention center, leaving the guard flustered."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Maki] Iris x Phoenix (Ace Attorney Trial and Tribulation) - E-Hentai Galleries\\1.webp",
+      "summary": "Iris appears and is embraced by someone, possibly Bikini. The person embracing Iris expresses relief and joy at seeing her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Iris",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "appears in a doorway"
+            ],
+            "dialogue": [
+              "Iris!"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [
+            "きゃ"
+          ],
+          "summary": "Iris appears in a doorway looking surprised."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Bikini",
+              "expression": "relieved",
+              "pose": "embracing"
+            },
+            {
+              "name": "Iris",
+              "expression": "smiling",
+              "pose": "embracing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "embraces Iris",
+              "expresses relief"
+            ],
+            "dialogue": [
+              "That's right... it's been a while.",
+              "Sister Bikini!",
+              "Oh thank goodness, thank goodness... it's been so long."
+            ],
+            "emotion": "joyful"
+          },
+          "text_elements": [
+            "うわ",
+            "あわ",
+            "あわわ",
+            "きゃん"
+          ],
+          "summary": "Bikini embraces Iris, expressing immense relief and joy at seeing her after a long time."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Maki] Iris x Phoenix (Ace Attorney Trial and Tribulation) - E-Hentai Galleries\\2.webp",
+      "summary": "Maya and Iris are happy to see Phoenix again, but Iris is upset that he took so long to arrive. Maya asks Iris to lower her voice and Phoenix seems annoyed.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Blindly hoping for him to-",
+              "But to think... how silly of me."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "A thought bubble expresses someone's realization."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Iris",
+              "expression": "happy",
+              "pose": "smiling"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "hugging"
+            ],
+            "dialogue": [
+              "Sister bikini... I'm so happy, you waited for me, after all this time."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "うき"
+          ],
+          "summary": "Iris expresses her happiness at being reunited with someone."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Phoenix",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Maya",
+              "expression": "confused",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "You never change, huh?",
+              "You already have mystic Maya!",
+              "I can't believe you, Mr. Nick!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "Maya hugs someone, and Phoenix is also present."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Maya",
+              "expression": "crying",
+              "pose": "clutching chest"
+            },
+            {
+              "name": "Iris",
+              "expression": "angry",
+              "pose": "grabbing"
+            },
+            {
+              "name": "Phoenix",
+              "expression": "annoyed",
+              "pose": "talking"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "grabbing",
+              "talking"
+            ],
+            "dialogue": [
+              "Lower your voice, Pearly.",
+              "Also, what took you so long!"
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [
+            "NO!",
+            "GET OFF ME!"
+          ],
+          "summary": "Iris yells at Phoenix, while Maya asks her to lower her voice."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Maki] Iris x Phoenix (Ace Attorney Trial and Tribulation) - E-Hentai Galleries\\3.webp",
+      "summary": "Phoenix and Maya are together again after a long time, Pearl is also present. Phoenix tries to push Maya to do a mystic ritual.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Pearl Fey",
+              "expression": "observant",
+              "pose": "standing"
+            },
+            {
+              "name": "Phoenix Wright",
+              "expression": "observant",
+              "pose": "standing"
+            },
+            {
+              "name": "Maya Fey",
+              "expression": "observant",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Pearl, Phoenix and Maya are watching something"
+            ],
+            "dialogue": [
+              "Ah.",
+              "Feenie?"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Pearl, Phoenix and Maya are watching something."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Phoenix Wright",
+              "expression": "smiling",
+              "pose": "gesturing"
+            },
+            {
+              "name": "Maya Fey",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Phoenix and Maya are talking"
+            ],
+            "dialogue": [],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Phoenix and Maya are talking."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Maya Fey",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Maya is being pushed by Phoenix"
+            ],
+            "dialogue": [
+              "W-what are you doing mystic maya!",
+              "It's fine, pearly.",
+              "C'mon, nick!",
+              "W-wait! Don't push me!"
+            ],
+            "emotion": "tense"
+          },
+          "text_elements": [
+            "???"
+          ],
+          "summary": "Maya is shocked that Phoenix wants her to do a mystic ritual."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Maya Fey",
+              "expression": "flustered",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Maya is flustered"
+            ],
+            "dialogue": [
+              "What I want to say is...",
+              "I missed you a lo- no, wait."
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [
+            "ゴゴゴ"
+          ],
+          "summary": "Maya is trying to say something but is flustered."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Phoenix Wright",
+              "expression": "smiling",
+              "pose": "touching neck"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Phoenix is scratching his neck"
+            ],
+            "dialogue": [
+              "U-um... it's been a while, isn't it?",
+              "But work has been really harsh lately and, well...",
+              "I mean, I visit you occassionally, but-"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Phoenix is embarrassed and scratches his neck."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[Maki] Iris x Phoenix (Ace Attorney Trial and Tribulation) - E-Hentai Galleries\\4.webp",
+      "summary": "This page shows Iris crying and Phoenix comforting her, followed by them kissing and being watched by other characters. The page concludes with the statement that they are making up for lost time.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Iris",
+              "expression": "crying",
+              "pose": "clasping hands"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "crying"
+            ],
+            "dialogue": [
+              "F- Fee..."
+            ],
+            "emotion": "emotional"
+          },
+          "text_elements": [
+            "し",
+            "わ"
+          ],
+          "summary": "Iris is crying, overcome with emotion."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Phoenix Wright",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "comforting"
+            ],
+            "dialogue": [
+              "Glad to see you free again.",
+              "Let's make up for lost time, okay?"
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [],
+          "summary": "Phoenix Wright comforts Iris, suggesting they make up for lost time."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Phoenix Wright",
+              "expression": "kissing",
+              "pose": "hugging"
+            },
+            {
+              "name": "Iris",
+              "expression": "kissing",
+              "pose": "hugging"
+            },
+            {
+              "name": "Maya Fey",
+              "expression": "happy",
+              "pose": "watching"
+            },
+            {
+              "name": "Pearl Fey",
+              "expression": "shocked",
+              "pose": "reacting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing",
+              "hugging",
+              "reacting"
+            ],
+            "dialogue": [
+              "Yes!"
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "ちゅ"
+          ],
+          "summary": "Phoenix and Iris kiss, while Maya is happy and Pearl is shocked."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Trucy Wright",
+              "expression": "happy",
+              "pose": "watching"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "watching"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "きゃー"
+          ],
+          "summary": "Trucy is happily watching Phoenix and Iris."
+        },
+        {
+          "panel_id": "5",
+          "characters": [],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "They certainly made up for lost time."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "It is stated that Phoenix and Iris certainly made up for lost time."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[Maki] Iris x Phoenix (Ace Attorney Trial and Tribulation) - E-Hentai Galleries\\5.webp",
+      "summary": "This is the author's afterword where she describes her experience playing the Ace Attorney series and her excitement for future re-releases, as well as a character illustration.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "Text",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Writing an afterword about playing the Ace Attorney series"
+            ],
+            "dialogue": [
+              "Hey, this is Maki.",
+              "I've never had a Nintendo DS so I never played the Ace Attorney series until the first trilogy on Switch in April 2019, and I immediately fell in love with each game, case and characters, I just couldn't stop myself and kept playing until the end with a big grin on my face, it was a great time, I might go for a second run. I'm very excited to new re-releases on new consoles.",
+              "Hope you like it, and please forgive me if I made a mistake representing some character, I made this as a sort of love letter to this series and nothing but good things were poured in these pages.",
+              "Thank you."
+            ],
+            "emotion": "Appreciative"
+          },
+          "text_elements": [
+            "AFTERWORD?"
+          ],
+          "summary": "The author expresses her love for the Ace Attorney series in an afterword, describing her experience playing the games and her anticipation for future releases."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "smiling",
+              "pose": "holding items"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Smiling",
+              "Holding items"
+            ],
+            "dialogue": [],
+            "emotion": "Happy"
+          },
+          "text_elements": [
+            "SCARY"
+          ],
+          "summary": "A character is smiling and holding items, with a thought bubble above her head."
+        }
+      ]
+    }
+  ]
+}

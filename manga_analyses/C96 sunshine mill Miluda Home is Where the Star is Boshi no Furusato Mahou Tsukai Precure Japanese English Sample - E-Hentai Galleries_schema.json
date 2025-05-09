@@ -1,0 +1,901 @@
+{
+  "manga_name": "(C96) [sunshine mill (Miluda)] Home is Where the Star is. ~Boshi no Furusato~ (Mahou Tsukai Precure!) [Japanese, English] [Sample] - E-Hentai Galleries",
+  "summary": "This manga excerpt follows Ha-chan as she grapples with questions of identity and family after being found in a flower, while Riko experiences homesickness and encounters mysterious figures during a trip. The story explores themes of belonging, identity, and the meaning of family through the experiences of its characters.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\(C96) [sunshine mill (Miluda)] Home is Where the Star is. ~Boshi no Furusato~ (Mahou Tsukai Precure!) [Japanese, English] [Sample] - E-Hentai Galleries\\0.webp",
+      "summary": "This is the cover page of a bilingual Japanese and English comic fanbook featuring three anime girls and the title 'Home is Where the Star is'. The cover is designed to look like a collection of photographs.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "arm around shoulder"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "arm around shoulder"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding a teddy bear"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "posing for a photo"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "JAPANESE AND ENGLISH BILINGUAL COMIC",
+            "星の故郷",
+            "Home is Where the STAR is.",
+            "A Maho Girls fanbook By Miluda.",
+            "MOFU MOFU BAKERY"
+          ],
+          "summary": "Three anime girls are posing for a photo, smiling and embracing each other."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\(C96) [sunshine mill (Miluda)] Home is Where the Star is. ~Boshi no Furusato~ (Mahou Tsukai Precure!) [Japanese, English] [Sample] - E-Hentai Galleries\\1.webp",
+      "summary": "Ha-chan appears and learns that she was found in a flower. She questions who her real mother is and what family means.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "confused",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "lying on the floor"
+            ],
+            "dialogue": [
+              "Why are you on the floor?",
+              "何してるの?",
+              "そんなところで"
+            ],
+            "emotion": "inquisitive"
+          },
+          "text_elements": [],
+          "summary": "A girl questions why the other is on the floor."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "kneeling"
+            },
+            {
+              "name": "Ha-chan",
+              "expression": "confused",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "lying",
+              "kneeling"
+            ],
+            "dialogue": [
+              "You and Riko found me...",
+              "みらいとリコが私を拾ったんだよね?"
+            ],
+            "emotion": "gentle"
+          },
+          "text_elements": [],
+          "summary": "Ha-chan realizes she was found by Mirai and Riko."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "explaining",
+              "pose": "gesturing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "explaining",
+              "appearing"
+            ],
+            "dialogue": [
+              "We were arguing, there was this book, and then you appeared from a flower!",
+              "リコとケンカしてたら本からお花が咲いてはーちゃんが生まれてきたんだよ。"
+            ],
+            "emotion": "informative"
+          },
+          "text_elements": [],
+          "summary": "The girl explains that Ha-chan appeared from a flower after an argument."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Ha-chan",
+              "expression": "shocked",
+              "pose": "staring"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "learning",
+              "asking"
+            ],
+            "dialogue": [
+              "Haachan?",
+              "はーちゃん?",
+              "I'm mother Rapapa's reincarnation, right?",
+              "私はマザー・ラパーパの生まれ変わりなんだよね?",
+              "Who is my real mother?",
+              "私の本当のお母さんって･･･?"
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "Ha-chan learns she may be Mother Rapapa's reincarnation and asks who her real mother is."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Ha-chan",
+              "expression": "confused",
+              "pose": "staring"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "wondering"
+            ],
+            "dialogue": [
+              "What is family?",
+              "家族って･･･なに?"
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "Ha-chan wonders what family is."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\(C96) [sunshine mill (Miluda)] Home is Where the Star is. ~Boshi no Furusato~ (Mahou Tsukai Precure!) [Japanese, English] [Sample] - E-Hentai Galleries\\2.webp",
+      "summary": "A girl requests an extended leave, reminiscing about a past conversation and expressing a desire to return home quickly.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Person",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Riko",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Riko standing in front of the person"
+            ],
+            "dialogue": [
+              "Thank you."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Riko thanks someone."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Person",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Person standing"
+            ],
+            "dialogue": [
+              "I understand."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "The person acknowledges Riko."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Riko",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Riko is requesting a leave"
+            ],
+            "dialogue": [
+              "I'm requesting an extended leave."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Riko requests an extended leave."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Person",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "office",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Person is standing"
+            ],
+            "dialogue": [
+              "Family is important."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "The person emphasizes the importance of family."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Riko",
+              "expression": "thinking",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Riko is remembering something"
+            ],
+            "dialogue": [
+              "And then she said, \"are we actually family?\"",
+              "What happened, Riko?",
+              "We're finally together again... and now this."
+            ],
+            "emotion": "melancholy"
+          },
+          "text_elements": [
+            "Kata kata"
+          ],
+          "summary": "Riko recalls a past conversation and reflects on a recent event."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Riko",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "train tracks",
+            "background_elements": [
+              "train"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Riko standing by train tracks"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Riko is standing by train tracks."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Riko",
+              "expression": "sad",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "train",
+            "background_elements": [
+              "seats"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Riko is sitting on a train"
+            ],
+            "dialogue": [],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Riko sits on a train, looking sad."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Riko",
+              "expression": "sad",
+              "pose": "holding phone"
+            }
+          ],
+          "setting": {
+            "location": "train",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Riko is holding a phone"
+            ],
+            "dialogue": [
+              "I wish I could instantly teleport home."
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Riko expresses a desire to teleport home while holding her phone."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\(C96) [sunshine mill (Miluda)] Home is Where the Star is. ~Boshi no Furusato~ (Mahou Tsukai Precure!) [Japanese, English] [Sample] - E-Hentai Galleries\\3.webp",
+      "summary": "A girl exits a train to find an unknown location and encounters two students in witch costumes.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "train car",
+            "background_elements": [
+              "luggage",
+              "seats"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "looking around",
+              "speaking"
+            ],
+            "dialogue": [
+              "No one's on board?",
+              "誰 乗ってない?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "A girl looks around an empty train car with a concerned expression."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "train car",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "speaking"
+            ],
+            "dialogue": [
+              "Please get off the train.",
+              "これより先 ご乗車いただけません。"
+            ],
+            "emotion": "formal"
+          },
+          "text_elements": [],
+          "summary": "A girl is being asked to exit the train."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "confused",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "train car",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "speaking"
+            ],
+            "dialogue": [
+              "We've reached the terminal.",
+              "終点です。"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "A girl is told that they have reached the terminal."
+        },
+        {
+          "panel_id": "4",
+          "characters": [],
+          "setting": {
+            "location": "train station",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "mysterious"
+          },
+          "text_elements": [
+            "NO SEENOO",
+            "UNKNOWN",
+            "LOCATION"
+          ],
+          "summary": "Sign with unknown location."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "holding phone"
+            }
+          ],
+          "setting": {
+            "location": "train station",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at phone",
+              "speaking"
+            ],
+            "dialogue": [
+              "Where am I?",
+              "どこ…かしら…"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "A girl looks at her phone and wonders where she is."
+        },
+        {
+          "panel_id": "6",
+          "characters": [],
+          "setting": {
+            "location": "train station",
+            "background_elements": [
+              "train",
+              "building"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "View of the train and surrounding station."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "train station",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "turning head"
+            ],
+            "dialogue": [],
+            "emotion": "shocked"
+          },
+          "text_elements": [
+            "HYUUUN"
+          ],
+          "summary": "A girl quickly turns her head."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "calling out",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "train station",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "calling out"
+            ],
+            "dialogue": [
+              "Wait!",
+              "待ちなさい!"
+            ],
+            "emotion": "urgent"
+          },
+          "text_elements": [],
+          "summary": "A girl calls out to someone."
+        },
+        {
+          "panel_id": "9",
+          "characters": [
+            {
+              "name": "Student",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "train station",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "standing"
+            ],
+            "dialogue": [
+              "Hey!",
+              "ちょっとまって!"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "A girl encounters two students in witch costumes."
+        },
+        {
+          "panel_id": "10",
+          "characters": [
+            {
+              "name": "Student",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "train station",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [],
+            "emotion": "questioning"
+          },
+          "text_elements": [],
+          "summary": "A student in a witch costume thinks."
+        },
+        {
+          "panel_id": "11",
+          "characters": [
+            {
+              "name": "Student",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "train station",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "Students?",
+              "魔法学校の学生?"
+            ],
+            "emotion": "questioning"
+          },
+          "text_elements": [],
+          "summary": "A student in a witch costume asks if they are students."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\(C96) [sunshine mill (Miluda)] Home is Where the Star is. ~Boshi no Furusato~ (Mahou Tsukai Precure!) [Japanese, English] [Sample] - E-Hentai Galleries\\4.webp",
+      "summary": "This page shows the characters engaging in everyday activities, such as running, eating, and inviting readers to visit a location.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding a phone"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "arm around the other girl"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "taking a photo"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "Japanese and English Bilingual Comic",
+            "Home is Where the Star is.",
+            "COMIKET96 DAY 2 SOUTH テ02B",
+            "A Maho Girls Precure fanbook by Miluda."
+          ],
+          "summary": "Two girls are taking a photo."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "running"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "running"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "running"
+            ],
+            "dialogue": [],
+            "emotion": "energetic"
+          },
+          "text_elements": [],
+          "summary": "Two girls are running together."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "Hey!",
+              "Chotto matte!",
+              "Students?",
+              "Mahou gakkou no gakusei?"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "A girl is calling after two other girls to ask if they are students."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "eating"
+            },
+            {
+              "name": "Boy",
+              "expression": "smiling",
+              "pose": "eating"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating a lollipop"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A girl and a boy are eating a lollipop."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "eating"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "eating"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": [
+              "stuffed toy"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "eating"
+            ],
+            "dialogue": [
+              "Oishii!",
+              "Yummy!"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Two girls are eating and saying it's delicious."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "looking forward"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "inviting"
+            ],
+            "dialogue": [
+              "Cure up rapapa!",
+              "Taiyou koujou",
+              "Minami te 02b ni kinasai!"
+            ],
+            "emotion": "inviting"
+          },
+          "text_elements": [
+            "sunshine mill",
+            "Taiyou koujou"
+          ],
+          "summary": "A girl is inviting readers to visit the sunshine mill."
+        }
+      ]
+    }
+  ]
+}

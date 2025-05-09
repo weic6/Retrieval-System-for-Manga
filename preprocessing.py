@@ -3,8 +3,26 @@ import json
 import datetime
 import google.generativeai as genai  # Changed import pattern
 from dotenv import load_dotenv
+from tqdm import tqdm
+import re
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
+
+
+def generate_json_with_retry(model, prompt, retries=3):
+    """
+    Generate JSON with retries in case of failure.
+    """
+    for attempt in range(retries):
+        try:
+            response = model.send_message(prompt)
+            cleaned_response = clean_json_response(response.text)
+            return json.loads(cleaned_response)  # Parse JSON
+        except json.JSONDecodeError as e:
+            print(f"Attempt {attempt + 1} failed: {e}")
+            print("Retrying...")
+    print("Failed to generate valid JSON after retries.")
+    return None
 
 # Helper function to clean JSON responses from markdown formatting
 def clean_json_response(response_text):
@@ -75,17 +93,26 @@ Based on all the manga pages you've analyzed, create a complete manga book JSON 
 Your response should be a single, complete JSON object that combines all the pages you've analyzed into a coherent manga book object.
 Return ONLY valid JSON – no markdown, no code blocks, no triple backticks, just the raw JSON object.
 """
+def numerical_sort_key(filename):
+    """从文件名中提取数字部分作为排序键。"""
+    match = re.search(r'(\d+)', filename)
+    if match:
+        return int(match.group(1))
+    return filename  # 如果文件名中没有数字，则按原始文件名排序
+
 
 def get_image_files(folder_path):
     """
     从指定文件夹中读取所有 .jpg/.jpeg/.png/.webp 文件，按文件名排序。
     返回完整路径的文件列表。
     """
-    image_files = sorted([
+    image_files = sorted(
+    [
         os.path.join(folder_path, f)
         for f in os.listdir(folder_path)
         if f.lower().endswith((".jpg", ".jpeg", ".png", ".webp"))
-    ])
+    ],
+    key=lambda x: numerical_sort_key(os.path.basename(x)))
     return image_files
 
 def get_mime_type(file_path):
@@ -103,10 +130,13 @@ def get_mime_type(file_path):
         # Default to jpeg for unknown types
         return "image/jpeg"
 
+
+
 def get_manga_folders(root_folder):
     """
     获取manga_images目录下所有子文件夹，每个子文件夹代表一本漫画。
     """
+    
     manga_folders = []
     for item in os.listdir(root_folder):
         item_path = os.path.join(root_folder, item)
@@ -141,7 +171,7 @@ def generate_schema_compliant_manga(image_paths, manga_name):
     generation_config = {
         "temperature": 0.7,
         "top_p": 0.95,
-        "max_output_tokens": 8192,
+        "max_output_tokens": 81920,
     }
     
     # Initialize content for conversation
@@ -199,18 +229,25 @@ def generate_schema_compliant_manga(image_paths, manga_name):
     # Generate complete manga object
     final_response = chat.send_message(final_prompt)
     manga_json_text = final_response.text
+
+    # Generate complete manga object with retries
+    manga_object = generate_json_with_retry(chat, final_prompt)
+    if manga_object:
+        print(f"\n{manga_name} 生成完整manga对象成功")
+        # Save the manga object as before
+    else:
+        print(f"Failed to generate manga object for '{manga_name}'.")
     
     try:
         # Clean and parse the final manga object
-        cleaned_manga_json = clean_json_response(manga_json_text)
-        manga_object = json.loads(cleaned_manga_json)
-        
-        print(f"\n{manga_name} 生成完整manga对象成功")
         
         # Save results to a JSON file with manga name
-        output_dir = os.path.join(os.path.dirname(os.path.dirname(image_paths[0])), '..',"manga_analyses")
+        output_dir = os.path.join(os.path.dirname(manga_root_folder), "manga_analyses")
         os.makedirs(output_dir, exist_ok=True)
-        output_file = os.path.join(output_dir, f"{os.path.basename(manga_name)}_schema.json")
+        
+        # Sanitize manga name for filename
+        safe_manga_name = "".join(x for x in manga_name if x.isalnum() or x in (' ', '-', '_'))
+        output_file = os.path.join(output_dir, f"{safe_manga_name}_schema.json")
         
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(manga_object, f, ensure_ascii=False, indent=2)
@@ -221,7 +258,6 @@ def generate_schema_compliant_manga(image_paths, manga_name):
     except json.JSONDecodeError as e:
         print(f"Error parsing final manga JSON: {e}")
         print("Response was:", manga_json_text[:1000])
-        print("Cleaned response was:", cleaned_manga_json[:1000])
         return None
 
 def process_all_manga(manga_root_folder):
@@ -240,7 +276,7 @@ def process_all_manga(manga_root_folder):
     
     all_manga_objects = {}
     
-    for manga_folder in manga_folders:
+    for manga_folder in tqdm(manga_folders):
         manga_name = os.path.basename(manga_folder)
         print(f"\n开始处理漫画: {manga_name}")
         

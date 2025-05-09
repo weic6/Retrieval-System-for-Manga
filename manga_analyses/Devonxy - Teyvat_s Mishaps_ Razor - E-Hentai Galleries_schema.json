@@ -1,0 +1,1092 @@
+{
+  "manga_name": "Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries",
+  "summary": "Razor, a character from Genshin Impact, is given a bag of mysterious candies by Mona. After consuming them, he undergoes a dramatic transformation, growing significantly larger and more muscular. Fueled by this newfound strength, he aims to protect those important to him.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries\\0.webp",
+      "summary": "Razor wonders if a bag of purple candies will make him stronger, while Monas assures him they are safe to eat and will be fun.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "curious",
+              "pose": "holding bag"
+            }
+          ],
+          "setting": {
+            "location": "library",
+            "background_elements": [
+              "bookshelves",
+              "books"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "pondering the contents of a bag"
+            ],
+            "dialogue": [],
+            "emotion": "questioning"
+          },
+          "text_elements": [
+            "???"
+          ],
+          "summary": "Razor questions what is in a bag."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "concerned",
+              "pose": "pointing"
+            },
+            {
+              "name": "Mona",
+              "expression": "unseen",
+              "pose": "offering"
+            }
+          ],
+          "setting": {
+            "location": "library",
+            "background_elements": [
+              "bookshelves",
+              "books"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "questioning the contents of a bag, and Mona offering it"
+            ],
+            "dialogue": [
+              "This make... Razor stronger?",
+              "Yes. Don't worry, it's safe for consumption."
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "Razor asks if the bag's contents will make him stronger, and Mona assures him it's safe to eat."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "unsure",
+              "pose": "looking at the bag"
+            }
+          ],
+          "setting": {
+            "location": "library",
+            "background_elements": [
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "holding a bag full of purple candies"
+            ],
+            "dialogue": [
+              "Why... many?",
+              "So it'll be fun-"
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "Razor questions why there are so many candies, and hints at fun."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries\\1.webp",
+      "summary": "Razor eats a weird pill given to him by his teacher, and his body starts reacting strangely. His heart begins to beat faster.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "concerned",
+              "pose": "holding pill"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding a pill",
+              "thinking"
+            ],
+            "dialogue": [
+              "Later that day...",
+              "Teacher is... weird"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "Razor thinks about his teacher while holding a pill."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "neutral",
+              "pose": "eating pill"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating pill"
+            ],
+            "dialogue": [
+              "I eat... one."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Razor puts the pill in his mouth."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "neutral",
+              "pose": "swallowing pill"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "swallowing pill"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "gulp-"
+          ],
+          "summary": "Razor swallows the pill."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "concerned",
+              "pose": "touching stomach"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "feeling stomach",
+              "tasting"
+            ],
+            "dialogue": [
+              "Eating it. Nothing happening ...",
+              "Tastes... funny."
+            ],
+            "emotion": "uncomfortable"
+          },
+          "text_elements": [
+            "rumbleee~"
+          ],
+          "summary": "Razor starts to feel the effects of the pill."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "concerned",
+              "pose": "twitching arm"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "twitching arm"
+            ],
+            "dialogue": [],
+            "emotion": "uncomfortable"
+          },
+          "text_elements": [
+            "twitch"
+          ],
+          "summary": "Razor's arm starts to twitch."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "shocked",
+              "pose": "close up of eye"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "heart beating faster"
+            ],
+            "dialogue": [
+              "-BA-DUM-",
+              "Heart. Beating fast!"
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [
+            "!"
+          ],
+          "summary": "Razor's heart starts to beat faster."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries\\2.webp",
+      "summary": "Razor is growing taller and his arms are getting bigger, making him feel stronger.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "surprised",
+              "pose": "clenched fists"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is feeling something"
+            ],
+            "dialogue": [
+              "This feeling..."
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Razor is feeling something strange."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "straining",
+              "pose": "flexing arms"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is growing"
+            ],
+            "dialogue": [
+              "I'm growing-",
+              "Hngg..."
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor is growing taller."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "straining",
+              "pose": "flexing arms"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is getting taller"
+            ],
+            "dialogue": [
+              "Taller!"
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor exclaims he is getting taller."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "straining",
+              "pose": "flexing arm"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is noticing his arms"
+            ],
+            "dialogue": [
+              "Arms."
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor notices his arms."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "straining",
+              "pose": "flexing arm"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is bulking up"
+            ],
+            "dialogue": [
+              "Bigger!"
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [
+            "snap"
+          ],
+          "summary": "Razor notices his arms are getting bigger."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "surprised",
+              "pose": "flexing arms"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "feels stronger"
+            ],
+            "dialogue": [
+              "Razor feels... stronger!"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Razor feels much stronger."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries\\3.webp",
+      "summary": "Razor feels strange and transforms into a muscular man. He continues to grow in size.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "worried",
+              "pose": "touching stomach"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "feels his stomach"
+            ],
+            "dialogue": [
+              "Tummy feels... strange."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Razor feels something strange in his tummy."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "concerned",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexes his muscles",
+              "is transforming"
+            ],
+            "dialogue": [
+              "Hnggg..."
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor strains as he transforms."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "straining",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexes his muscles",
+              "is transforming"
+            ],
+            "dialogue": [],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor strains as he transforms."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexes his muscles",
+              "is transforming"
+            ],
+            "dialogue": [
+              "Become..."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Razor continues his transformation."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "surprised",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "continues transforming"
+            ],
+            "dialogue": [
+              "Hngg. bigger...",
+              "Pant",
+              "Pant"
+            ],
+            "emotion": "exhausted"
+          },
+          "text_elements": [],
+          "summary": "Razor is exhausted as he continues transforming."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexes his muscles"
+            ],
+            "dialogue": [
+              "Stronger!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "rip",
+            "twitch"
+          ],
+          "summary": "Razor becomes stronger."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries\\4.webp",
+      "summary": "Razor continues to grow, his clothes tearing as he gets bigger and stronger.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "neutral",
+              "pose": "taking off cloth"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "takes off cloth",
+              "grows"
+            ],
+            "dialogue": [
+              "takes off",
+              "still growing. Cloth will be... ruined"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Razor takes off his cloth, remarking that his growth will ruin his clothes."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "neutral",
+              "pose": "flexing back muscles"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "growing"
+            ],
+            "dialogue": [
+              "grow... nghhh..."
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor strains as his back muscles grow."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "neutral",
+              "pose": "flexing back muscles"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "growing"
+            ],
+            "dialogue": [
+              "bigger!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "Razor's back muscles grow even bigger."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "neutral",
+              "pose": "flexing leg muscles"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "growing"
+            ],
+            "dialogue": [
+              "legs..."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Razor's attention turns to his legs as they begin to grow."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "neutral",
+              "pose": "flexing leg muscles"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "growing",
+              "tearing cloth"
+            ],
+            "dialogue": [
+              "b-bigger!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "rip"
+          ],
+          "summary": "Razor's leg muscles grow, tearing his clothing."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "smirking",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexing"
+            ],
+            "dialogue": [
+              "arms. chest. back. legs. all bigger. all stronger!"
+            ],
+            "emotion": "confident"
+          },
+          "text_elements": [],
+          "summary": "Razor flexes, confident in his new size and strength."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries\\5.webp",
+      "summary": "Razor eats some pills from a bag to get stronger. As he does, his muscles grow to massive proportions.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexing",
+              "thinking"
+            ],
+            "dialogue": [
+              "Hmm... Razor... Not big enough ..."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Razor flexes and thinks he is not big enough."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "reaching into bag"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reaching into bag"
+            ],
+            "dialogue": [
+              "I eat more."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Razor reaches into a bag of pills."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "eating pill"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating pill"
+            ],
+            "dialogue": [
+              "aaaa---"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Razor eats a pill."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexing"
+            ],
+            "dialogue": [
+              "Must become...",
+              "Stronger!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "rip"
+          ],
+          "summary": "Razor flexes and wants to become stronger."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexing"
+            ],
+            "dialogue": [
+              "nghh...",
+              "Much bigger!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Razor flexes and wants to become much bigger."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "flexing"
+            ],
+            "dialogue": [
+              "Much stronger!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Razor flexes and becomes much stronger."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries\\6.webp",
+      "summary": "Razor is shown flexing and growing larger in each panel. He is apparently trying to get bigger.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "straining",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Razor straining",
+              "Razor flexing"
+            ],
+            "dialogue": [
+              "Hnnngghh--"
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor strains and flexes."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "straining",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Razor straining",
+              "Razor flexing"
+            ],
+            "dialogue": [
+              "G-grrrr--"
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor continues to strain."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "straining",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Razor straining",
+              "Razor flexing"
+            ],
+            "dialogue": [
+              "Raaaarr!!!"
+            ],
+            "emotion": "straining"
+          },
+          "text_elements": [],
+          "summary": "Razor continues to strain."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "determined",
+              "pose": "flexing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Razor flexing",
+              "Razor growing larger"
+            ],
+            "dialogue": [
+              "Bigger!!!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Razor is growing bigger as he flexes."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\Devonxy - Teyvat_s Mishaps_ Razor - E-Hentai Galleries\\7.webp",
+      "summary": "Razor's body is changing, becoming very muscular; he expresses how strong he is and how Bennett should see him.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "N/A",
+              "pose": "Standing"
+            }
+          ],
+          "setting": {
+            "location": "Unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Growing",
+              "Shredding pants"
+            ],
+            "dialogue": [
+              "So tight- I'm growing everywhere"
+            ],
+            "emotion": "Surprised"
+          },
+          "text_elements": [
+            "Shred"
+          ],
+          "summary": "Someone's pants are tearing because their legs are getting too big."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Razor",
+              "expression": "Shocked",
+              "pose": "Flexing"
+            }
+          ],
+          "setting": {
+            "location": "Unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Getting bigger",
+              "Flexing"
+            ],
+            "dialogue": [
+              "Very big... very strong... to protect Lupical!",
+              "Bennett... should see!"
+            ],
+            "emotion": "Excited"
+          },
+          "text_elements": [
+            "PANT",
+            "PANT"
+          ],
+          "summary": "Razor is getting bigger and stronger, wanting to protect Lupical and wanting Bennett to see him."
+        }
+      ]
+    }
+  ]
+}

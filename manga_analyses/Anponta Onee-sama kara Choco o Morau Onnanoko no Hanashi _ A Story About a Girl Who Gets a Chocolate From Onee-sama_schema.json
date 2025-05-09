@@ -1,0 +1,376 @@
+{
+  "manga_name": "[Anponta] Onee-sama kara Choco o Morau Onnanoko no Hanashi _ A Story About a Girl Who Gets a Chocolate From Onee-sama",
+  "summary": "A heartwarming tale of affection between a girl dressed as a witch and her Onee-sama. A simple exchange of chocolate blossoms into a romantic moment, filled with playful teasing and sweet kisses.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Anponta] Onee-sama kara Choco o Morau Onnanoko no Hanashi _ A Story About a Girl Who Gets a Chocolate From Onee-sama\\0.jpg",
+      "summary": "A girl dressed as a witch asks her sister for a treat, and the sister gives her a chocolate. The girl enjoys the chocolate.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "sitting at table"
+            },
+            {
+              "name": "Girl",
+              "expression": "excited",
+              "pose": "arms raised"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": [
+              "table",
+              "cup"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "asking for a trick or treat"
+            ],
+            "dialogue": [
+              "Ara, what an adorable witch.",
+              "Onee-sama, trick or treat."
+            ],
+            "emotion": "joyful"
+          },
+          "text_elements": [],
+          "summary": "A girl dressed as a witch asks her sister for a trick or treat, and her sister finds her adorable."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "eating"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating chocolate"
+            ],
+            "dialogue": [
+              "Ah."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [
+            "CHOMP"
+          ],
+          "summary": "The sister eats a chocolate and is surprised."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "giving chocolate",
+              "receiving chocolate"
+            ],
+            "dialogue": [
+              "Fufu.",
+              "Thank you for the chocolate, onee-sama.",
+              "Yay.",
+              "Good timing, this is the last chocolate."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The sister gives the girl the last chocolate."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Anponta] Onee-sama kara Choco o Morau Onnanoko no Hanashi _ A Story About a Girl Who Gets a Chocolate From Onee-sama\\1.jpg",
+      "summary": "A girl is seen reaching out and kissing another girl, after a scene of her being cute and eating something.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "reaching"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Girl reaches towards someone"
+            ],
+            "dialogue": [
+              "Ah...",
+              "That's because..."
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [
+            "Reach"
+          ],
+          "summary": "A girl is seen reaching her hand out, looking flustered."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Little Witch",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Girl smiles",
+              "Little Witch reacts in shock"
+            ],
+            "dialogue": [
+              "So cute.",
+              "Fufu.",
+              "O-onee-sama.",
+              "Why did you eat it?"
+            ],
+            "emotion": "cute"
+          },
+          "text_elements": [
+            "Shock"
+          ],
+          "summary": "A girl smiles and is called cute, while a little witch reacts in shock."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "content",
+              "pose": "kissing"
+            },
+            {
+              "name": "Little Witch",
+              "expression": "content",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Girl kisses Little Witch"
+            ],
+            "dialogue": [
+              "Mm.."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "The girl and the little witch share a kiss."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Anponta] Onee-sama kara Choco o Morau Onnanoko no Hanashi _ A Story About a Girl Who Gets a Chocolate From Onee-sama\\2.jpg",
+      "summary": "A girl shares chocolate with her Onee-sama, leading to a kiss and playful teasing.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Onee-sama",
+              "expression": "smiling",
+              "pose": "relaxed"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Onee-sama smiles warmly."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Onee-sama",
+              "expression": "closed eyes",
+              "pose": "kissing"
+            },
+            {
+              "name": "Girl",
+              "expression": "closed eyes",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "tasting chocolate",
+              "kissing"
+            ],
+            "dialogue": [
+              "The chocolate's taste is mixed with Onee-sama.",
+              "It taste so sweet."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "MM.."
+          ],
+          "summary": "Onee-sama and the girl share a kiss after sharing the chocolate."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Onee-sama",
+              "expression": "closed eyes",
+              "pose": "embracing"
+            },
+            {
+              "name": "Girl",
+              "expression": "closed eyes",
+              "pose": "embracing"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing",
+              "embracing"
+            ],
+            "dialogue": [
+              "That's not fair Onee-sama.",
+              "More.",
+              "Fufu, this girl it can't be helped.",
+              "I want more please, Onee-sama."
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [],
+          "summary": "The girl and Onee-sama kiss, and the girl asks for more."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Onee-sama",
+              "expression": "closed eyes",
+              "pose": "leaning in"
+            },
+            {
+              "name": "Girl",
+              "expression": "blushing",
+              "pose": "licking lips"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "licking lips"
+            ],
+            "dialogue": [
+              "Geez, your lips looks dirty now.",
+              "I wonder how good that tasted?"
+            ],
+            "emotion": "teasing"
+          },
+          "text_elements": [
+            "!!!"
+          ],
+          "summary": "Onee-sama teases the girl about her dirty lips after the kiss."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Anponta] Onee-sama kara Choco o Morau Onnanoko no Hanashi _ A Story About a Girl Who Gets a Chocolate From Onee-sama\\3.webp",
+      "summary": "A girl is worried about something and feels like she should call the officer. The page includes acknowledgements to @SORA_92, @AXALON, and @MRMRWAYNE for their help and advice.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "worried",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "bookshelf",
+              "Daruma dolls"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "thinking",
+              "looking concerned"
+            ],
+            "dialogue": [
+              "Wow, i need to call the officer... but..."
+            ],
+            "emotion": "anxious"
+          },
+          "text_elements": [
+            "!!"
+          ],
+          "summary": "A girl appears worried and thinks about calling the officer."
+        }
+      ]
+    }
+  ]
+}

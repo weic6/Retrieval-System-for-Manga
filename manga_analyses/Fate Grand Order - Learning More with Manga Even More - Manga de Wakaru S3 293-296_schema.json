@@ -1,0 +1,1072 @@
+{
+  "manga_name": "Fate Grand Order - Learning More with Manga [Even More] - Manga de Wakaru! S3 293-296",
+  "summary": "This manga features humorous scenarios with characters from Fate Grand Order. Highlights include a character preparing to be eaten and debating the terms with her would-be devourer, Super Bunyan's misadventures in a sauna mistaken for a hike, and the comical struggle with modesty regarding a Master's command spell.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\Fate Grand Order - Learning More with Manga [Even More] - Manga de Wakaru! S3 293-296\\0.webp",
+      "summary": "A character smiles while holding a staff.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Unknown",
+              "expression": "smiling",
+              "pose": "holding staff"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "blue sky",
+              "shooting star"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "smiles",
+              "holds staff"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A character with pink hair and animal ears smiles happily while holding a golden staff against a blue sky backdrop."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\Fate Grand Order - Learning More with Manga [Even More] - Manga de Wakaru! S3 293-296\\1.webp",
+      "summary": "A character is tied up and about to be eaten, but is negotiating with the eater. The eater is trying to get the other character to help her eat the tied up character in exchange for her phone.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Gudao",
+              "expression": "worried",
+              "pose": "tied up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is tied up",
+              "talking"
+            ],
+            "dialogue": [
+              "That doesn't comfort the one being eaten."
+            ],
+            "emotion": "worried"
+          },
+          "text_elements": [],
+          "summary": "Gudao is tied up and states that he is not comforted by the situation."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Koyanskaya",
+              "expression": "happy",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is seated",
+              "talking"
+            ],
+            "dialogue": [
+              "No need to worry... I will be grateful for taking your delectable life."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Koyanskaya says she will be grateful for taking his life."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Gudao",
+              "expression": "worried",
+              "pose": "tied up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is tied up",
+              "talking"
+            ],
+            "dialogue": [
+              "I don't consent at all."
+            ],
+            "emotion": "worried"
+          },
+          "text_elements": [],
+          "summary": "Gudao states that he does not consent."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Koyanskaya",
+              "expression": "happy",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is seated",
+              "talking"
+            ],
+            "dialogue": [
+              "Don't we need to just mutually consent for this sort of thing?",
+              "Just why can't I eat you?"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Koyanskaya asks why she can't eat him."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Gudao",
+              "expression": "annoyed",
+              "pose": "tied up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is tied up",
+              "talking"
+            ],
+            "dialogue": [
+              "Stop being such a smartass!"
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "Gudao tells Koyanskaya to stop being a smartass."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Koyanskaya",
+              "expression": "happy",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is seated",
+              "talking"
+            ],
+            "dialogue": [
+              "That's a no, huh? That's my loss...",
+              "Guess I'll settle for 10 centimeters..."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Koyanskaya says she will settle for 10 centimeters."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Gudao",
+              "expression": "worried",
+              "pose": "tied up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is tied up",
+              "talking"
+            ],
+            "dialogue": [
+              "30 centimeters is quite a lot."
+            ],
+            "emotion": "worried"
+          },
+          "text_elements": [],
+          "summary": "Gudao thinks 30 centimeters is a lot."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Koyanskaya",
+              "expression": "happy",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is seated",
+              "talking"
+            ],
+            "dialogue": [
+              "All I need is some hands and feet.",
+              "30 centimeters should suffice well~",
+              "I'm not asking you to give me everything, okay?"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Koyanskaya says she only needs some hands and feet and that 30 centimeters should suffice."
+        },
+        {
+          "panel_id": "9",
+          "characters": [
+            {
+              "name": "Ophelia Phamrsolone",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is shocked",
+              "talking"
+            ],
+            "dialogue": [
+              "If you don't play by the rules this drunkard is going to get mad and go home!",
+              "I should be the one going home!",
+              "It's not a game if there's no incentives.",
+              "Chief, can't you do this for me..."
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "Ophelia is shocked and states that if the rules are not followed, the drunkard will get mad and go home."
+        },
+        {
+          "panel_id": "10",
+          "characters": [
+            {
+              "name": "Koyanskaya",
+              "expression": "happy",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is seated",
+              "talking",
+              "holding a phone"
+            ],
+            "dialogue": [
+              "Hello, did you see that?",
+              "That's right.. that's right... I'll hand it over to her."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "ピポポポ〜"
+          ],
+          "summary": "Koyanskaya asks if Ophelia saw that and says she will hand it over to her."
+        },
+        {
+          "panel_id": "11",
+          "characters": [
+            {
+              "name": "Koyanskaya",
+              "expression": "happy",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is seated",
+              "talking"
+            ],
+            "dialogue": [
+              "Ah, it's my phone~"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "ピポポポ〜"
+          ],
+          "summary": "Koyanskaya says it is her phone."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\Fate Grand Order - Learning More with Manga [Even More] - Manga de Wakaru! S3 293-296\\2.webp",
+      "summary": "Super Bunyan hikes through Prince Edward Island but the humidity is making her glasses foggy. She encounters a character who gives her a troll doll, but it turns out she's in a sauna, leading to a geography-based punchline.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Super Bunyan",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Super Bunyan is hiking",
+              "Super Bunyan is speaking"
+            ],
+            "dialogue": [
+              "The humidity is making my glasses foggy...",
+              "It's hot for some reason..."
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "Super Bunyan is hiking and complaining about the humidity."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Super Bunyan",
+              "expression": "happy",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "trees",
+              "field"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Super Bunyan is hiking"
+            ],
+            "dialogue": [
+              "This time, it's a hike through Prince Edward Island!"
+            ],
+            "emotion": "cheerful"
+          },
+          "text_elements": [],
+          "summary": "Super Bunyan continues her hike through Prince Edward Island."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Super Bunyan",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Super Bunyan is going out on hikes"
+            ],
+            "dialogue": [
+              "Whenever Super Bunyan has a hard time she goes out hiking on her own."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Super Bunyan goes on hikes when she has a hard time."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Super Bunyan",
+              "expression": "surprised",
+              "pose": "standing"
+            },
+            {
+              "name": "Santa",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Santa is presenting a doll",
+              "Santa is speaking"
+            ],
+            "dialogue": [
+              "I'll give you this cute troll doll that I thought up.",
+              "It's a pleasure to meet such a charming young lady. Santa here has a present for a good girl like you."
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "Santa meets Super Bunyan and gives her a troll doll."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Super Bunyan",
+              "expression": "confused",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "sauna",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Super Bunyan is sitting in a sauna"
+            ],
+            "dialogue": [
+              "Because it's a sauna."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "Super Bunyan is actually in a sauna."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Super Bunyan",
+              "expression": "annoyed",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Super Bunyan is complaining"
+            ],
+            "dialogue": [
+              "You won't leave my reality marble that easily with fogged up glasses!",
+              "Hey, where are you going?"
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [],
+          "summary": "Super Bunyan is frustrated that her glasses are fogged up."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Santa",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Santa is proposing a wedding"
+            ],
+            "dialogue": [
+              "For the goodwill of both our countries, how about a little private wedding?"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "Santa proposes a private wedding."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Super Bunyan",
+              "expression": "unimpressed",
+              "pose": "standing"
+            },
+            {
+              "name": "Santa",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Santa is explaining a joke"
+            ],
+            "dialogue": [
+              "It's amusing, so you can laugh!",
+              "Did you get the punchline?",
+              "I was walking through Vinland and before I knew it, I was in Finland. That's the gag."
+            ],
+            "emotion": "amused"
+          },
+          "text_elements": [],
+          "summary": "Santa explains the joke about being in Finland after walking through Vinland."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\Fate Grand Order - Learning More with Manga [Even More] - Manga de Wakaru! S3 293-296\\3.webp",
+      "summary": "The Master shows off their command spell, but a glove is fashioned to cover the exposed hand; yet, the command spell area is still exposed, causing embarrassment and discussion.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Castoria",
+              "expression": "shocked",
+              "pose": "pointing"
+            },
+            {
+              "name": "Master",
+              "expression": "happy",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Master shows off their command spell",
+              "Castoria reacts in shock"
+            ],
+            "dialogue": [
+              "Please look! My command spell is back!",
+              "Ahhh!?"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Master excitedly reveals their command spell, causing Castoria to react in shock."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Mysterious Heroine X",
+              "expression": "neutral",
+              "pose": "fishing"
+            },
+            {
+              "name": "Mysterious Heroine XX",
+              "expression": "neutral",
+              "pose": "fishing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "river",
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Characters stand by a river",
+              "Characters fish"
+            ],
+            "dialogue": [
+              "Senpai",
+              "Saber-San!"
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "The Mysterious Heroine X and XX are shown fishing by a river."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Master",
+              "expression": "happy",
+              "pose": "standing"
+            },
+            {
+              "name": "Mashu",
+              "expression": "smiling",
+              "pose": "holding a glove"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Mashu offers Master a glove",
+              "Master expresses gratitude"
+            ],
+            "dialogue": [
+              "Don't worry, I made my senpai a glove.",
+              "Thanks Mashu"
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [],
+          "summary": "Mashu offers the Master a glove to cover their command spell."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Mysterious Heroine X",
+              "expression": "concerned",
+              "pose": "observing"
+            },
+            {
+              "name": "Castoria",
+              "expression": "embarrassed",
+              "pose": "hugging Mysterious Heroine X"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Mysterious Heroine X observes the Master",
+              "Castoria hugs Mysterious Heroine X in embarrassment"
+            ],
+            "dialogue": [
+              "That thing, it's bad for public decency for it to walk around like that!",
+              "Senpai! Err... I mean Master!",
+              "That's the back of her hand, right?"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Castoria is embarrassed by the exposed command spell and hugs Mysterious Heroine X."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Mysterious Heroine X",
+              "expression": "exasperated",
+              "pose": "gesturing"
+            },
+            {
+              "name": "Castoria",
+              "expression": "embarrassed",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Mysterious Heroine X expresses annoyance",
+              "Castoria points and questions"
+            ],
+            "dialogue": [
+              "It's troublesome but you're going to have to get used to it now.",
+              "There's a lot more people in this world who dress even more extreme.",
+              "Why's that part still exposed? It's worse than being naked!"
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "Mysterious Heroine X expresses annoyance at the exposed command spell while Castoria wonders why it's still visible."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Master",
+              "expression": "annoyed",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Master stands with a glove that doesn't cover the command spell"
+            ],
+            "dialogue": [],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "The Master is seen wearing a glove that still leaves the command spell exposed."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\Fate Grand Order - Learning More with Manga [Even More] - Manga de Wakaru! S3 293-296\\4.webp",
+      "summary": "The characters discuss the RPG fantasy parody and the purpose of the 'Learn with Manga' segment, with a character expressing nervousness about what to expect.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mermaid",
+              "expression": "exasperated",
+              "pose": "standing"
+            },
+            {
+              "name": "White-haired girl",
+              "expression": "exasperated",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "fantasy setting",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "characters are talking"
+            ],
+            "dialogue": [
+              "This is what we call a RPG fantasy parody",
+              "What the!",
+              "What is this!?",
+              "Who designed this kind of place?"
+            ],
+            "emotion": "humorous"
+          },
+          "text_elements": [],
+          "summary": "A mermaid-like character and a white-haired girl complain about the setting."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Elizabeth",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "guild hall",
+            "background_elements": [
+              "shelf",
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Elizabeth welcomes the characters"
+            ],
+            "dialogue": [
+              "I am Elizabeth, the Guild Master.",
+              "Welcome to Chaldea's Adventurer Guild.",
+              "First time seeing you here."
+            ],
+            "emotion": "welcoming"
+          },
+          "text_elements": [],
+          "summary": "Elizabeth welcomes the characters to the guild."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Elizabeth",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Elizabeth explains the segment"
+            ],
+            "dialogue": [
+              "This is a segment to help new users learn how to play FGO in an easy to learn format!",
+              "This here is \"learn with manga! FGO\""
+            ],
+            "emotion": "informative"
+          },
+          "text_elements": [],
+          "summary": "Elizabeth explains the purpose of the 'Learn with Manga' segment."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Elizabeth",
+              "expression": "embarrassed",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Elizabeth denies something"
+            ],
+            "dialogue": [
+              "It's not that kind of thing!"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Elizabeth denies a misconception."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Tamamo",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Tamamo explains cosplay performances"
+            ],
+            "dialogue": [
+              "Yes",
+              "Tamamo, you do these little cosplay performances to stop the night life from getting monotonous."
+            ],
+            "emotion": "explanatory"
+          },
+          "text_elements": [],
+          "summary": "Tamamo explains the purpose of cosplay performances."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "White-haired girl",
+              "expression": "excited",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "White-haired girl recognizes role-playing"
+            ],
+            "dialogue": [
+              "A-ha!",
+              "I know this, it's role playing, right?"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "The white-haired girl recognizes it as role-playing."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Tamamo",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Tamamo observes Elizabeth"
+            ],
+            "dialogue": [
+              "She's trying to live up to their expectations"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [
+            "cute",
+            "..."
+          ],
+          "summary": "Tamamo notes Elizabeth is trying to live up to expectations."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Elizabeth",
+              "expression": "flustered",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Elizabeth asks for help"
+            ],
+            "dialogue": [
+              "B-big sis...",
+              "Help me step by step with this."
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [],
+          "summary": "Elizabeth asks for help from her 'big sis'."
+        },
+        {
+          "panel_id": "9",
+          "characters": [
+            {
+              "name": "Mermaid",
+              "expression": "reassuring",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Mermaid reassures Elizabeth"
+            ],
+            "dialogue": [
+              "She will guide you gently.",
+              "Just entrust yourself to her and everything will go smoothly."
+            ],
+            "emotion": "reassuring"
+          },
+          "text_elements": [],
+          "summary": "The mermaid reassures Elizabeth that everything will be alright."
+        },
+        {
+          "panel_id": "10",
+          "characters": [
+            {
+              "name": "Elizabeth",
+              "expression": "anxious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Elizabeth asks what she is supposed to do"
+            ],
+            "dialogue": [
+              "What am I supposed to do?",
+              "Is it okay to keep my clothes on?"
+            ],
+            "emotion": "anxious"
+          },
+          "text_elements": [],
+          "summary": "Elizabeth expresses anxiety about what she's supposed to do."
+        },
+        {
+          "panel_id": "11",
+          "characters": [
+            {
+              "name": "White-haired girl",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "White-haired girl asks if things have started"
+            ],
+            "dialogue": [
+              "Have things already started?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "The white-haired girl wonders if things have already started."
+        }
+      ]
+    }
+  ]
+}

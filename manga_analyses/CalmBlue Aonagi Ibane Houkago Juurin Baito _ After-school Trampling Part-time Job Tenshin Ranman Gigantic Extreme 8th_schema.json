@@ -1,0 +1,708 @@
+{
+  "manga_name": "[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)",
+  "summary": "Tsukine, an apprentice fox shrine maiden, takes on an after-school part-time job that involves growing to giant size and purifying impurities by trampling cities. She enjoys the sensations, even removing her tights for a better experience, and collects shrunken cities as souvenirs. She crushes the remaining city while reflecting upon the consequences of human research. While all this goes on, Tsukine's sister, Amane, struggles to focus in class.",
+  "pages": [
+    {
+      "page_number": 12,
+      "image_path": "./manga_images/[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\0.webp",
+      "summary": "A giant Tsukine introduces herself while preparing to purify the impurity looming over the city.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Tsukine",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings",
+              "torii gate"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "introduces herself",
+              "prepares to purify"
+            ],
+            "dialogue": [
+              "Hello, excuse me for intruding.",
+              "I may look like this, but I am Tsukine, an apprentice fox shrine maiden.",
+              "Some impurity has appeared in this area, so I have come to perform a purification."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "ズ",
+            "グオオオオ",
+            "ア"
+          ],
+          "summary": "Tsukine introduces herself as a giant fox shrine maiden who is here to purify the city."
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "image_path": "./manga_images/[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\1.webp",
+      "summary": "Tsukine is offered a part-time job to purify real cities that can be accessed through a gate, and she reveals that she has removed her tights to enjoy the sensation of trampling the cities.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "Otherworld City",
+            "background_elements": [
+              "skyscrapers"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "This is quite an impressive otherworld.",
+              "Wow...the \"real\" cities stretch far into the distance..."
+            ],
+            "emotion": "awe"
+          },
+          "text_elements": [],
+          "summary": "A view of an impressive otherworld city with skyscrapers stretching into the distance."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "Empty Classroom",
+            "background_elements": [
+              "desks",
+              "chairs",
+              "windows",
+              "chalkboard"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "I'm glad the gate worked properly."
+            ],
+            "emotion": "relieved"
+          },
+          "text_elements": [],
+          "summary": "The gate is working properly in an empty classroom."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Raito-nee",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Tsukine",
+              "expression": "flustered",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "chat conversation",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "chatting"
+            ],
+            "dialogue": [
+              "Tsuki-chan, are you free now? There's an urgent part-time job.",
+              "I just finished my class.",
+              "Oh, really?",
+              "Then, I'll connect a gate in an empty classroom on the fourth floor, and I'd like you to purify the destination.",
+              "Purify?",
+              "Yes, the entire cities.",
+              "Tsukine, you like this kind of thing, right? You can rampage as you like.",
+              "Eh? How do you know that?"
+            ],
+            "emotion": "inquisitive"
+          },
+          "text_elements": [],
+          "summary": "Raito-nee asks Tsukine if she's free for a part-time job to purify cities, and Tsukine is surprised that Raito-nee knows she likes that kind of thing."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Tsukine",
+              "expression": "embarrassed",
+              "pose": "unsure"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "It's okay for me to...\"purify\" this, right...?"
+            ],
+            "emotion": "nervous"
+          },
+          "text_elements": [
+            "ド",
+            "キ"
+          ],
+          "summary": "Tsukine is nervous about purifying the cities."
+        },
+        {
+          "panel_id": "5",
+          "characters": [],
+          "setting": {
+            "location": "city to be trampled",
+            "background_elements": [
+              "skyscrapers"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "trampling"
+            ],
+            "dialogue": [
+              "I wanted to enjoy the sensation, so I took off my school tights before passing through the gate."
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "神奏",
+            "ズズズ",
+            "ズズ..."
+          ],
+          "summary": "Tsukine took off her tights to enjoy the sensation of trampling the cities."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Students",
+              "expression": "shocked",
+              "pose": "watching"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Ehehe... It's a rare opportunity to be able to play with real cities and tinies instead of using photo transference....."
+            ],
+            "emotion": "gleeful"
+          },
+          "text_elements": [],
+          "summary": "Tsukine finds this opportunity rare and gleeful as the students look on in shock."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images/[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\2.webp",
+      "summary": "A giant girl apologizes and prepares to purify a city, acknowledging potential inconvenience.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "skyscrapers",
+              "clouds"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "apologizes",
+              "prepares to purify"
+            ],
+            "dialogue": [
+              "If I don't purify this place, it will negatively affect other world lines so...",
+              "Without further ado, if you'll excuse me.",
+              "You all might not be at fault, but..."
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [
+            "オオオオ"
+          ],
+          "summary": "A giant girl is apologizing to the city dwellers as she prepares to purify the place, which she believes is necessary even though they are not at fault."
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "image_path": "./manga_images/[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\3.webp",
+      "summary": "A giantess crushes a city with her bare feet, expressing her delight in the sensations and the fate of the tiny people underfoot.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings",
+              "sky"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "crushing city"
+            ],
+            "dialogue": [
+              "Hng... So much stuff being crushed under my foot...",
+              "The crumpling and gritty sensation feels so good..."
+            ],
+            "emotion": "pleased"
+          },
+          "text_elements": [
+            "ぐじゃああ♡",
+            "ぐり♡"
+          ],
+          "summary": "The giant foot crushes the city, the narrator expresses pleasure."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings",
+              "sky"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "crushing city"
+            ],
+            "dialogue": [
+              "Mm... This feels good too...",
+              "Ehehe- The too slow to escape tinies get mixed up with the sweat."
+            ],
+            "emotion": "pleased"
+          },
+          "text_elements": [
+            "ズシャマアマ",
+            "グァッ"
+          ],
+          "summary": "The giant foot continues to crush the city, the narrator makes a comment about the tinies."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "none"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings",
+              "sky"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "And now the other foot.",
+              "As i thought, to play... I mean, work like this, being barefoot is the best."
+            ],
+            "emotion": "pleased"
+          },
+          "text_elements": [
+            "ブァッ"
+          ],
+          "summary": "The girl expresses her delight in being barefoot while crushing the city."
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "image_path": "./manga_images/[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\4.webp",
+      "summary": "A giant girl is stomping on a city with her bare foot, and she seems to be enjoying it more than she expected.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "stomping"
+            ],
+            "dialogue": [
+              "There!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "ズズン"
+          ],
+          "summary": "A giant foot is about to step on a city."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding strap"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "stomping",
+              "thinking"
+            ],
+            "dialogue": [
+              "The sensation should be the same as always, so why does it make my heart race..."
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "グシャ♡",
+            "ズシャ"
+          ],
+          "summary": "The girl is stomping on the city and is enjoying the sensation more than she expected, making her heart race."
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "image_path": "./manga_images/[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\5.webp",
+      "summary": "A giant girl is walking through a city, while her sister is in class and being distracted by thoughts of her sister. The giant girl thinks about bringing back a souvenir.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "destroyed city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "walking through a destroyed city"
+            ],
+            "dialogue": [
+              "It would have been nice if Ama-nee could have come too...",
+              "And just like that, an entire city is done for..."
+            ],
+            "emotion": "melancholy"
+          },
+          "text_elements": [
+            "ズ",
+            "スズ",
+            "ズーズ",
+            "ズーン",
+            "ズーン"
+          ],
+          "summary": "A giant girl walks through a destroyed city, wishing her sister was there."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "destroyed city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking about souvenirs"
+            ],
+            "dialogue": [
+              "Then, something to put in...",
+              "Should I bring back a little souvenir?"
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "The giant girl thinks about bringing back a souvenir."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Amane",
+              "expression": "embarrassed",
+              "pose": "sitting at desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being distracted by her fox ears showing"
+            ],
+            "dialogue": [
+              "Amane-san, your fox ears are showing again.",
+              "Her big sister, Amane, is in the middle of supplementary lessons due to failing a test."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Amane is in class, but her fox ears are showing, and she is distracted."
+        },
+        {
+          "panel_id": "4",
+          "characters": [],
+          "setting": {
+            "location": "inside stomach",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "digesting a city"
+            ],
+            "dialogue": [],
+            "emotion": "content"
+          },
+          "text_elements": [
+            "パッ",
+            "むん",
+            "むん"
+          ],
+          "summary": "The giant girl's stomach digests the city."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images/[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\6.webp",
+      "summary": "A giant girl shrinks cities and uses them as souvenirs, and then decides to purify remaining cities.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "peeking"
+            }
+          ],
+          "setting": {
+            "location": "in a shoe",
+            "background_elements": [
+              "cityscape"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "wearing a shoe",
+              "observing a city"
+            ],
+            "dialogue": [
+              "I was wearing it until just now, so it might be a bit warm and humid...♥"
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [
+            "むん♡"
+          ],
+          "summary": "A giant girl comments on the warmth inside the shoe while observing a city."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing between feet"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "cityscape",
+              "sky",
+              "clouds"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "shrinking a city",
+              "securing souvenirs",
+              "deciding to purify remaining cities"
+            ],
+            "dialogue": [
+              "I tried using the shrinking transference on the city over there, and it fit perfectly.",
+              "Well then, now that I've secured the souvenir...",
+              "I'll go ahead and purify the remaining cities too!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "むわっ♡",
+            "ゴ",
+            "ゴ"
+          ],
+          "summary": "The giant girl shrinks a city and decides to purify the remaining cities."
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "image_path": "./manga_images\\[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\7.webp",
+      "summary": "A giant foot is about to crush a city. The character is talking about crushing the city.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "City",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "crushing a city"
+            ],
+            "dialogue": [
+              "research that exceeds what humans can handle will lead to one's own destruction, you know."
+            ],
+            "emotion": "destructive"
+          },
+          "text_elements": [
+            "ズズ"
+          ],
+          "summary": "A character thinks that research that exceeds what humans can handle will lead to one's own destruction."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "City",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "preparing to crush"
+            ],
+            "dialogue": [
+              "hmm, is this strange building the source of the impurity?",
+              "just like this...",
+              "now, let's crush the rest without leaving anything behind."
+            ],
+            "emotion": "destructive"
+          },
+          "text_elements": [
+            "ゴゴゴゴ",
+            "ズズ"
+          ],
+          "summary": "The character wonders if a building is the source of the impurity and decides to crush the rest of the city."
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "image_path": "./manga_images\\[CalmBlue (Aonagi Ibane)] Houkago Juurin Baito _ After-school Trampling Part-time Job (Tenshin Ranman Gigantic Extreme 8th)\\8.webp",
+      "summary": "The manga page shows a close-up of giant feet stepping on a city and then on a girl, ending with the girl in a shoe.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "City",
+            "background_elements": [
+              "Buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Steps on city"
+            ],
+            "dialogue": [
+              "Thud!"
+            ],
+            "emotion": "Excited"
+          },
+          "text_elements": [
+            "ズズン",
+            "ツ"
+          ],
+          "summary": "A giant foot steps on a city."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "Unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Completeing job"
+            ],
+            "dialogue": [
+              "The “real” thing was very nice...",
+              "With this, my job is complete."
+            ],
+            "emotion": "Satisfied"
+          },
+          "text_elements": [],
+          "summary": "Someone completes their job and is satisfied."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "Surprised",
+              "pose": "Crushed"
+            }
+          ],
+          "setting": {
+            "location": "Shoe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Getting crushed under shoe"
+            ],
+            "dialogue": [
+              "Ah!",
+              "Well then, I have to prepare dinner when I get home..."
+            ],
+            "emotion": "Surprised"
+          },
+          "text_elements": [
+            "ワシャツ♡",
+            "プチプチッ♡",
+            "END"
+          ],
+          "summary": "A girl gets crushed by a shoe, but is still thinking about preparing dinner."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "manga_name": "[Neosino] I_ll make it so you can_t think about anything but me!",
+  "summary": "A novice tamer summons a fox spirit, intending to break her will. However, the tables turn, and the fox spirit ends up being pampered and doted upon, displaying absolute obedience and gratitude towards her caretaker.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images/[Neosino] I_ll make it so you can_t think about anything but me!/0.webp",
+      "summary": "A fox spirit is summoned by a novice tamer, who intends to break her until she can only think about him.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Fox Spirit",
+              "expression": "terrified",
+              "pose": "hands on face"
+            }
+          ],
+          "setting": {
+            "location": "summoning room",
+            "background_elements": [
+              "rune circle"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "summoned"
+            ],
+            "dialogue": [
+              "No, please! I'm simply terrified!"
+            ],
+            "emotion": "fearful"
+          },
+          "text_elements": [
+            "オ"
+          ],
+          "summary": "The fox spirit expresses terror at being summoned."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Novice Tamer",
+              "expression": "smirking",
+              "pose": "smirking"
+            }
+          ],
+          "setting": {
+            "location": "summoning room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "summoned"
+            ],
+            "dialogue": [
+              "Haha... she's all mine!",
+              "I'll break you until you can't think about anything but me!",
+              "Heheh... it's bad luck you got summoned by me.",
+              "And on my first try... I must be a genius!"
+            ],
+            "emotion": "smug"
+          },
+          "text_elements": [],
+          "summary": "The novice tamer gloats and expresses his intention to break the summoned fox spirit."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Neosino] I_ll make it so you can_t think about anything but me!\\1.webp",
+      "summary": "A fox girl is being pampered by another fox girl, who is seen licking her feet.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Fox Girl 1",
+              "expression": "smirking",
+              "pose": "sitting"
+            },
+            {
+              "name": "Fox Girl 2",
+              "expression": "focused",
+              "pose": "kneeling"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "lamp",
+              "dresser",
+              "curtains"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sitting",
+              "kneeling",
+              "licking leg"
+            ],
+            "dialogue": [],
+            "emotion": "sensual"
+          },
+          "text_elements": [
+            "SUCK",
+            "LICK"
+          ],
+          "summary": "Fox Girl 2 is kneeling and licking Fox Girl 1's leg."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Fox Girl 2",
+              "expression": "focused",
+              "pose": "licking"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "licking foot"
+            ],
+            "dialogue": [],
+            "emotion": "sensual"
+          },
+          "text_elements": [
+            "SLURP",
+            "SUCK"
+          ],
+          "summary": "A close-up of Fox Girl 2 licking Fox Girl 1's foot."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Neosino] I_ll make it so you can_t think about anything but me!\\2.webp",
+      "summary": "A fox spirit is being petted and told that she can only think about the person petting her. She is happy and states that she is being taken care of forever.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Fox Spirit",
+              "expression": "happy",
+              "pose": "being petted"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "petting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "petting a fox spirit",
+              "thinking about the only thing she can think about"
+            ],
+            "dialogue": [
+              "I'm the only thing you can think about now, isn't that right?",
+              "Mhm!",
+              "That's it. You've become quite good at this."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "PAT"
+          ],
+          "summary": "A girl pets a fox spirit and says that she is the only thing the fox spirit can think about."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Fox Spirit",
+              "expression": "happy",
+              "pose": "being embraced"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being embraced",
+              "thinking"
+            ],
+            "dialogue": [
+              "Thank you so much...",
+              "Don't worry. I'll take care of you forever.",
+              "...Huh? How did this happen again...?"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "FLUTTER",
+            "LV 20",
+            "Race: Fox Spirit",
+            "ATK 20",
+            "MAG 100",
+            "DEF 30",
+            "Traits: [Sex Swap]",
+            "[Fox Spirit Curse]",
+            "[Servant of the Great Fox Spirit] [Horny]",
+            "[Absolute Obedience]"
+          ],
+          "summary": "The fox spirit is being embraced and says that she is being taken care of forever."
+        }
+      ]
+    }
+  ]
+}

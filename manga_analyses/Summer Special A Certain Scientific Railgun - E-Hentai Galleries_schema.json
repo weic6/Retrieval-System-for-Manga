@@ -1,0 +1,843 @@
+{
+  "manga_name": "Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries",
+  "summary": "A summer-themed collection featuring the girls from A Certain Scientific Railgun enjoying the beach and pool. The story focuses on their playful interactions and Kuroko's obsessive pursuit of Mikoto.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries\\0.jpg",
+      "summary": "A group of girls enjoys a summer vacation at the beach, expressing their excitement and happiness; one girl is getting stepped on.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "arm raised"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding a beach ball"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": [
+              "palm trees",
+              "beach",
+              "sky"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "posing",
+              "standing"
+            ],
+            "dialogue": [
+              "Wah, it's the beach!",
+              "We need to enjoy this vacation",
+              "I'm so happy I get to see onee-sama in a swimsuit again.",
+              "Summer means the beach.",
+              "We didn't get to play much during that photo shoot."
+            ],
+            "emotion": "joyful"
+          },
+          "text_elements": [],
+          "summary": "Four girls in swimsuits happily pose at the beach, expressing their excitement for the vacation."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "stepping"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": [
+              "beach ball",
+              "sky"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "stepping on someone",
+              "smiling"
+            ],
+            "dialogue": [
+              "There!",
+              "Here I go--!!",
+              "Okay?"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [
+            "スッ"
+          ],
+          "summary": "A girl steps on another girl's head, expressing a playful and determined attitude."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries\\1.jpg",
+      "summary": "The manga page depicts three girls in swimwear playing in the water. One girl is shown diving for a beach ball, while the others are caught in a playful water fight.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "lying down"
+            },
+            {
+              "name": "Girl",
+              "expression": "yelling",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "water",
+            "background_elements": [
+              "beach ball"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "playing in the water"
+            ],
+            "dialogue": [
+              "Saten pass!"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [
+            "HYAAA"
+          ],
+          "summary": "Two girls in swimsuits are playing in the water."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "diving"
+            }
+          ],
+          "setting": {
+            "location": "water",
+            "background_elements": [
+              "beach ball"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "diving for a beach ball"
+            ],
+            "dialogue": [
+              "Leave it to me!!",
+              "Aww, that way is..."
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [
+            "Fu22u"
+          ],
+          "summary": "A girl dives for a beach ball, determined to get it."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries\\2.jpg",
+      "summary": "Kongou is relaxing in a pool with Kuroko, while Uiharu and Saten discuss apologizing for something.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Kuroko Shirai",
+              "expression": "shocked",
+              "pose": "holding a fan"
+            },
+            {
+              "name": "Mitsuko Kongou",
+              "expression": "content",
+              "pose": "in a pool float"
+            }
+          ],
+          "setting": {
+            "location": "pool",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is relaxing in a pool"
+            ],
+            "dialogue": [
+              "Watch ooooout!!",
+              "Spending time leisurely like this is nice."
+            ],
+            "emotion": "relaxed"
+          },
+          "text_elements": [
+            "RT"
+          ],
+          "summary": "Kongou is relaxing in a pool, while Kuroko is startled by something."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Saten Ruiko",
+              "expression": "smiling",
+              "pose": "peace sign"
+            },
+            {
+              "name": "Kazari Uiharu",
+              "expression": "nervous",
+              "pose": "looking down"
+            },
+            {
+              "name": "Kuroko Shirai",
+              "expression": "serious",
+              "pose": "back turned"
+            }
+          ],
+          "setting": {
+            "location": "pool",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "are talking by the pool"
+            ],
+            "dialogue": [
+              "I always thought I would have to set things straight with you one day",
+              "Let me apologize too.",
+              "Uh... I'm terribly sorry, Kongou-san.",
+              "Shirai-san, you were here, huh..."
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [
+            "ペコッ",
+            "ペコッ"
+          ],
+          "summary": "Uiharu and Saten are apologizing to Kongou for something, while Kuroko appears behind them."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries\\3.jpg",
+      "summary": "A group of girls are at the beach and one of them is getting sunscreen applied to her back. The girls are discussing her good style.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Konori-san",
+              "expression": "neutral",
+              "pose": "lying down"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "applying sunscreen"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "leaning over"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": [
+              "trees",
+              "beach towel"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "applying sunscreen",
+              "lying on towel"
+            ],
+            "dialogue": [
+              "how lively they are.",
+              "Konori-san, I'm done.",
+              "forgive me."
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [],
+          "summary": "Konori-san is getting sunscreen applied to her back by one of her friends while another friend watches."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": [
+              "umbrella"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "standing",
+              "discussing style"
+            ],
+            "dialogue": [
+              "just drink Musashino milk.",
+              "no problem.",
+              "ah, these?",
+              "hmmm... what's the secret of your good style?",
+              "thanks"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "The girls discuss the secret of Konori-san's good style."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries\\4.jpg",
+      "summary": "The manga page depicts a summer scene at the beach with several characters, including Kuroko and Misaka, interacting and expressing their feelings about the situation.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaka",
+              "expression": "happy",
+              "pose": "splashed with water"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "splashed with water"
+            ],
+            "dialogue": [],
+            "emotion": "playful"
+          },
+          "text_elements": [],
+          "summary": "Misaka is shown being splashed with water and enjoying herself."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kuroko",
+              "expression": "surprised",
+              "pose": "standing in water"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "observing"
+            ],
+            "dialogue": [
+              "Kuroko--!!"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Kuroko seems surprised by something she sees."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "laughing",
+              "pose": "in water"
+            },
+            {
+              "name": "Girl",
+              "expression": "shocked",
+              "pose": "in water"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "laughing",
+              "talking"
+            ],
+            "dialogue": [
+              "A ha ha ha ha ha",
+              "Onee... Sama?"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [],
+          "summary": "Two girls are shown in the water, one laughing and another looking puzzled."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Misaka",
+              "expression": "happy",
+              "pose": "reaching out"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reaching out"
+            ],
+            "dialogue": [
+              "Onee-sama!! To think she would show me such a care-free smile and splash me with water!"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [
+            "キラ"
+          ],
+          "summary": "Misaka is smiling and reaching out, seemingly happy with the interaction."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "annoyed",
+              "pose": "watching"
+            },
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "playing"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "playing",
+              "watching"
+            ],
+            "dialogue": [
+              "Isn't this situation just like lovers!?",
+              "Aw, geez. So annoying.",
+              "Hii",
+              "If that's your wish, please splash as much as you want!"
+            ],
+            "emotion": "playful, annoyed"
+          },
+          "text_elements": [
+            "キラキラ"
+          ],
+          "summary": "A smaller panel shows two girls, one expressing annoyance at the situation and the other happy and playing."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries\\5.jpg",
+      "summary": "Two girls are playfully interacting in a beach setting, while two younger girls react with surprise and another girl appears embarrassed.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "slightly surprised",
+              "pose": "holding bikini top"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": [
+              "sky"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "hugging",
+              "holding bikini top"
+            ],
+            "dialogue": [
+              "Ru"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [
+            "SFX: Kyaaaaaa"
+          ],
+          "summary": "Two girls are on the beach, with one hugging the other, and the girl being hugged is holding a bikini top."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "shocked"
+            },
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "shocked"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": [
+              "sand"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "reacting"
+            ],
+            "dialogue": [
+              "きゃああああああ"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Two young girls are reacting with wide eyes and open mouths."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "embarrassed",
+              "pose": "flustered"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": [
+              "sand"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "blushing"
+            ],
+            "dialogue": [],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "HII"
+          ],
+          "summary": "A girl looks embarrassed and flustered."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries\\6.jpg",
+      "summary": "Kuroko tries to remove Mikoto's swimsuit while they are at the pool. Mikoto tells Kuroko that a one-piece swimsuit won't come off so easily.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Kuroko Shirai",
+              "expression": "excited",
+              "pose": "grabbing"
+            },
+            {
+              "name": "Mikoto Misaka",
+              "expression": "shocked",
+              "pose": "being grabbed"
+            }
+          ],
+          "setting": {
+            "location": "pool",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kuroko grabbed Mikoto at the pool"
+            ],
+            "dialogue": [
+              "O-nee-sa-ma",
+              "That's it!!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "ma"
+          ],
+          "summary": "Kuroko tries to grab Mikoto."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Saten Ruiko",
+              "expression": "angry",
+              "pose": "standing"
+            },
+            {
+              "name": "Kuroko Shirai",
+              "expression": "smiling",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "pool",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Saten yelled at Kuroko",
+              "others laughed"
+            ],
+            "dialogue": [
+              "You're so mean, saten-san"
+            ],
+            "emotion": "angry"
+          },
+          "text_elements": [
+            "ha",
+            "ha",
+            "ha"
+          ],
+          "summary": "Saten yells at Kuroko while others laugh."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Kuroko Shirai",
+              "expression": "smiling",
+              "pose": "grabbing"
+            },
+            {
+              "name": "Mikoto Misaka",
+              "expression": "embarrassed",
+              "pose": "being grabbed"
+            }
+          ],
+          "setting": {
+            "location": "pool",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kuroko grabbing Mikoto"
+            ],
+            "dialogue": [
+              "Wah!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "Kuroko grabs Mikoto."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Mikoto Misaka",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "pool",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Mikoto stating it will not be easy"
+            ],
+            "dialogue": [
+              "Eh?",
+              "A one-piece swimsuit won't come off so easily."
+            ],
+            "emotion": "shock"
+          },
+          "text_elements": [],
+          "summary": "Mikoto states that a one-piece swimsuit will not come off so easily."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Kuroko Shirai",
+              "expression": "smiling",
+              "pose": "grabbing"
+            },
+            {
+              "name": "Mikoto Misaka",
+              "expression": "angry",
+              "pose": "being grabbed"
+            }
+          ],
+          "setting": {
+            "location": "pool",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kuroko grabbing Mikoto"
+            ],
+            "dialogue": [
+              "Ah",
+              "You've been so clingy for a while now….",
+              "You don't have to be so reserved, Onee-sama,"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "Kuroko grabs Mikoto and says she doesn't have to be so reserved."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\Summer Special (A Certain Scientific Railgun) - E-Hentai Galleries\\7.jpg",
+      "summary": "Misaka is embarrassed by Kuroko's actions while Kuroko asserts her power makes it nothing. Kuroko teleports into the water.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaka Mikoto",
+              "expression": "embarrassed",
+              "pose": "blushing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "!!!"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "あ",
+            "あぁぁ",
+            "あっ"
+          ],
+          "summary": "Misaka is blushing and embarrassed."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Misaka Mikoto",
+              "expression": "surprised",
+              "pose": "covering chest"
+            },
+            {
+              "name": "Shirai Kuroko",
+              "expression": "smug",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Misaka is covering her chest with her hands"
+            ],
+            "dialogue": [
+              "But with my power this is nothing ♡"
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [],
+          "summary": "Misaka is surprised by Kuroko's actions while Kuroko asserts her power makes it nothing."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Shirai Kuroko",
+              "expression": "determined",
+              "pose": "teleporting"
+            }
+          ],
+          "setting": {
+            "location": "beach",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "teleporting into the water"
+            ],
+            "dialogue": [],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "KU-RO-KO",
+            "AG",
+            "GG",
+            "!!!!"
+          ],
+          "summary": "Kuroko teleports into the water."
+        }
+      ]
+    }
+  ]
+}

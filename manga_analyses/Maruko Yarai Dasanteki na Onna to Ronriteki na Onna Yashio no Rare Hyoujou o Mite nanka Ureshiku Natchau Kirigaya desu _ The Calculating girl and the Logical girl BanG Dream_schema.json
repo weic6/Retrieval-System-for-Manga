@@ -1,0 +1,516 @@
+{
+  "manga_name": "[Maruko Yarai] Dasanteki na Onna to Ronriteki na Onna, Yashio no Rare Hyoujou o Mite nanka Ureshiku Natchau Kirigaya desu _ The Calculating girl and the Logical girl (BanG Dream!)",
+  "summary": "Kirigaya, a logical girl, is intrigued by a rare expression from Yashio. This leads to a cafe visit, where Yashio surprises Kirigaya with a drink, prompting a confession about past behavior and a discussion about their contrasting natures, ultimately suggesting a growing affection between them.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images/[Maruko Yarai] Dasanteki na Onna to Ronriteki na Onna, Yashio no Rare Hyoujou o Mite nanka Ureshiku Natchau Kirigaya desu _ The Calculating girl and the Logical girl (BanG Dream!)\\0.webp",
+      "summary": "Kirigaya is happy to see a rare expression from Yashio. Yashio greets Kirigaya at a cafe.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Kirigaya",
+              "expression": "neutral",
+              "pose": "reading"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kirigaya is reading a book"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Kirigaya is reading a book."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kirigaya",
+              "expression": "neutral",
+              "pose": "drinking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kirigaya is given a drink"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Kirigaya is given a drink."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Kirigaya",
+              "expression": "neutral",
+              "pose": "reading"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": [
+              "shelves",
+              "tables",
+              "chairs"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Kirigaya is reading at a cafe"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Kirigaya is reading at a cafe."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Kirigaya",
+              "expression": "slightly annoyed",
+              "pose": "looking to the side"
+            },
+            {
+              "name": "Yashio",
+              "expression": "smiling",
+              "pose": "waving"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Yashio greets Kirigaya"
+            ],
+            "dialogue": [
+              "Kirigaya-san.",
+              "Yoo! Yashio!"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "Yashio greets Kirigaya."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Maruko Yarai] Dasanteki na Onna to Ronriteki na Onna, Yashio no Rare Hyoujou o Mite nanka Ureshiku Natchau Kirigaya desu _ The Calculating girl and the Logical girl (BanG Dream!)\\1.webp",
+      "summary": "The girls are at a cafe and one of them bought the other a drink on a whim. The two girls discuss their relationship and feelings.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "seated"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": [
+              "table",
+              "drinks"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Two girls are sitting at a table at a cafe."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "talking"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "explaining her action"
+            ],
+            "dialogue": [
+              "Huh!?",
+              "I just did it on a whim, alright?",
+              "A whim!"
+            ],
+            "emotion": "cheerful"
+          },
+          "text_elements": [],
+          "summary": "One girl claims she bought the drink on a whim."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "listening"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "...how mysterious, to be treating me to a drink like this."
+            ],
+            "emotion": "contemplative"
+          },
+          "text_elements": [],
+          "summary": "The other girl is confused and thinks it's mysterious."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "thinking"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "What's that supposed to mean ...",
+              "I had never thought you were the type to do something like that."
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "One girl is curious about the other girl's actions."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "apologetic"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Recently I've even been thinking how you're way nicer than I thought, and your compositions t-",
+              "You're forgiven."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "One girl says that the other girl is nicer than she thought."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "apologetic"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "For my horrible attitude towards you around when we started ...",
+              "Well... you know,",
+              "I do think... t-that it was my bad, you know?"
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "One girl apologizes for her past attitude."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Maruko Yarai] Dasanteki na Onna to Ronriteki na Onna, Yashio no Rare Hyoujou o Mite nanka Ureshiku Natchau Kirigaya desu _ The Calculating girl and the Logical girl (BanG Dream!)\\2.webp",
+      "summary": "Yashio confronts Kirigaya about her motives, leading Kirigaya to reveal her logical nature and indifference to being seen through.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Yashio",
+              "expression": "serious",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Yashio questions Kirigaya's true reason for doing all this"
+            ],
+            "dialogue": [
+              "You did all this because you wanted to say that, didn't you?"
+            ],
+            "emotion": "suspicious"
+          },
+          "text_elements": [],
+          "summary": "Yashio confronts Kirigaya, suspecting she had ulterior motives."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kirigaya",
+              "expression": "shocked",
+              "pose": "surprised"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kirigaya reacts with surprise"
+            ],
+            "dialogue": [
+              "Basically, this was meant as an “apology”...",
+              "EHH!? No way..."
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [
+            "Just like that..."
+          ],
+          "summary": "Kirigaya is taken aback by Yashio's question."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Yashio",
+              "expression": "serious",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Yashio tells Kirigaya not to worry"
+            ],
+            "dialogue": [
+              "It's nothing to worry about."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Yashio tries to reassure Kirigaya."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Kirigaya",
+              "expression": "ashamed",
+              "pose": "covering face"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kirigaya feels exposed and embarrassed"
+            ],
+            "dialogue": [
+              "It's like I've been completely seen through and I'm feeling super lame right now...",
+              "Hold on. Don't say anymore..."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Kirigaya is mortified at being understood."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Yashio",
+              "expression": "serious",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Yashio explains her perspective on Kirigaya's thought patterns"
+            ],
+            "dialogue": [
+              "It's not like I'm bothered about it either.",
+              "And also,",
+              "rather than Futaba-san and the rest who are driven more by emotion, your thought patterns are far more logical and easy to comprehend."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Yashio reveals she is not bothered and finds Kirigaya logical."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Maruko Yarai] Dasanteki na Onna to Ronriteki na Onna, Yashio no Rare Hyoujou o Mite nanka Ureshiku Natchau Kirigaya desu _ The Calculating girl and the Logical girl (BanG Dream!)\\3.webp",
+      "summary": "The two girls continue their conversation, with one girl seemingly confirming the other's feelings.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "thoughtful",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "Doing things logically..."
+            ],
+            "emotion": "contemplative"
+          },
+          "text_elements": [],
+          "summary": "A girl thinks about doing things logically."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "facing right"
+            },
+            {
+              "name": "Girl",
+              "expression": "thoughtful",
+              "pose": "facing left"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "chuckles",
+              "talking"
+            ],
+            "dialogue": [
+              "I guess we might be more alike than I thought."
+            ],
+            "emotion": "intrigued"
+          },
+          "text_elements": [
+            "chuckle"
+          ],
+          "summary": "One girl chuckles and says they might be more alike than she thought."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "calm",
+              "pose": "facing right"
+            },
+            {
+              "name": "Girl",
+              "expression": "teasing",
+              "pose": "facing left"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "teasing"
+            ],
+            "dialogue": [
+              "How'd you come to that conclusion?",
+              "I didn't say anything of the sort.",
+              "You really do love us a ton, don't you~!?",
+              "Y-you... like I thought,"
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [
+            "?!",
+            "?!"
+          ],
+          "summary": "One girl questions the other's conclusion, while the other teases her about loving them."
+        }
+      ]
+    }
+  ]
+}

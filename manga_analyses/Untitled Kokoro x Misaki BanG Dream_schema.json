@@ -1,0 +1,628 @@
+{
+  "manga_name": "Untitled Kokoro x Misaki (BanG Dream!)",
+  "summary": "This manga portrays the blossoming feelings between Kokoro and Misaki from BanG Dream!. It depicts Kokoro's gentle observations of Misaki and her internal flustered reactions.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\Untitled Kokoro x Misaki (BanG Dream!)\\0.jpg",
+      "summary": "Kokoro finds Misaki sleeping in the classroom after finishing her weekly duty and quietly observes her. Kokoro thinks about how nice the sun feels on Misaki as she sleeps.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "noticing someone",
+              "thinking"
+            ],
+            "dialogue": [
+              "Oh my."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Kokoro notices someone in the classroom."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "finishing duty",
+              "planning to go home"
+            ],
+            "dialogue": [
+              "Misaki was still here, huh!",
+              "I was also just finished with my weekly duty! Let's go home..."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Kokoro finishes her duty and plans to go home with Misaki."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "sleeping",
+              "pose": "lying on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk",
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "noticing someone sleeping"
+            ],
+            "dialogue": [
+              "together...",
+              "Oh..."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Kokoro notices Misaki sleeping."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "sleeping",
+              "pose": "lying on desk"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "smiling",
+              "pose": "leaning on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk",
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "observing",
+              "thinking"
+            ],
+            "dialogue": [
+              "Miss Sleeping Beauty",
+              "I wonder if the sun felt nice for her.",
+              "You're really sleeping soundy, aren't you..."
+            ],
+            "emotion": "gentle"
+          },
+          "text_elements": [],
+          "summary": "Kokoro observes Misaki sleeping and wonders if the sun feels nice on her."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\Untitled Kokoro x Misaki (BanG Dream!)\\1.jpg",
+      "summary": "Kokoro is sleeping at her desk and Misaki is thinking about her dream. Misaki wakes her up and Kokoro calls out her name.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "thoughtful",
+              "pose": "looking"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "sleeping",
+              "pose": "laying on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "watching Kokoro sleep",
+              "wondering about her dream"
+            ],
+            "dialogue": [
+              "I wonder if she's having a dream now.",
+              "It'd be good if it was a nice dream..."
+            ],
+            "emotion": "peaceful"
+          },
+          "text_elements": [],
+          "summary": "Misaki thinks about Kokoro while she is sleeping and hopes she is having a nice dream."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "happy",
+              "pose": "patting"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "sleeping",
+              "pose": "laying on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "patting Kokoro on the head",
+              "waking her up"
+            ],
+            "dialogue": [
+              "There.",
+              "There."
+            ],
+            "emotion": "gentle"
+          },
+          "text_elements": [
+            "Pat",
+            "Pat"
+          ],
+          "summary": "Misaki gently pats Kokoro on the head to wake her up."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "neutral",
+              "pose": "waking up"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "sleeping",
+              "pose": "laying on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "waking Kokoro up"
+            ],
+            "dialogue": [
+              "...ro..."
+            ],
+            "emotion": "peaceful"
+          },
+          "text_elements": [],
+          "summary": "Misaki wakes Kokoro up."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "neutral",
+              "pose": "leaning"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "sleeping",
+              "pose": "laying on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "calling out Misaki's name"
+            ],
+            "dialogue": [
+              "ro...",
+              "...koko"
+            ],
+            "emotion": "peaceful"
+          },
+          "text_elements": [],
+          "summary": "Kokoro wakes up and calls out Misaki's name."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\Untitled Kokoro x Misaki (BanG Dream!)\\2.jpg",
+      "summary": "Misaki is being whispered to by Kokoro while she is sleeping. She drowsily responds.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "neutral",
+              "pose": "leaning"
+            },
+            {
+              "name": "Misaki",
+              "expression": "sleeping",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kokoro leans in to whisper to Misaki"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Kokoro leans in to whisper something to Misaki."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "neutral",
+              "pose": "leaning"
+            },
+            {
+              "name": "Misaki",
+              "expression": "sleeping",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kokoro whispers Misaki's name"
+            ],
+            "dialogue": [
+              "Misaki."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [
+            "whisper"
+          ],
+          "summary": "Kokoro whispers Misaki's name."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "sleepy",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Misaki responds to the whisper"
+            ],
+            "dialogue": [
+              "...huh?",
+              "...mm?"
+            ],
+            "emotion": "sleepy"
+          },
+          "text_elements": [],
+          "summary": "Misaki drowsily responds to being whispered to."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\Untitled Kokoro x Misaki (BanG Dream!)\\3.jpg",
+      "summary": "Kokoro's classmates discuss her habit of sleeping in class and unusual ideas. Kokoro is seen thinking about Misaki, causing her heart to race.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "leaving",
+              "pose": "walking away"
+            },
+            {
+              "name": "Girl",
+              "expression": "calling out",
+              "pose": "reaching"
+            }
+          ],
+          "setting": {
+            "location": "school hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "leaving",
+              "calling out"
+            ],
+            "dialogue": [
+              "Then it's settled! Let's go, Misaki!",
+              "Huh!?",
+              "Hey... Wait!"
+            ],
+            "emotion": "hurried"
+          },
+          "text_elements": [
+            "Hurry"
+          ],
+          "summary": "Misaki leaves and a girl calls after her."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "thoughtful",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk",
+              "windows"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "That's what people call 'camping' though..."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "A girl thinks about Misaki's sleeping habit."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "dreamy",
+              "pose": "contemplative"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "Seeing Misaki sleeping so soundly has even gotten me a little drowsy myself.",
+              "Why don't we go have an afternoon nap with everyone?",
+              "A nice and sunny park would be good, won't it?"
+            ],
+            "emotion": "dreamy"
+          },
+          "text_elements": [],
+          "summary": "A girl dreams of taking a nap with everyone in a sunny park."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "startled",
+              "pose": "seated"
+            },
+            {
+              "name": "Misaki",
+              "expression": "concerned",
+              "pose": "leaning over"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desks"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "asking a question"
+            ],
+            "dialogue": [
+              "Good morning, Misaki!",
+              "Kokoro!?",
+              "Why're you still here!?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Misaki is concerned that Kokoro is still in the classroom."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "anxious",
+              "pose": "running"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "running",
+              "calling out"
+            ],
+            "dialogue": [
+              "Kokoro, wait up!",
+              "I'm heading there now!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Kokoro hurries down the hallway."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "observant",
+              "pose": "watching Kokoro"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "observing",
+              "thinking"
+            ],
+            "dialogue": [
+              "That Kokoro...",
+              "She's thinking up weird things again..."
+            ],
+            "emotion": "observant"
+          },
+          "text_elements": [],
+          "summary": "A girl watches Kokoro and thinks about her strange ideas."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "calling out",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "calling out"
+            ],
+            "dialogue": [
+              "Oi, Kokoro!"
+            ],
+            "emotion": "calling out"
+          },
+          "text_elements": [],
+          "summary": "Misaki calls out to Kokoro."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "confused",
+              "pose": "looking to the side"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking",
+              "reacting"
+            ],
+            "dialogue": [],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "Kokoro is confused."
+        },
+        {
+          "panel_id": "9",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "flustered",
+              "pose": "clutching her chest"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "feeling her heart race",
+              "thinking"
+            ],
+            "dialogue": [],
+            "emotion": "flustered"
+          },
+          "text_elements": [
+            "Ba-dump",
+            "Ba-dump",
+            "Ba-dump..."
+          ],
+          "summary": "Kokoro's heart races."
+        }
+      ]
+    }
+  ]
+}

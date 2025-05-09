@@ -1,0 +1,511 @@
+{
+  "manga_name": "[Ao] Kyouken to Koinu + Arisa to Masking to _ The Mad dog and the puppies (BanG Dream!)",
+  "summary": "Mashiro encounters a delinquent but receives a surprising offer of cake. Later, Arisa, after an encounter with Masking, arrives at a baking event only to find Masking distressed. It seems Masking may have unintentionally scared Arisa during the earlier encounter.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images/[Ao] Kyouken to Koinu + Arisa to Masking to _ The Mad dog and the puppies (BanG Dream!)\\0.jpg",
+      "summary": "A delinquent corners Mashiro, but surprisingly offers her cake; later, another character witnesses the exchange.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Delinquent",
+              "expression": "angry",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "angry"
+          },
+          "text_elements": [],
+          "summary": "A delinquent girl appears angry."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Mashiro",
+              "expression": "crying",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Mashiro is depicted crying."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Mashiro",
+              "expression": "scared",
+              "pose": "standing"
+            },
+            {
+              "name": "Delinquent",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "wall",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "corners Mashiro against a wall"
+            ],
+            "dialogue": [],
+            "emotion": "tense"
+          },
+          "text_elements": [
+            "WALL"
+          ],
+          "summary": "The delinquent corners Mashiro against the wall."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Mashiro",
+              "expression": "surprised",
+              "pose": "standing"
+            },
+            {
+              "name": "Delinquent",
+              "expression": "calm",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "offers Mashiro cake"
+            ],
+            "dialogue": [
+              "Eh?",
+              "You can have this",
+              "You... sure are cute..."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [
+            "Cake"
+          ],
+          "summary": "Delinquent offers Mashiro cake."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Mashiro",
+              "expression": "shocked",
+              "pose": "holding cake"
+            },
+            {
+              "name": "Delinquent",
+              "expression": "unknown",
+              "pose": "standing"
+            },
+            {
+              "name": "Unknown",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is questioned by a third character"
+            ],
+            "dialogue": [
+              "Eh?",
+              "Also I received a cake.",
+              "Let's eat it with everyone?",
+              "Eh?",
+              "Yea, I was told I was cute?",
+              "Mashiro-chan! I saw you get tangled with a delinquent but are you okay!?"
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [
+            "Cake",
+            "♫"
+          ],
+          "summary": "Another character questions Mashiro about the incident."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Ao] Kyouken to Koinu + Arisa to Masking to _ The Mad dog and the puppies (BanG Dream!)\\1.jpg",
+      "summary": "Masking behaves menacingly towards Arisa, leaving Arisa scared and calling out for help.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Masking",
+              "expression": "stern",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "menacing"
+            ],
+            "dialogue": [
+              "Masking!?"
+            ],
+            "emotion": "tense"
+          },
+          "text_elements": [
+            "MENACING"
+          ],
+          "summary": "Masking looks menacing."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Arisa",
+              "expression": "worried",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being called out"
+            ],
+            "dialogue": [
+              "Oi"
+            ],
+            "emotion": "worried"
+          },
+          "text_elements": [],
+          "summary": "Arisa responds."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Arisa",
+              "expression": "scared",
+              "pose": "being grabbed"
+            },
+            {
+              "name": "Masking",
+              "expression": "stern",
+              "pose": "grabbing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "grabs Arisa"
+            ],
+            "dialogue": [
+              "U-um... Did I do something wrong...?",
+              "Enough already, just come with me.",
+              "Lend me your face for a bit."
+            ],
+            "emotion": "tense"
+          },
+          "text_elements": [],
+          "summary": "Masking grabs Arisa."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Arisa",
+              "expression": "scared",
+              "pose": "trembling"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "trembling"
+            ],
+            "dialogue": [
+              "Am I gonna get mugged...!?",
+              "Save me, Kasumi!",
+              "Eh...",
+              "What's going to happen to me?",
+              "Could it be..."
+            ],
+            "emotion": "scared"
+          },
+          "text_elements": [
+            "tremble",
+            "tremble"
+          ],
+          "summary": "Arisa is scared."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images/[Ao] Kyouken to Koinu + Arisa to Masking to _ The Mad dog and the puppies (BanG Dream!)\\2.jpg",
+      "summary": "Arisa and Masking arrive to bake cakes, but Arisa is surprised to find Masking crying.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Arisa",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Masking",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "arriving",
+              "preparing"
+            ],
+            "dialogue": [
+              "Ooh! Arisa's finally here too, huh~",
+              "The preparations are all done here~",
+              "Masking! Welcome back~"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "♪"
+          ],
+          "summary": "Arisa and Masking arrive."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Arisa",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Masking",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "inviting"
+            ],
+            "dialogue": [
+              "We were talking about baking some cakes together and the two of them said it'd be better to invite you too.",
+              "Let's do it together!"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The girls invite Masking and Arisa to bake."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Masking",
+              "expression": "crying",
+              "pose": "shocked"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "crying",
+              "being scared"
+            ],
+            "dialogue": [
+              "I didn't do anything!!",
+              "Masking! What'd you do!?",
+              "So scared...",
+              "I was so scared...!",
+              "Wait, Arisa's crying!?"
+            ],
+            "emotion": "scared"
+          },
+          "text_elements": [
+            "پا",
+            "し",
+            "6"
+          ],
+          "summary": "Arisa finds Masking crying."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images/[Ao] Kyouken to Koinu + Arisa to Masking to _ The Mad dog and the puppies (BanG Dream!)\\3.webp",
+      "summary": "The others address the situation, with Masking apologizing and one girl comforting the crying girl.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Masking",
+              "expression": "scared",
+              "pose": "raising hands"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "apologizing"
+            ],
+            "dialogue": [
+              "M-my bad..."
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "Masking apologizes."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "annoyed",
+              "pose": "hands on hips"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "scolding"
+            ],
+            "dialogue": [
+              "Masking, you can't just go scaring people like that!"
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "Another girl scolds Masking."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "crying",
+              "pose": "covering face"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "crying",
+              "sobbing"
+            ],
+            "dialogue": [
+              "Sob... sob..."
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "A girl is crying."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "comforting",
+              "pose": "patting shoulder"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "comforting"
+            ],
+            "dialogue": [
+              "There, there. It must have been scary, huh~"
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [],
+          "summary": "A girl is comforting the crying girl."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "manga_name": "[KakiPeanuts] Body Swap with My Stepmother - E-Hentai Galleries",
+  "summary": "Hikari, a 19-year-old university student, admires her stepmother Minako. One morning, they mysteriously swap bodies. Now, Hikari is stuck with Minako's large body and the associated attention, while Minako must try to navigate university life in Hikari's younger form. They must work together to figure out how to swap back.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[KakiPeanuts] Body Swap with My Stepmother - E-Hentai Galleries\\0.webp",
+      "summary": "Hikari introduces herself and her relationship with Kento, her childhood friend and classmate, as well as her stepmother Minako.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "introduces herself"
+            ],
+            "dialogue": [
+              "I'm 19 years old university student.",
+              "My name is Hikari."
+            ],
+            "emotion": "informative"
+          },
+          "text_elements": [],
+          "summary": "Hikari introduces herself as a 19-year-old university student."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kento",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Hikari",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "studies with Kento",
+              "thanks Kento"
+            ],
+            "dialogue": [
+              "Thanks for studying with me",
+              "Kento",
+              "No problem"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "Hikari and Kento study together."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Kento",
+              "expression": "neutral",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinks about Hikari"
+            ],
+            "dialogue": [
+              "Oh?",
+              "He is my childhood, Kento. we study at the same university"
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "Kento reflects on his relationship with Hikari, his childhood friend and classmate."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "happy",
+              "pose": "standing"
+            },
+            {
+              "name": "Kento",
+              "expression": "happy",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talks to Kento",
+              "comments on Hikari"
+            ],
+            "dialogue": [
+              "I'm happy you are so good with Hikari.",
+              "She is kind and beautifull...",
+              "We have no blood relation, but she is my dear family raised me after I lost my true mother when I was little.",
+              "And she is a father's second mariage, Minako. For me, she is my stepmother.",
+              "And she has big one.",
+              "Oh...yes..."
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "Minako expresses her happiness that Kento and Hikari get along and explains her role in Kento's life."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Kento",
+              "expression": "neutral",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": [
+              "house"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "says goodbye"
+            ],
+            "dialogue": [
+              "Is, see you again.."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Kento says goodbye as he walks home."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "calls to Kento"
+            ],
+            "dialogue": [
+              "Kento, youre here."
+            ],
+            "emotion": "teasing"
+          },
+          "text_elements": [
+            "たっぴん"
+          ],
+          "summary": "Minako calls to Kento."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[KakiPeanuts] Body Swap with My Stepmother - E-Hentai Galleries\\1.webp",
+      "summary": "Hikari compares herself to Minako and expresses her wish to be like her, then wakes up the next morning feeling heavy and unwell.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "sad",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "pillow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "lying in bed",
+              "thinking"
+            ],
+            "dialogue": [
+              "In contrast... I am.....",
+              "I wish I could be like her..."
+            ],
+            "emotion": "melancholy"
+          },
+          "text_elements": [],
+          "summary": "Hikari lies in bed feeling inadequate compared to Minako."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "content",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "pillow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "lying in bed"
+            ],
+            "dialogue": [
+              "Minako is attractive woman.!"
+            ],
+            "emotion": "envy"
+          },
+          "text_elements": [],
+          "summary": "Minako is shown lying in bed looking attractive."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "neutral",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "lying in bed"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Minako is shown lying in bed."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "sad",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at the ground"
+            ],
+            "dialogue": [
+              "Kento...",
+              "He was attrcted to Minako..."
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Hikari is sad because Kento is attracted to Minako."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "standing",
+              "getting ready for school"
+            ],
+            "dialogue": [
+              "Anyway...",
+              "I have to go to school..."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Hikari gets ready for school."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "tired",
+              "pose": "waking up"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "waking up"
+            ],
+            "dialogue": [
+              "Alredy morning...?",
+              "The next morning"
+            ],
+            "emotion": "tired"
+          },
+          "text_elements": [],
+          "summary": "The next morning, Hikari wakes up."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "shocked",
+              "pose": "looking in mirror"
+            }
+          ],
+          "setting": {
+            "location": "bathroom",
+            "background_elements": [
+              "sink",
+              "mirror"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "looking in the mirror"
+            ],
+            "dialogue": [
+              "...?"
+            ],
+            "emotion": "shock"
+          },
+          "text_elements": [],
+          "summary": "Hikari looks in the mirror and is shocked by what she sees."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "concerned",
+              "pose": "holding head"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding her head",
+              "feeling unwell"
+            ],
+            "dialogue": [
+              "My body feels!so heavy...",
+              "Did I cathc a cold...?"
+            ],
+            "emotion": "sick"
+          },
+          "text_elements": [],
+          "summary": "Hikari feels unwell and wonders if she caught a cold."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[KakiPeanuts] Body Swap with My Stepmother - E-Hentai Galleries\\2.webp",
+      "summary": "Hikari is shocked to find herself in Minako's body. She is further surprised by the large size of the body.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "shocked",
+              "pose": "looking at body"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is surprised by body"
+            ],
+            "dialogue": [
+              "It's my body!!?",
+              "Am I dreaming...?"
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "Hikari is surprised by her body."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "concerned",
+              "pose": "touching face"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "examines new body"
+            ],
+            "dialogue": [
+              "But...",
+              "It certinly feels weight...!!"
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [
+            "ズシ..."
+          ],
+          "summary": "Hikari is concerned about the weight of the new body."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "concerned",
+              "pose": "touching face"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "examines new body",
+              "questions whose body it is"
+            ],
+            "dialogue": [
+              "Minako...?"
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "Hikari questions whose body it is."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "confused",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "examines new body"
+            ],
+            "dialogue": [
+              "I can't see my feet",
+              "Hers are so huge..."
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "Hikari is shocked to find she can't see her feet."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "shocked",
+              "pose": "looking"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "realizes identity"
+            ],
+            "dialogue": [
+              "Hikari...?",
+              "!!?"
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "Hikari realizes her name."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[KakiPeanuts] Body Swap with My Stepmother - E-Hentai Galleries\\3.webp",
+      "summary": "Minako and Hikari realize they have swapped bodies and decide to continue with their day-to-day routines until they can figure out how to swap back.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "worried",
+              "pose": "standing"
+            },
+            {
+              "name": "Hikari",
+              "expression": "worried",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "standing and talking"
+            ],
+            "dialogue": [
+              "Errr... Minako?",
+              "What should we do...!",
+              "It seems like our bodied have been swapped..."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "Minako and Hikari have swapped bodies and are trying to figure out what to do."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "shocked",
+              "pose": "standing"
+            },
+            {
+              "name": "Hikari",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "realizing the body swap"
+            ],
+            "dialogue": [
+              "Our bodies are being swapped !?"
+            ],
+            "emotion": "shock"
+          },
+          "text_elements": [],
+          "summary": "The two characters are shocked when they realize the body swap."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "serious",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "pointing at herself"
+            ],
+            "dialogue": [
+              "But.. today...",
+              "I know we have to find a way to get I back our own bodies..."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Hikari is determined to find a way to swap back."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "calm",
+              "pose": "standing"
+            },
+            {
+              "name": "Hikari",
+              "expression": "calm",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking to each other"
+            ],
+            "dialogue": [
+              "It's not your fault, Hikari.",
+              "We'll find a way to get back later."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Minako comforts Hikari and tells her they will find a way to swap back later."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "sad",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking to Minako"
+            ],
+            "dialogue": [
+              "Sorry... todays lecture can't be missed...",
+              "I'll go to university insted of you."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Hikari tells Minako she has to go to university."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking to Hikari"
+            ],
+            "dialogue": [
+              "Right then, Hikari"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Minako tells Hikari to go to university."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Hikari",
+              "expression": "serious",
+              "pose": "thinking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking about her duties"
+            ],
+            "dialogue": [
+              "Okay... I have to do the housework instead of Minako...!"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Hikari realizes she has to do the housework instead of Minako."
+        },
+        {
+          "panel_id": "8",
+          "characters": [],
+          "setting": {
+            "location": "outside",
+            "background_elements": [
+              "house"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "leaving the house"
+            ],
+            "dialogue": [
+              "I'll be back!"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "A character leaves the house."
+        },
+        {
+          "panel_id": "9",
+          "characters": [
+            {
+              "name": "Minako",
+              "expression": "determined",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "walking to university"
+            ],
+            "dialogue": [],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Minako heads to university in Hikari's body."
+        }
+      ]
+    }
+  ]
+}

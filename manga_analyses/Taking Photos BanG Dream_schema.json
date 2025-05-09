@@ -1,0 +1,458 @@
+{
+  "manga_name": "Taking Photos (BanG Dream!)",
+  "summary": "A manga about taking photos and the memories they hold, featuring Kokoro's enthusiasm for photography and the reactions to Misaki's photos.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\Taking Photos (BanG Dream!)\\0.webp",
+      "summary": "A girl is photographed and wonders if someone took a photo of her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "sky",
+              "clouds"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "standing in front of the sky"
+            ],
+            "dialogue": [],
+            "emotion": "pensive"
+          },
+          "text_elements": [
+            "CLICK"
+          ],
+          "summary": "A girl stands in front of a cloudy sky, and the text \"CLICK\" is above her."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {},
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Yeah, I took one."
+            ],
+            "emotion": "matter-of-fact"
+          },
+          "text_elements": [],
+          "summary": "Someone says they took a photo."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {},
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "I love taking photos."
+            ],
+            "emotion": "enthusiastic"
+          },
+          "text_elements": [],
+          "summary": "Someone states they love taking photos."
+        },
+        {
+          "panel_id": "4",
+          "characters": [],
+          "setting": {},
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Eh, did you take a photo just now?"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "Someone asks if a photo was just taken."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\Taking Photos (BanG Dream!)\\1.webp",
+      "summary": "Kokoro expresses her love for taking photos, while the other character asks to see Kokoro's camera and the photos she has taken.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "apologizes for something"
+            ],
+            "dialogue": [
+              "Oh, sorry about that.",
+              "If you want to take a photo, just say so."
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "A girl apologizes and says to ask if they want to take a photo."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "neutral",
+              "pose": "holding camera"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "asks if she is allowed to take photos"
+            ],
+            "dialogue": [
+              "No, it's not as if you can't, but...",
+              "Am I not allowed to?"
+            ],
+            "emotion": "hesitant"
+          },
+          "text_elements": [],
+          "summary": "Kokoro asks if she's allowed to take photos."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "neutral",
+              "pose": "holding camera"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "states that photos preserve memories",
+              "mentions doing something next time"
+            ],
+            "dialogue": [
+              "Then those precious memories can have a shape to leave behind.",
+              "I'll make sure to do that next time.",
+              "If it's a photo,"
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "Kokoro thinks about how photos preserve memories."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "looking"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "neutral",
+              "pose": "none"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "asks what kind of photos Kokoro was taking",
+              "asks to see Kokoro's camera"
+            ],
+            "dialogue": [
+              "...What kind of photos were you taking?",
+              "Huh...",
+              "...Kokoro, do you like taking photos?",
+              "Sure!",
+              "May I see your camera for a bit?",
+              "Yup, I love to!"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "The girl asks to see Kokoro's camera and the photos she took."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\Taking Photos (BanG Dream!)\\2.webp",
+      "summary": "A girl is looking at photos and then takes a photo of another girl.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "embracing"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "embracing"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding a bear"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Precious memories I want to leave behind.",
+              "Because there are so, so many,"
+            ],
+            "emotion": "nostalgic"
+          },
+          "text_elements": [],
+          "summary": "The girl looks at photos and reflects on the memories."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "looking at photos"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at photos"
+            ],
+            "dialogue": [
+              "What I love so much is..."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A girl is looking at photos and is happy."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "looking at photos"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at photos"
+            ],
+            "dialogue": [
+              "Wah... as expected, there's a lot of hello, happy..."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The girl is happy looking at the photos."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "looking at camera"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "A girl looks surprised."
+        },
+        {
+          "panel_id": "5",
+          "characters": [],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "taking photo"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Someone is taking a photo with a camera."
+        },
+        {
+          "panel_id": "6",
+          "characters": [],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "CLICK"
+          ],
+          "summary": "A photo is taken."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\Taking Photos (BanG Dream!)\\3.webp",
+      "summary": "Misaki takes a photo, and someone tells her not to delete it. Another person responds that they won't.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "smiles",
+              "takes a photo"
+            ],
+            "dialogue": [
+              "fwaah.",
+              "what a ridiculous face."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Misaki smiles and takes a photo, someone calls her face ridiculous."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "looking up"
+            }
+          ],
+          "setting": {
+            "location": null,
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looks up"
+            ],
+            "dialogue": [
+              "it's you after all.",
+              "misaki.",
+              "that photo you just took,",
+              "you better not delete it.",
+              "...of course not.",
+              "don't delete it!"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Someone says it's Misaki after she takes a photo and asks her not to delete it, Misaki says that she won't."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\Taking Photos (BanG Dream!)\\4.webp",
+      "summary": "The page has the title 'A3's Band Scans' and includes credits for the translation and production team, along with an advertisement for their Discord server and a declaration of liking Bandori.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "looking at phone"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at pictures on a phone"
+            ],
+            "dialogue": [
+              "Wah... they're all just pictures of sonic OCs..."
+            ],
+            "emotion": "disappointed"
+          },
+          "text_elements": [],
+          "summary": "A girl is looking at pictures on a phone and is disappointed by them."
+        }
+      ]
+    }
+  ]
+}
