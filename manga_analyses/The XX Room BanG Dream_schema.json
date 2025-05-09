@@ -1,0 +1,607 @@
+{
+  "manga_name": "The XX Room (BanG Dream!)",
+  "summary": "A group of girls find themselves trapped in a mysterious room with strange rules, forcing them into awkward and intimate situations. As they attempt to escape, underlying tensions and desires surface, leading to both comedic moments and passionate encounters. Ultimately, they fail to escape the room, and the scanlation team behind the manga seeks new members.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\The XX Room (BanG Dream!)\\0.webp",
+      "summary": "The characters are trapped in a room that only lets them out if they make out or flirt. One character is resistant to the idea and is flustered by the other's actions.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "looking up"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "looking up"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "observe",
+              "ponder"
+            ],
+            "dialogue": [
+              "You can't leave this room?"
+            ],
+            "emotion": "inquisitive"
+          },
+          "text_elements": [],
+          "summary": "Two characters notice they are trapped in a room."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "looking at sign"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "sign"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "read",
+              "analyze"
+            ],
+            "dialogue": [
+              "If you make out... You make out, you can't leave."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "A character reads a sign that explains the conditions for leaving the room."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Arisa",
+              "expression": "angry",
+              "pose": "struggling"
+            },
+            {
+              "name": "Girl",
+              "expression": "anxious",
+              "pose": "being held"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "struggle",
+              "argue"
+            ],
+            "dialogue": [
+              "Let go!",
+              "You know what I'm talking about!",
+              "What are we going to do, Arisa? We're trapped~"
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [],
+          "summary": "Arisa is struggling against another character who is trying to flirt with her."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "calm",
+              "pose": "arms crossed"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "analyze",
+              "consider"
+            ],
+            "dialogue": [
+              "So if we flirt, we can't leave?",
+              "Well, that's simple enough."
+            ],
+            "emotion": "contemplative"
+          },
+          "text_elements": [],
+          "summary": "A character considers the possibility of flirting to escape."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Kasumi",
+              "expression": "angry",
+              "pose": "walking away"
+            },
+            {
+              "name": "Girl",
+              "expression": "scared",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "walk away",
+              "warn"
+            ],
+            "dialogue": [
+              "Kasumi, don't you dare come near me..."
+            ],
+            "emotion": "threatened"
+          },
+          "text_elements": [
+            "WHAM"
+          ],
+          "summary": "One character warns another not to approach."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "pointing"
+            },
+            {
+              "name": "Arisa",
+              "expression": "shocked",
+              "pose": "being touched"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "touch",
+              "react"
+            ],
+            "dialogue": [],
+            "emotion": "surprised"
+          },
+          "text_elements": [
+            "?",
+            "BEEP",
+            "BEEP",
+            "JOLT"
+          ],
+          "summary": "A character is surprised by another character's touch."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\The XX Room (BanG Dream!)\\1.webp",
+      "summary": "The girls explore the room and find a bed with a suspicious pillow. They decide to sit on it, but Arisa can't handle it for long.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "bed",
+              "pillow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "pointing at a bed",
+              "observing the pillow"
+            ],
+            "dialogue": [
+              "The hell's that?!",
+              "That's so suspicious!",
+              "Let's sit on that bed over there!"
+            ],
+            "emotion": "suspicious"
+          },
+          "text_elements": [
+            "BAM",
+            "YES"
+          ],
+          "summary": "The group sees a bed with a pillow that has 'YES' written on it and is suspicious."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Arisa",
+              "expression": "crying",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "crying",
+              "agreeing to sit"
+            ],
+            "dialogue": [
+              "Eh~ that's impossible!",
+              "Just put up with it for a bit.",
+              "Then at least..."
+            ],
+            "emotion": "reluctant"
+          },
+          "text_elements": [],
+          "summary": "Arisa is reluctant but agrees to sit on the bed."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Kasumi",
+              "expression": "smiling",
+              "pose": "excited"
+            },
+            {
+              "name": "Saya",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Tae",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "sitting on the bed"
+            ],
+            "dialogue": [
+              "As long as we're just sitting...",
+              "Yay!",
+              "Well...",
+              "But..."
+            ],
+            "emotion": "optimistic"
+          },
+          "text_elements": [],
+          "summary": "Kasumi is excited to sit on the bed, while Saya and Tae are skeptical."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Arisa",
+              "expression": "distressed",
+              "pose": "lying on the bed"
+            },
+            {
+              "name": "Saya",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "lying on the bed",
+              "struggling",
+              "asking a question"
+            ],
+            "dialogue": [
+              "Can't you just hold on for a little bit longer?",
+              "I'm thinking.",
+              "I'm dying from an Arisa deficiency~",
+              "Then what are you always doing at home?",
+              "Arisa~ still~?"
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [
+            "AHHHHH"
+          ],
+          "summary": "Arisa is struggling to endure sitting on the bed, claiming to be suffering from an 'Arisa deficiency'."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\The XX Room (BanG Dream!)\\2.webp",
+      "summary": "The two girls initially struggle to resist each other, but eventually succumb to their desires, leading to an intimate encounter.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "annoyed",
+              "pose": "holding chest"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reacting"
+            ],
+            "dialogue": [
+              "ah... geez!",
+              "ugh"
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [
+            "RISE"
+          ],
+          "summary": "A girl is frustrated and holding her chest."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "lying",
+              "thinking"
+            ],
+            "dialogue": [
+              "it's painful being together, but not being able to do anything..."
+            ],
+            "emotion": "longing"
+          },
+          "text_elements": [],
+          "summary": "A girl is longing and thinking about how painful it is to be together without being able to do anything."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Arisha",
+              "expression": "determined",
+              "pose": "reaching out"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reaching out",
+              "asking"
+            ],
+            "dialogue": [
+              "arisha~",
+              "that's it, alright?",
+              "...only for 5 minutes.",
+              "swish"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "!"
+          ],
+          "summary": "Arisha is determined and asks if it's alright, but only for 5 minutes."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Arisha",
+              "expression": "ecstatic",
+              "pose": "embracing"
+            },
+            {
+              "name": "Girl",
+              "expression": "ecstatic",
+              "pose": "embracing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "embracing",
+              "gasping"
+            ],
+            "dialogue": [
+              "so...",
+              "we can't escape...",
+              "sorry, arisha~",
+              "gasp",
+              "ha",
+              "ha",
+              "gasp"
+            ],
+            "emotion": "passionate"
+          },
+          "text_elements": [],
+          "summary": "An hour later, the two girls are passionately embracing."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\The XX Room (BanG Dream!)\\3.webp",
+      "summary": "A humorous manga page showing characters approaching a bed with an Among Us character, leading to a comical 'bad end' scenario of becoming skeletons in the bed.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "Bedroom",
+            "background_elements": [
+              "Bed",
+              "Pillows",
+              "Among Us Figure"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "approaching the bed",
+              "pointing"
+            ],
+            "dialogue": [
+              "The hell's that?!",
+              "That's so sus!",
+              "Let's sit on that bed over there!"
+            ],
+            "emotion": "humorous"
+          },
+          "text_elements": [
+            "BAM",
+            "YES"
+          ],
+          "summary": "Characters approach a bed with an unusual object, expressing suspicion and curiosity."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Skeletons",
+              "expression": "lifeless",
+              "pose": "lying in bed"
+            }
+          ],
+          "setting": {
+            "location": "Bed",
+            "background_elements": [
+              "Pillows"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "lying in bed",
+              "becoming skeletons"
+            ],
+            "dialogue": [
+              "In the end, they never were able to escape...."
+            ],
+            "emotion": "comical horror"
+          },
+          "text_elements": [
+            "BAD END 1: \"ONLY FOR 5 MINUTES\""
+          ],
+          "summary": "The characters have become skeletons in the bed, implying a humorous and fatal outcome."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\The XX Room (BanG Dream!)\\4.webp",
+      "summary": "A scanlation group is recruiting Korean translators for manga from the Bandori and Bushiroad franchises. No experience is needed, but some knowledge of the language is preferred.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "What are you going to do?"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "A girl asks another person what they're going to do."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "distressed",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "worried"
+          },
+          "text_elements": [],
+          "summary": "A girl looks worried."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "raising arm"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "From now on, I want to go even higher!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "A girl is determined to go higher."
+        }
+      ]
+    }
+  ]
+}

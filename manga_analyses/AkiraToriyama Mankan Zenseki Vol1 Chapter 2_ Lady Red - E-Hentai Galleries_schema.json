@@ -1,0 +1,847 @@
+{
+  "manga_name": "[AkiraToriyama] Mankan Zenseki Vol.1 Chapter 2_ Lady Red - E-Hentai Galleries",
+  "summary": "Lady Red, a former office lady turned ally of justice due to rampant evil, struggles with a lack of funds. After a car accident and failed attempt to stop a robber, she decides to become a 'messenger of sexual skill' to make money.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[AkiraToriyama] Mankan Zenseki Vol.1 Chapter 2_ Lady Red - E-Hentai Galleries\\0.jpg",
+      "summary": "Lady Red is on patrol and ends up in a car accident. She then deals with a robbery.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "serious",
+              "pose": "driving"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "driving a car",
+              "declaring her mission"
+            ],
+            "dialogue": [
+              "I'm Lady Red. Due to the rampant increase in evil, I quit my job as an office lady and became an ally of justice. I don't have any money now, but that's ok. This is my calling."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Lady Red explains her origin and her mission as she drives her car."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Motorcyclist",
+              "expression": "serious",
+              "pose": "riding"
+            },
+            {
+              "name": "Lady Red",
+              "expression": "determined",
+              "pose": "driving"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "buildings",
+              "fire hydrant"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "riding a motorcycle",
+              "driving a car"
+            ],
+            "dialogue": [
+              "I'm out on patrol today too. I won't stop until evil itself is gone from this world."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "PASN",
+            "PASN"
+          ],
+          "summary": "A motorcyclist makes a statement as Lady Red continues driving."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "shocked",
+              "pose": "driving"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "cars"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "crashing cars"
+            ],
+            "dialogue": [],
+            "emotion": "shock"
+          },
+          "text_elements": [
+            "GAN!!"
+          ],
+          "summary": "Lady Red gets into a car accident."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Old Man",
+              "expression": "angry",
+              "pose": "pointing"
+            },
+            {
+              "name": "Lady Red",
+              "expression": "apologetic",
+              "pose": "calm"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "cars"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "yelling",
+              "apologizing"
+            ],
+            "dialogue": [
+              "Where the hell were you looking?!"
+            ],
+            "emotion": "angry"
+          },
+          "text_elements": [],
+          "summary": "An angry old man yells at Lady Red after the car accident."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "stern",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "buildings",
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "pointing",
+              "scolding"
+            ],
+            "dialogue": [
+              "Watch out next time!!"
+            ],
+            "emotion": "stern"
+          },
+          "text_elements": [],
+          "summary": "Lady Red scolds someone off-panel."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "angry",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "brick wall"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "pointing",
+              "shouting"
+            ],
+            "dialogue": [
+              "Ah!"
+            ],
+            "emotion": "angry"
+          },
+          "text_elements": [
+            "BANG",
+            "BANG"
+          ],
+          "summary": "Lady Red is reacting to gunshots."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Robber",
+              "expression": "running",
+              "pose": "escaping"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "fire hydrant",
+              "car"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "running away",
+              "robbing someone"
+            ],
+            "dialogue": [
+              "I've been robbed! Somebody help!!"
+            ],
+            "emotion": "urgent"
+          },
+          "text_elements": [
+            "DASH!"
+          ],
+          "summary": "Someone has been robbed and the robber is escaping."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[AkiraToriyama] Mankan Zenseki Vol.1 Chapter 2_ Lady Red - E-Hentai Galleries\\1.jpg",
+      "summary": "Lady Red is chasing a car. She takes a taxi and argues with the driver over the fare.",
+      "panels": [
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "angry",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "shouting"
+            ],
+            "dialogue": [
+              "Evil!!"
+            ],
+            "emotion": "angry"
+          },
+          "text_elements": [],
+          "summary": "Lady Red is shouting in anger."
+        },
+        {
+          "panel_id": "9",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "angry",
+              "pose": "driving"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "driving a car",
+              "struggling to start the car"
+            ],
+            "dialogue": [
+              "No!! It won't go!!"
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [
+            "Pus Pusooo"
+          ],
+          "summary": "Lady Red is struggling to start her car."
+        },
+        {
+          "panel_id": "10",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "shouting",
+              "pose": "waving"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "calling a taxi"
+            ],
+            "dialogue": [
+              "Taxi!!"
+            ],
+            "emotion": "urgent"
+          },
+          "text_elements": [
+            "STOP!"
+          ],
+          "summary": "Lady Red is calling a taxi."
+        },
+        {
+          "panel_id": "11",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "determined",
+              "pose": "sitting"
+            },
+            {
+              "name": "Taxi Driver",
+              "expression": "serious",
+              "pose": "driving"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "ordering to follow a car"
+            ],
+            "dialogue": [
+              "Follow that car!!",
+              "Sure"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "kikiii...!"
+          ],
+          "summary": "Lady Red orders the taxi driver to follow a car."
+        },
+        {
+          "panel_id": "12",
+          "characters": [
+            {
+              "name": "Taxi Driver",
+              "expression": "serious",
+              "pose": "driving"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "buildings",
+              "traffic light"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "driving a car"
+            ],
+            "dialogue": [],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "BROOOOM!"
+          ],
+          "summary": "The taxi driver is driving after the car."
+        },
+        {
+          "panel_id": "13 14",
+          "characters": [],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "house",
+              "gas station"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "following a car",
+              "getting closer to their destination"
+            ],
+            "dialogue": [
+              "He stopped at that house! Ok, let me off here."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "SPEEED!"
+          ],
+          "summary": "Lady Red is following the car in the taxi and getting closer to destination."
+        },
+        {
+          "panel_id": "15",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "angry",
+              "pose": "sitting"
+            },
+            {
+              "name": "Taxi Driver",
+              "expression": "serious",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "inside taxi",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "arguing over the fare"
+            ],
+            "dialogue": [
+              "That'll be $21",
+              "Huh!? You'd take money from an ally of justice!? There's no way I'd have that much money!"
+            ],
+            "emotion": "angry"
+          },
+          "text_elements": [],
+          "summary": "Lady Red is arguing with the taxi driver over the fare."
+        },
+        {
+          "panel_id": "16",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "shocked",
+              "pose": "sitting"
+            },
+            {
+              "name": "Taxi Driver",
+              "expression": "angry",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "inside taxi",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "demanding payment"
+            ],
+            "dialogue": [
+              "You're shitting me!! In that case, you can pay with your body!",
+              "Huh!?"
+            ],
+            "emotion": "angry"
+          },
+          "text_elements": [],
+          "summary": "The taxi driver is demanding payment."
+        },
+        {
+          "panel_id": "17",
+          "characters": [],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "palm trees",
+              "house",
+              "sunset"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "arriving at destination"
+            ],
+            "dialogue": [
+              "A~~~H!"
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "Lady Red arrives at her destination."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images/[AkiraToriyama] Mankan Zenseki Vol.1 Chapter 2_ Lady Red - E-Hentai Galleries\\2.jpg",
+      "summary": "Lady Red confronts criminals and offers her services as a 'messenger of sexual skill'. She is paid by a man after presumably sleeping with him.",
+      "panels": [
+        {
+          "panel_id": "18",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "determined",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": [
+              "taxi"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "leaving"
+            ],
+            "dialogue": [
+              "So long!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "BRORO..."
+          ],
+          "summary": "Lady Red says goodbye and departs the scene."
+        },
+        {
+          "panel_id": "19",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "determined",
+              "pose": "flying"
+            }
+          ],
+          "setting": {
+            "location": "cityscape",
+            "background_elements": [
+              "buildings",
+              "moon"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "flying",
+              "dashing"
+            ],
+            "dialogue": [
+              "No!! this isn't the time to get dispirited!!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "DASH!"
+          ],
+          "summary": "Lady Red flies through the night, urging herself to stay focused."
+        },
+        {
+          "panel_id": "20",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "angry",
+              "pose": "knocking"
+            }
+          ],
+          "setting": {
+            "location": "house",
+            "background_elements": [
+              "door"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "knocking",
+              "threatening"
+            ],
+            "dialogue": [
+              "Open up!",
+              "I know you're in there!!"
+            ],
+            "emotion": "angry"
+          },
+          "text_elements": [
+            "DOM",
+            "DOM"
+          ],
+          "summary": "Lady Red confronts someone behind a closed door."
+        },
+        {
+          "panel_id": "21",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "determined",
+              "pose": "standing"
+            },
+            {
+              "name": "Man",
+              "expression": "confused",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "table",
+              "chair",
+              "bag"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "confronting"
+            ],
+            "dialogue": [
+              "Whai?",
+              "Who the heck are you!?"
+            ],
+            "emotion": "confrontational"
+          },
+          "text_elements": [],
+          "summary": "Lady Red confronts a man in a room."
+        },
+        {
+          "panel_id": "22",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "determined",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "declaring"
+            ],
+            "dialogue": [
+              "I'm the messenger of justice, lady red!!",
+              "Give yourself up peacefully, robber!!"
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Lady Red declares herself a messenger of justice and demands the robber's surrender."
+        },
+        {
+          "panel_id": "23",
+          "characters": [
+            {
+              "name": "Man",
+              "expression": "smirking",
+              "pose": "grabbing"
+            },
+            {
+              "name": "Lady Red",
+              "expression": "angry",
+              "pose": "hitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "grabbing",
+              "hitting"
+            ],
+            "dialogue": [
+              "Don't give me that crap. let's have some fun together!",
+              "Ah, that hurts!!"
+            ],
+            "emotion": "aggressive"
+          },
+          "text_elements": [],
+          "summary": "The man tries to grab Lady Red, who hits him."
+        },
+        {
+          "panel_id": "24",
+          "characters": [
+            {
+              "name": "Man",
+              "expression": "smirking",
+              "pose": "begging"
+            },
+            {
+              "name": "Lady Red",
+              "expression": "angry",
+              "pose": "struggling"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "begging",
+              "struggling"
+            ],
+            "dialogue": [
+              "Hehhhehhe, you're a pretty fine woman, aincha?",
+              "W-wait, please!!"
+            ],
+            "emotion": "lecherous"
+          },
+          "text_elements": [],
+          "summary": "The man leers at Lady Red, who struggles."
+        },
+        {
+          "panel_id": "25",
+          "characters": [
+            {
+              "name": "Man",
+              "expression": "pain",
+              "pose": "cowering"
+            },
+            {
+              "name": "Lady Red",
+              "expression": "angry",
+              "pose": "attacking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "attacking",
+              "cowering"
+            ],
+            "dialogue": [
+              "A~~~H!"
+            ],
+            "emotion": "violent"
+          },
+          "text_elements": [],
+          "summary": "Lady Red attacks the man."
+        },
+        {
+          "panel_id": "26",
+          "characters": [
+            {
+              "name": "Man",
+              "expression": "crying",
+              "pose": "lying down"
+            },
+            {
+              "name": "Lady Red",
+              "expression": "indifferent",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "paying"
+            ],
+            "dialogue": [
+              "Sob, sob",
+              "Here's some thanks for perking me up. take it and go."
+            ],
+            "emotion": "somber"
+          },
+          "text_elements": [
+            "PON"
+          ],
+          "summary": "The man pays Lady Red after the encounter."
+        },
+        {
+          "panel_id": "27",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "indifferent",
+              "pose": "counting money"
+            },
+            {
+              "name": "Customer",
+              "expression": "angry",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": [
+              "alley"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "counting money",
+              "offering price"
+            ],
+            "dialogue": [
+              "How much?",
+              "200. if you don't like it, get lost."
+            ],
+            "emotion": "transactional"
+          },
+          "text_elements": [
+            "270",
+            "STRE"
+          ],
+          "summary": "Lady Red counts her money as a customer complains about the price."
+        },
+        {
+          "panel_id": "END",
+          "characters": [
+            {
+              "name": "Lady Red",
+              "expression": "confident",
+              "pose": "standing"
+            },
+            {
+              "name": "Customer",
+              "expression": "angry",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "alley",
+            "background_elements": [
+              "brick wall"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "declaring"
+            ],
+            "dialogue": [
+              "I am lady red. now, i'm a messenger of sexual skill."
+            ],
+            "emotion": "confident"
+          },
+          "text_elements": [],
+          "summary": "Lady Red declares herself a messenger of sexual skill."
+        }
+      ]
+    }
+  ]
+}

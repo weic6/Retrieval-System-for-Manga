@@ -1,0 +1,460 @@
+{
+  "manga_name": "Misaki_s Christmas Present (BanG Dream!) (English) - E-Hentai Galleries",
+  "summary": "Misaki receives a Christmas present from Kokoro, but is wary of opening it due to a bad feeling and warnings. Kokoro later presents herself as the gift. The manga ends with a recruitment ad.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\Misaki_s Christmas Present (BanG Dream!) (English) - E-Hentai Galleries\\0.webp",
+      "summary": "Misaki is at the Okusawa residence and answers the door, only to be met by a group of people in suits and Santa hats.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "sleepy",
+              "pose": "looking out the door"
+            }
+          ],
+          "setting": {
+            "location": "house entrance",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "hears a knock",
+              "opens the door"
+            ],
+            "dialogue": [
+              "Yes~ What is it...?!"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [
+            "KER",
+            "CHAK",
+            "DING DONG",
+            "AT THE OKUSAWA RESIDENCE."
+          ],
+          "summary": "Misaki opens the door to her house after hearing a knock."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "shocked",
+              "pose": "covering her mouth"
+            },
+            {
+              "name": "Men in suits and Santa hats",
+              "expression": "serious",
+              "pose": "standing in front of Misaki"
+            }
+          ],
+          "setting": {
+            "location": "house entrance",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "are standing outside of Misaki's door",
+              "shock Misaki"
+            ],
+            "dialogue": [],
+            "emotion": "shock"
+          },
+          "text_elements": [
+            "BAM",
+            "SHOCK"
+          ],
+          "summary": "Misaki is shocked by the people in suits and Santa hats standing outside of her door."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\Misaki_s Christmas Present (BanG Dream!) (English) - E-Hentai Galleries\\1.webp",
+      "summary": "Misaki receives a large Christmas present from Kokoro-sama and is wary of opening it.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "receiving a present"
+            ],
+            "dialogue": [
+              "Ah... alright...",
+              "It's a Christmas present from Kokoro-sama.",
+              "Ah... thanks... that... what on earth...?",
+              "Merry Christmas, Okusawa-sama."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [
+            "merry Christmas!"
+          ],
+          "summary": "Misaki receives a large Christmas present and reads the card."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "concerned",
+              "pose": "thinking"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking about the present"
+            ],
+            "dialogue": [
+              "The suits brought it up to my room, but..."
+            ],
+            "emotion": "apprehensive"
+          },
+          "text_elements": [
+            "THUMP",
+            "THUD"
+          ],
+          "summary": "The present is brought to Misaki's room and she is apprehensive about it."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "worried",
+              "pose": "thinking"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking about what the present might be"
+            ],
+            "dialogue": [
+              "What is this...? In any case, I've got a bad feeling about it.",
+              "If you open it, you'll become a grandma or something like that...",
+              "Hm?"
+            ],
+            "emotion": "worried"
+          },
+          "text_elements": [
+            "Creak?",
+            "CREAK",
+            "CREAK"
+          ],
+          "summary": "Misaki is worried about what the present might contain, especially as she hears it creaking."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\Misaki_s Christmas Present (BanG Dream!) (English) - E-Hentai Galleries\\2.webp",
+      "summary": "A girl surprises another girl with a Christmas greeting, but the recipient seems flustered or surprised by the interaction.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "leaning forward"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "greets someone for Christmas"
+            ],
+            "dialogue": [
+              "Ba Christmas~!",
+              "Merry~"
+            ],
+            "emotion": "cheerful"
+          },
+          "text_elements": [],
+          "summary": "A girl dressed for Christmas enthusiastically greets someone."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "shocked",
+              "pose": "startled"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reacts with surprise"
+            ],
+            "dialogue": [],
+            "emotion": "surprised"
+          },
+          "text_elements": [
+            "EH",
+            "?!'"
+          ],
+          "summary": "Another girl reacts with shock and surprise."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\Misaki_s Christmas Present (BanG Dream!) (English) - E-Hentai Galleries\\3.webp",
+      "summary": "Misaki dresses up as a Christmas present for Kokoro, who becomes very excited.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "unsure",
+              "pose": "peeking"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "surprised",
+              "pose": "peeking"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "characters are talking"
+            ],
+            "dialogue": [
+              "Oh, Misaki?",
+              "Why...?",
+              "Ko... Kokoro?!"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "Misaki and Kokoro peek at something, with Kokoro expressing surprise."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "hopeful",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Misaki presents herself as a gift",
+              "Misaki asks if the other person is happy"
+            ],
+            "dialogue": [
+              "I'm the present.",
+              "Aren't you happy?"
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [],
+          "summary": "Misaki, wearing a Santa hat, declares herself as a Christmas present and asks if the other person is happy."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "flustered",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kokoro is blushing and turned on"
+            ],
+            "dialogue": [],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "Merry Christmas",
+            "TURNED ON",
+            "heart"
+          ],
+          "summary": "Kokoro is visibly flustered and excited, with 'Merry Christmas' written in the panel."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\Misaki_s Christmas Present (BanG Dream!) (English) - E-Hentai Galleries\\4.webp",
+      "summary": "The page shows translation notes referencing the story of Urashima Taro, where opening a box leads to aging, and a character expressing a bad feeling about something.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "side profile"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Character looks to side",
+              "Box creaks"
+            ],
+            "dialogue": [
+              "Hm?",
+              "If you open it, you'll become a grandma or something like that...",
+              "What is this...? In any case, I've got a bad feeling about it."
+            ],
+            "emotion": "uneasy"
+          },
+          "text_elements": [
+            "CREAK",
+            "CREAK"
+          ],
+          "summary": "A character appears worried as she hears something creaking, and thinks about a warning about opening a box."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\Misaki_s Christmas Present (BanG Dream!) (English) - E-Hentai Galleries\\5.webp",
+      "summary": "This page is a credits page for a manga, featuring a drawing of characters celebrating Christmas.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "hugging"
+            },
+            {
+              "name": "Boy",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "celebrating Christmas",
+              "hugging"
+            ],
+            "dialogue": [
+              "Christmas~!",
+              "Merry~"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "BANG"
+          ],
+          "summary": "Two characters are celebrating Christmas, one is wearing a Santa hat and hugging the other."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\Misaki_s Christmas Present (BanG Dream!) (English) - E-Hentai Galleries\\6.webp",
+      "summary": "A recruitment page for A3's Band Scans is looking for Korean translators to work on manga from Bandori and other Bushiroad franchises, emphasizing that no prior scanlation experience is required.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Looking concerned"
+            ],
+            "dialogue": [
+              "What are you going to do?"
+            ],
+            "emotion": "worried"
+          },
+          "text_elements": [],
+          "summary": "A girl looks concerned and asks what the other person is going to do."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "raising hand"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Raising a hand",
+              "Looking determined"
+            ],
+            "dialogue": [
+              "From now on, I want to go even higher!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "A girl raises her hand with a determined expression, saying she wants to go even higher."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "manga_name": "[Ebisujima Misato] Chiaki-chan",
+  "summary": "This manga follows a girl's internal struggles as she observes the popular Chiaki-chan. She grapples with jealousy, frustration, and a desire to avoid objectifying Chiaki like the other boys. Chiaki-chan herself is shown to be a confident and perhaps mischievous character.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Ebisujima Misato] Chiaki-chan\\0.webp",
+      "summary": "A girl sleeps on her desk while another girl looks at her with surprise.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "sleeping",
+              "pose": "lying on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "window",
+              "desk"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sleeping on desk"
+            ],
+            "dialogue": [],
+            "emotion": "peaceful"
+          },
+          "text_elements": [],
+          "summary": "A girl is sleeping on her desk."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "looking at sleeping girl"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk",
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "looking at sleeping girl"
+            ],
+            "dialogue": [],
+            "emotion": "surprised"
+          },
+          "text_elements": [
+            "NOTE"
+          ],
+          "summary": "A girl is surprised at something."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "trying to say huge"
+            ],
+            "dialogue": [
+              "Hu-...",
+              "H-...",
+              "The character is trying to say 'huge'."
+            ],
+            "emotion": "hesitant"
+          },
+          "text_elements": [],
+          "summary": "Someone is trying to say huge."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images/[Ebisujima Misato] Chiaki-chan/1.webp",
+      "summary": "The main character observes Chiaki Takahashi and struggles with her own feelings about her and the attention she receives. The girl is jealous and frustrated that Chiaki is so popular.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Chiaki Takahashi",
+              "expression": "smiling",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "sky"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "walking",
+              "thinking"
+            ],
+            "dialogue": [
+              "She is the big and famous Chiaki Takahashi."
+            ],
+            "emotion": "admiration"
+          },
+          "text_elements": [],
+          "summary": "Chiaki Takahashi is introduced as the 'big and famous' character."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "observant",
+              "pose": "looking"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "bulletin board"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "observing",
+              "thinking"
+            ],
+            "dialogue": [
+              "So... those are...",
+              "...the fabled..."
+            ],
+            "emotion": "awe"
+          },
+          "text_elements": [],
+          "summary": "The main character observes Chiaki and recognizes her."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "uncomfortable",
+              "pose": "leaning on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "leaning",
+              "thinking"
+            ],
+            "dialogue": [
+              "I mustn't look!",
+              "..."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "The girl tries to avoid looking at Chiaki."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "thoughtful",
+              "pose": "looking"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "I only ever saw her from far away because we were in a different class."
+            ],
+            "emotion": "reflective"
+          },
+          "text_elements": [],
+          "summary": "The girl reflects on her previous encounters with Chiaki."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "annoyed",
+              "pose": "leaning on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "I can't let myself be like those trashy guys!",
+              "I despise people who look at girls like that.",
+              "In all honesty, I can't stand all the sleazy boys who talk about Takahashi-san's breasts."
+            ],
+            "emotion": "disgust"
+          },
+          "text_elements": [],
+          "summary": "The girl expresses her disgust for those who objectify Chiaki."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "frustrated",
+              "pose": "leaning on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "...",
+              "I... can't..."
+            ],
+            "emotion": "frustration"
+          },
+          "text_elements": [],
+          "summary": "The girl is struggling with her feelings."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Ebisujima Misato] Chiaki-chan\\2.webp",
+      "summary": "Chiaki-chan is caught peeking at someone, then she is shown sleeping on her desk with a smirk.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "covering face"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "peeking"
+            ],
+            "dialogue": [],
+            "emotion": "nervous"
+          },
+          "text_elements": [],
+          "summary": "A girl is surprised and covers her face."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "shy",
+              "pose": "peeking"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "peeking"
+            ],
+            "dialogue": [
+              "Peek"
+            ],
+            "emotion": "shy"
+          },
+          "text_elements": [],
+          "summary": "The girl peeks through her fingers."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Chiaki-chan",
+              "expression": "sleeping",
+              "pose": "lying on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk",
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sleeping"
+            ],
+            "dialogue": [],
+            "emotion": "peaceful"
+          },
+          "text_elements": [],
+          "summary": "Chiaki-chan is sleeping on her desk."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Chiaki-chan",
+              "expression": "smirking",
+              "pose": "lying on desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "lying",
+              "smirking"
+            ],
+            "dialogue": [],
+            "emotion": "smug"
+          },
+          "text_elements": [
+            "Smirk"
+          ],
+          "summary": "Chiaki-chan is shown lying on the desk with a smirk."
+        }
+      ]
+    }
+  ]
+}

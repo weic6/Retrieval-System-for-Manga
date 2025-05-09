@@ -1,0 +1,595 @@
+{
+  "manga_name": "[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries",
+  "summary": "A collection of short scenes depicting characters who are tired of human interaction, finding solace and comfort in unconventional ways.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries\\0.webp",
+      "summary": "A girl says goodbye to someone at a doorway, then walks away smiling.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "says goodbye"
+            ],
+            "dialogue": [
+              "しずくちゃーん またあそぼーね"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "A girl says goodbye to another person."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "walking away",
+              "door closing"
+            ],
+            "dialogue": [],
+            "emotion": "content"
+          },
+          "text_elements": [
+            "カチャ"
+          ],
+          "summary": "The girl waves goodbye to the other person as she closes the door."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "walking away"
+            ],
+            "dialogue": [
+              "うん またねーっ"
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "The girl is walking away, saying goodbye again."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries\\1.webp",
+      "summary": "A person wakes up in bed, seemingly startled or disturbed. The sound effect 'bafu' is present, suggesting a quick or abrupt movement.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Person",
+              "expression": "startled",
+              "pose": "sitting up"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "blanket"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "waking up",
+              "sitting up"
+            ],
+            "dialogue": [],
+            "emotion": "startled"
+          },
+          "text_elements": [
+            "バフッ"
+          ],
+          "summary": "A person abruptly sits up in bed, looking startled."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries\\2.webp",
+      "summary": "A character is lying in bed, and another character is upset that they forgot she was there. The character in bed apologizes and says they were tired. The other character tells her to lower her head.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Shirachan",
+              "expression": "annoyed",
+              "pose": "lying in bed"
+            },
+            {
+              "name": "Shizuku",
+              "expression": "annoyed",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "wall"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "arguing",
+              "questioning"
+            ],
+            "dialogue": [
+              "そこに私が居たらどうするつもりだったの?",
+              "しずく私が居る事忘れたの?"
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "Shirachan is lying in bed, and Shizuku is upset that she forgot she was there."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Shirachan",
+              "expression": "apologetic",
+              "pose": "lying in bed"
+            },
+            {
+              "name": "Shizuku",
+              "expression": "unamused",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "apologizing",
+              "explaining"
+            ],
+            "dialogue": [
+              "ごごめんしらちゃん!!!!疲れててつい",
+              "まあいいけど･･･",
+              "どうせ気遣いで疲れたんでしょ?"
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "Shirachan apologizes and says she was tired. Shizuku tells her it's okay but asks if she's tired from being considerate."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Shirachan",
+              "expression": "embarrassed",
+              "pose": "lying in bed"
+            },
+            {
+              "name": "Shizuku",
+              "expression": "determined",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "demanding",
+              "ordering"
+            ],
+            "dialogue": [
+              "あーっまった!!",
+              "ちょっとまったまった!!",
+              "ほらしずく頭下げて"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "ガタガタ",
+            "000"
+          ],
+          "summary": "Shirachan gets embarrassed and tells Shizuku to lower her head."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images/[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries\\3.webp",
+      "summary": "A small woman is comforted by a giant pink blob-like being, who praises her for working hard outside. The final panel depicts a neighborhood scene, suggesting the difficulties of living in a group.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Woman",
+              "expression": "comforted",
+              "pose": "leaning"
+            },
+            {
+              "name": "Pink Blob",
+              "expression": "comforting",
+              "pose": "lying"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "comforts a woman",
+              "praises her for working hard"
+            ],
+            "dialogue": [
+              "よしよし (yoshi yoshi)",
+              "今日も外でよく頑張ったね (kyou mo soto de yoku ganbatta ne) - You did your best outside today.",
+              "お疲れ様 (otsukaresama) - Good work."
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [],
+          "summary": "A small woman leans against a giant pink being who pats her head and tells her that she did a good job working outside."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "neighborhood",
+            "background_elements": [
+              "houses"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "shows neighborhood scenery",
+              "expresses difficulties of living in a group"
+            ],
+            "dialogue": [
+              "群れの中で生きるのって大変だよね (mure no naka de ikiru notte taihen da yo ne) - Living in a group is tough, isn't it?"
+            ],
+            "emotion": "melancholic"
+          },
+          "text_elements": [],
+          "summary": "A panel shows a neighborhood scene, with text suggesting the difficulties of living in a group."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries\\4.webp",
+      "summary": "A girl says goodbye to Shizuku as she leaves. She then says goodbye as she walks away.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "street",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Saying goodbye"
+            ],
+            "dialogue": [
+              "Bye bye Shizuku !!"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "A girl says goodbye to someone named Shizuku while standing on a street."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "waving"
+            },
+            {
+              "name": "Shizuku",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "house doorway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "walking away"
+            ],
+            "dialogue": [],
+            "emotion": "friendly"
+          },
+          "text_elements": [
+            "Creak..."
+          ],
+          "summary": "A girl walks away waving while Shizuku stands in the doorway of a house."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "saying goodbye"
+            ],
+            "dialogue": [
+              "Bye !!"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "The girl says goodbye again as she walks."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries\\5.webp",
+      "summary": "A character appears to be falling or collapsing with the sound effect 'thud'. The character looks disoriented.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "disoriented",
+              "pose": "falling"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "falls",
+              "thuds"
+            ],
+            "dialogue": [],
+            "emotion": "shock"
+          },
+          "text_elements": [
+            "thud"
+          ],
+          "summary": "A character falls or collapses and makes a 'thud' sound."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries\\6.webp",
+      "summary": "Shizuku seems to have forgotten Shira-chan, who expresses her fatigue. Shizuku then tells Shira-chan to keep her head down.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Shizuku",
+              "expression": "concerned",
+              "pose": "standing"
+            },
+            {
+              "name": "Shira-chan",
+              "expression": "surprised",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed",
+              "wall"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "standing next to a bed",
+              "speaking",
+              "lying in bed",
+              "asking a question"
+            ],
+            "dialogue": [
+              "Shizuku, did you forget I was here?",
+              "If I were there. What would you have done?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Shizuku asks Shira-chan if she forgot she was there, and Shira-chan asks what she would have done if she were there."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Shizuku",
+              "expression": "serious",
+              "pose": "standing"
+            },
+            {
+              "name": "Shira-chan",
+              "expression": "sad",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "apologizing",
+              "expressing tiredness"
+            ],
+            "dialogue": [
+              "No problem... but",
+              "You're tired of caring anyway, right?",
+              "S... SORRY SHIRA CHAN",
+              "I'm tired. I just..."
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Shira-chan apologizes and says she is tired."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Shizuku",
+              "expression": "caring",
+              "pose": "hugging"
+            },
+            {
+              "name": "Shira-chan",
+              "expression": "blushing",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "hugging",
+              "blushing"
+            ],
+            "dialogue": [
+              "Here, Sizuku Keep your head down.",
+              "AWW",
+              "WAIT WAIT !!"
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [
+            "Sigh"
+          ],
+          "summary": "Shizuku hugs Shira-chan and tells her to keep her head down."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[Noneto] Ningen Kankei ni Tsukareta Anata ni _ For people who are tired of human interaction [Japanese, English] - E-Hentai Galleries\\7.webp",
+      "summary": "A person leans against a giant, soft surface, finding comfort, followed by a scene of houses with text reflecting on the difficulty of living in a herd.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "comforted",
+              "pose": "leaning"
+            }
+          ],
+          "setting": {
+            "location": "giant soft surface",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "leaning against something soft",
+              "being comforted"
+            ],
+            "dialogue": [
+              "Out there today. You did good.",
+              "Good work",
+              "There there"
+            ],
+            "emotion": "comforting"
+          },
+          "text_elements": [
+            "う"
+          ],
+          "summary": "A girl leans against a giant, soft surface, finding comfort and being praised."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "Residential area",
+            "background_elements": [
+              "houses",
+              "roofs"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "showing houses",
+              "reflecting on life"
+            ],
+            "dialogue": [
+              "It's hard",
+              "In the herd. To live..."
+            ],
+            "emotion": "melancholy"
+          },
+          "text_elements": [],
+          "summary": "A view of houses with text reflecting on the difficulty of living in a herd."
+        }
+      ]
+    }
+  ]
+}

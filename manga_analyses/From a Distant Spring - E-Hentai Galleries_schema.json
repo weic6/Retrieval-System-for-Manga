@@ -1,0 +1,435 @@
+{
+  "manga_name": "From a Distant Spring - E-Hentai Galleries",
+  "summary": "Two girls discuss and decide to live together, leading them to start looking for apartments. One girl is surprised by the other's seriousness about the matter.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\From a Distant Spring - E-Hentai Galleries\\0.webp",
+      "summary": "Cover art featuring two girls with closed eyes, resting together.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "peaceful",
+              "pose": "leaning"
+            },
+            {
+              "name": "Girl",
+              "expression": "peaceful",
+              "pose": "leaning"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "resting",
+              "leaning"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [
+            "遠い春から",
+            "Tooi haru kara",
+            "From the Distant Spring",
+            "虫原",
+            "Idolm@ster unofficial fanbook presented by Taipeijin",
+            "Spring 2023 / Mushibara"
+          ],
+          "summary": "Two girls lean together, resting peacefully."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\From a Distant Spring - E-Hentai Galleries\\1.webp",
+      "summary": "One girl apologizes for imposing, but the other says she is happy to have her over. One of the girls suggests they live together, but the other says they need to get her mom's permission.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "door"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "apologizes for imposing",
+              "stands near the door"
+            ],
+            "dialogue": [
+              "Heya. Sorry I'm always the one imposing.",
+              "Not at all."
+            ],
+            "emotion": "apologetic"
+          },
+          "text_elements": [],
+          "summary": "A girl apologizes for imposing, but the other says she is not imposing at all."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "bathroom",
+            "background_elements": [
+              "cups",
+              "toothbrushes"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "looks at toothbrushes in cups"
+            ],
+            "dialogue": [
+              "Rather, I'm glad to have you over.",
+              "It's fun when you're around."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "The girls are in a bathroom."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "excited",
+              "pose": "laying down"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "pillow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "suggests they live together"
+            ],
+            "dialogue": [
+              "Then, in that case,",
+              "Let's just start living together like this!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "One of the girls suggests they live together."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talks about getting permission"
+            ],
+            "dialogue": [
+              "We'll have to get your mom's permission, then."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "haha",
+            "hehe"
+          ],
+          "summary": "The other girl says they need to get her mom's permission."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\From a Distant Spring - E-Hentai Galleries\\2.webp",
+      "summary": "A girl asks the other if they would live together, and the other girl seems surprised. The first girl continues to list the benefits of living together, and the other girl is excited at the prospect.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "proposing to live together"
+            ],
+            "dialogue": [
+              "If we did live together,",
+              "I'd be able to cook for you every day.",
+              "But you know,"
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [],
+          "summary": "A girl suggests living together and cooking for the other every day."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Haruka",
+              "expression": "shocked",
+              "pose": "standing straight"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being surprised by the proposition"
+            ],
+            "dialogue": [
+              "!? "
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "Haruka is shocked by the other girl's proposition."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Haruka",
+              "expression": "sad",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking down",
+              "thinking"
+            ],
+            "dialogue": [
+              "Haruka..."
+            ],
+            "emotion": "contemplative"
+          },
+          "text_elements": [],
+          "summary": "Haruka looks down and seems to be considering the proposal."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "leaning forward"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "listing the benefits of living together"
+            ],
+            "dialogue": [
+              "I could even teach you how to cook, too.",
+              "We could walk to school together, go shopping together."
+            ],
+            "emotion": "encouraging"
+          },
+          "text_elements": [],
+          "summary": "The girl continues to list the benefits of living together."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "holding hands"
+            },
+            {
+              "name": "Haruka",
+              "expression": "happy",
+              "pose": "holding hands"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding hands",
+              "agreeing to live together"
+            ],
+            "dialogue": [
+              "You're actually considering it!?",
+              "Let's do it! Let's move in together!"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "Haruka agrees to live together, and both girls are excited."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\From a Distant Spring - E-Hentai Galleries\\3.webp",
+      "summary": "Chihaya is looking at apartments with a friend, planning to move in together. The friend seems shocked at Chihaya's seriousness.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Chihaya",
+              "expression": "neutral",
+              "pose": "holding a book"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at a book"
+            ],
+            "dialogue": [
+              "Apartments.",
+              "Chihaya-chan, what are you looking at?"
+            ],
+            "emotion": "casual"
+          },
+          "text_elements": [],
+          "summary": "Chihaya is looking at apartments, prompting her friend to ask what she is looking at."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "curious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "houses"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "questioning"
+            ],
+            "dialogue": [
+              "Apartments?"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "The girl is surprised that Chihaya is looking at apartments."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Chihaya",
+              "expression": "serious",
+              "pose": "looking over shoulder"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking at a book",
+              "saying they need more space"
+            ],
+            "dialogue": [
+              "We'll need a place with more space or it'll be too cramped.",
+              "Yeah. For when we move in togther."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Chihaya says that they need more space when they move in together."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "shocked",
+              "pose": "surprised"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being shocked"
+            ],
+            "dialogue": [
+              "She was serious!?"
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "The girl is shocked at Chihaya's seriousness."
+        }
+      ]
+    }
+  ]
+}

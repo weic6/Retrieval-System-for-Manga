@@ -1,0 +1,534 @@
+{
+  "manga_name": "A Summer_s Distance (BanG Dream!)",
+  "summary": "Two girls navigate their feelings and the distance between them while sharing ice cream, leading to a sweet and slightly awkward romantic encounter.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\A Summer_s Distance (BanG Dream!)\\0.webp",
+      "summary": "Two girls share ice cream and thoughts about closeness and desire.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "slightly flushed",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Saaya looks at Otae"
+            ],
+            "dialogue": [
+              "\"I want to taste your ice cream,\"",
+              "Is what I'd guess."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "Saaya guesses what Otae is thinking."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "panel is showing a thought"
+            ],
+            "dialogue": [
+              "For example,",
+              "What Otae's thinking right now is,"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "The panel explains that the next panel represents Otae's thoughts."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "panel is showing a thought"
+            ],
+            "dialogue": [
+              "Measuring the distance between people is hard."
+            ],
+            "emotion": "contemplative"
+          },
+          "text_elements": [],
+          "summary": "The panel shows the thought 'measuring the distance between people is hard.'"
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Otae",
+              "expression": "slightly flushed",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Otae is thinking"
+            ],
+            "dialogue": [
+              "I wonder if it'd be alright to step a bit closer."
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [],
+          "summary": "Otae wonders if she can step closer to Saaya."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "slightly flushed",
+              "pose": "holding ice cream"
+            },
+            {
+              "name": "Otae",
+              "expression": "slightly flushed",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Saaya responds to Otae's thought"
+            ],
+            "dialogue": [
+              "Sure thing.",
+              "I also want a bite of yours, Otae."
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "Saaya says she wants a bite of Otae's ice cream."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "slightly flushed",
+              "pose": "holding ice cream"
+            },
+            {
+              "name": "Otae",
+              "expression": "slightly flushed",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Saaya offers her ice cream"
+            ],
+            "dialogue": [
+              "In that case,",
+              "Saaya, I want to taste your ice cream."
+            ],
+            "emotion": "loving"
+          },
+          "text_elements": [],
+          "summary": "Saaya says she wants to taste Otae's ice cream."
+        },
+        {
+          "panel_id": "7",
+          "characters": [
+            {
+              "name": "Otae",
+              "expression": "smiling",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Otae is thinking"
+            ],
+            "dialogue": [
+              "I wonder if I'd become closer... perhaps."
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [],
+          "summary": "Otae thinks about becoming closer to Saaya."
+        },
+        {
+          "panel_id": "8",
+          "characters": [
+            {
+              "name": "Otae",
+              "expression": "slightly embarrassed",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Otae backs down"
+            ],
+            "dialogue": [
+              "Well... if it's alright with you.",
+              "It's fine if you don't want to though.",
+              "I was just joking."
+            ],
+            "emotion": "uncertain"
+          },
+          "text_elements": [],
+          "summary": "Otae hesitates and says she was just joking."
+        },
+        {
+          "panel_id": "9",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "surprised",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Saaya offers her ice cream"
+            ],
+            "dialogue": [
+              "Oh?",
+              "If you'd like, then I'll give you some of mine first."
+            ],
+            "emotion": "gentle"
+          },
+          "text_elements": [],
+          "summary": "Saaya is surprised and offers Otae some of her ice cream first."
+        },
+        {
+          "panel_id": "10",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "slightly flushed",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Saaya is offering her ice cream"
+            ],
+            "dialogue": [
+              "Even if it's just a little,"
+            ],
+            "emotion": "sweet"
+          },
+          "text_elements": [],
+          "summary": "Saaya offers Otae a little taste of her ice cream."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\A Summer_s Distance (BanG Dream!)\\1.webp",
+      "summary": "Saaya is sharing an ice cream with a girl, which leads to an unexpected development. The girl seems surprised by the shared ice cream.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "blushing",
+              "pose": "holding popsicle"
+            },
+            {
+              "name": "Girl",
+              "expression": "blushing",
+              "pose": "kissing"
+            },
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "sharing popsicle",
+              "kissing"
+            ],
+            "dialogue": [
+              "Saaya, open your mouth.",
+              "My mouth?"
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "Saaya asks the girl to open her mouth while sharing a popsicle, which leads to a kiss. The girl is surprised but blushes."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "flustered",
+              "pose": "kissing"
+            },
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [
+              "Ah..."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "|? "
+          ],
+          "summary": "Close-up of Saaya and the girl kissing. Saaya seems flustered and the girl is surprised."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "embarrassed",
+              "pose": "kissing"
+            },
+            {
+              "name": "Girl",
+              "expression": "blushing",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing",
+              "gulping"
+            ],
+            "dialogue": [
+              "Hah."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "GULP"
+          ],
+          "summary": "Saaya continues kissing the girl, who seems to be enjoying it more now."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\A Summer_s Distance (BanG Dream!)\\2.webp",
+      "summary": "Saaya offers her ice cream to the other girl, who is embarrassed by the proximity. The other girl gets ice cream on her face, upsetting her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Saaya",
+              "expression": "smug",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is holding ice cream",
+              "is looking at another girl"
+            ],
+            "dialogue": [
+              "Next, is Saaya's ice cream."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [
+            "GASP"
+          ],
+          "summary": "Saaya offers her ice cream."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "embarrassed",
+              "pose": "looking at Saaya"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is blushing",
+              "is looking at Saaya"
+            ],
+            "dialogue": [
+              "Measuring the distance between people..."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "The other girl is embarrassed by Saaya's offer."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "embarrassed",
+              "pose": "looking at Saaya"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is blushing",
+              "is looking at Saaya"
+            ],
+            "dialogue": [
+              "Is hard."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "The other girl is still embarrassed."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "holding ice cream"
+            },
+            {
+              "name": "Saaya",
+              "expression": "calm",
+              "pose": "holding ice cream"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is holding ice cream",
+              "is looking at Saaya"
+            ],
+            "dialogue": [
+              "In the next moment, we melt and stick together.",
+              "Eh. The same... with my mouth?!",
+              "Could you do the same for me, Saaya?",
+              "Yeah.",
+              "Wah!",
+              "Ah. It's spilling over.",
+              "Just as I think we've gotten a little closer,"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Saaya offers her ice cream to the other girl, who is embarrassed by the proximity and spills some."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\A Summer_s Distance (BanG Dream!)\\3.webp",
+      "summary": "This page is a title page for a manga called \"A Summer's Distance\". It also contains credits to the translator, PR, cleaner/redrawer, typesetter and QC.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "white background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "humorous"
+          },
+          "text_elements": [
+            "PZS PRESENTS:",
+            "A Summer's Distance",
+            "By @2boshi_konbu (Twitter)",
+            "MEASURING THE DISTANCE BETWEEN PEOPLE IS HARD.",
+            "TRANSLATOR: LEX, NIJITORU",
+            "PR: ARIA FENRIS, HIJACKER54",
+            "CLEANER/REDRAWER: HIJACKER54",
+            "TYPESETTER: LEX, MARGRAVE",
+            "QC: HIJACKER54",
+            "Join our Discord! https://discord.gg/sptYJQr"
+          ],
+          "summary": "This panel serves as the title page for the manga and provides credits for its creation."
+        }
+      ]
+    }
+  ]
+}

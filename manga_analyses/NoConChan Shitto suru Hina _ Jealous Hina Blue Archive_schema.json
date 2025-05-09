@@ -1,0 +1,939 @@
+{
+  "manga_name": "[NoConChan] Shitto suru Hina _ Jealous Hina (Blue Archive)",
+  "summary": "Hina experiences intense jealousy fueled by misunderstandings and her feelings for Sensei, leading to comedic and dramatic situations as she grapples with her emotions and relationships.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[NoConChan] Shitto suru Hina _ Jealous Hina (Blue Archive)\\0.webp",
+      "summary": "Hina arrives to help with work but finds two people in a compromising position, causing her to question the situation.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "arrived to help"
+            ],
+            "dialogue": [
+              "I came to help out, in case the work wasn't finished yet.",
+              "Today, for some reason, work ended early.",
+              "I heard Ako was on duty at the Schale."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Hina arrives to help with work early, mentioning Ako's duty at the Schale."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Eye",
+              "expression": "observant",
+              "pose": "peeking"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": [
+              "door"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "peeks through the door"
+            ],
+            "dialogue": [
+              "It was just, simply a whim."
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "An eye peeks through the door, with a narration about a whim."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "witnessing something shocking"
+            ],
+            "dialogue": [
+              "...Ako?"
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "Hina is shocked by what she sees, calling out Ako's name."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Man",
+              "expression": "unknown",
+              "pose": "lying"
+            },
+            {
+              "name": "Ako",
+              "expression": "unknown",
+              "pose": "lying"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "finds the two in a compromising position"
+            ],
+            "dialogue": [
+              "Why are the two of you having sex?"
+            ],
+            "emotion": "astonished"
+          },
+          "text_elements": [],
+          "summary": "Hina asks why the man and Ako are having sex."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images/[NoConChan] Shitto suru Hina _ Jealous Hina (Blue Archive)\\1.webp",
+      "summary": "Hina is jealous of Ako spending time with Sensei. Ako reaffirms her loyalty to Hina.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "upset",
+              "pose": "back view"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Hina is expressing jealousy"
+            ],
+            "dialogue": [
+              "You, of all people, should know best how I feel about Sensei...",
+              "Why Ako, of all people, with Sensei..."
+            ],
+            "emotion": "jealousy"
+          },
+          "text_elements": [],
+          "summary": "Hina is shown from the back, expressing her jealousy over Ako's closeness with Sensei."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "upset",
+              "pose": "crying"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Hina is shown crying"
+            ],
+            "dialogue": [
+              "Why is Ako there?",
+              "Why... why?"
+            ],
+            "emotion": "distress"
+          },
+          "text_elements": [],
+          "summary": "Hina is visibly upset and crying, wondering why Ako is with Sensei."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "serious",
+              "pose": "standing"
+            },
+            {
+              "name": "Ako",
+              "expression": "serious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Hina and Ako are talking"
+            ],
+            "dialogue": [
+              "...really?",
+              "Of course!",
+              "Ako, you could go in and rest now.",
+              "Eh? There's no way I'd go to rest leaving Hina behind."
+            ],
+            "emotion": "serious"
+          },
+          "text_elements": [],
+          "summary": "Hina suggests Ako should rest, but Ako insists on staying with Hina."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "crying",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Hina is shown with tears in her eyes"
+            ],
+            "dialogue": [
+              "Despite saying that...!"
+            ],
+            "emotion": "sadness"
+          },
+          "text_elements": [],
+          "summary": "Hina is touched by Ako's loyalty but still feels conflicted."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Ako",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Ako is smiling and reaffirming her loyalty"
+            ],
+            "dialogue": [
+              "I'm always on Hina's side!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Ako smiles, declaring that she's always on Hina's side."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[NoConChan] Shitto suru Hina _ Jealous Hina (Blue Archive)\\2.webp",
+      "summary": "Sensei gets lunch in the cafeteria and is joined by Hina. Sensei gets food from the cafeteria and Hina joins him.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "holding tray"
+            }
+          ],
+          "setting": {
+            "location": "cafeteria",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "gets food",
+              "thinks"
+            ],
+            "dialogue": [
+              "To think the standard portion is three sausages.",
+              "No wonder the cafeteria is always bursting.",
+              "Where should I sit?"
+            ],
+            "emotion": "humorous"
+          },
+          "text_elements": [],
+          "summary": "Sensei is surprised by the large portion of sausages."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Fuuka",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "cafeteria",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "getting food",
+              "asks for more"
+            ],
+            "dialogue": [
+              "This is the standard portion, Sensei.",
+              "Ehh...",
+              "Fuuka, could I have some more sausage?"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Sensei asks for more sausage."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "cafeteria",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "approaching",
+              "asks to sit",
+              "thinks"
+            ],
+            "dialogue": [
+              "Should I?",
+              "Ah! Hina",
+              "If it's okay, may sit next",
+              "Sensei.",
+              "I need to talk to Haruna about tightening up discipline..."
+            ],
+            "emotion": "awkward"
+          },
+          "text_elements": [],
+          "summary": "Hina asks to sit next to Sensei, who is thinking about discipline."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "cafeteria",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "explaining arrival",
+              "eating"
+            ],
+            "dialogue": [
+              "I just stopped by because of some work, and it happened to be lunchtime.",
+              "I came running as soon as I heard today's lunch included sausage, haha."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "LOL"
+          ],
+          "summary": "Sensei explains why he is eating in the cafeteria."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "cafeteria",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "eating lunch",
+              "surprised"
+            ],
+            "dialogue": [
+              "That's rare",
+              "To think that Sensei is having lunch in the Gehenna cafeteria."
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Hina is surprised to see Sensei eating in the Gehenna cafeteria."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[NoConChan] Shitto suru Hina _ Jealous Hina (Blue Archive)\\3.webp",
+      "summary": "Hina offers the man a sausage, but he is skeptical, and it seems he is about to be tricked with some sort of food.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "smirking",
+              "pose": "standing"
+            },
+            {
+              "name": "Sensei",
+              "expression": "neutral",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "table",
+            "background_elements": [
+              "food container"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "offering food",
+              "sitting"
+            ],
+            "dialogue": [
+              "I'll share mine with you.",
+              "E~tsu!",
+              "Hontoni?"
+            ],
+            "emotion": "teasing"
+          },
+          "text_elements": [],
+          "summary": "Hina offers the man a sausage."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "table",
+            "background_elements": [
+              "food container"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "thinking",
+              "sitting"
+            ],
+            "dialogue": [
+              "...Do you like sausage?",
+              "Of course!",
+              "To think there are men who dislike sausage... Huh?"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The man is asked if he likes sausage, and he replies affirmatively."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "arm outstretched"
+            }
+          ],
+          "setting": {
+            "location": "table",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reaching out",
+              "being offered food"
+            ],
+            "dialogue": [
+              "If that's the case, I'll gratefully...",
+              "Thank you! But are you sure?",
+              "Yeah, it's not like I particularly like sausage or anything."
+            ],
+            "emotion": "expectant"
+          },
+          "text_elements": [],
+          "summary": "The man agrees to take the sausage but claims he doesn't particularly like it."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "skeptical",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "table",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking",
+              "sitting"
+            ],
+            "dialogue": [
+              "You didn't trick me, did you...?",
+              "Hina?"
+            ],
+            "emotion": "skeptical"
+          },
+          "text_elements": [],
+          "summary": "The man suspects Hina is tricking him."
+        },
+        {
+          "panel_id": "5",
+          "characters": [],
+          "setting": {
+            "location": "table",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "food being flung"
+            ],
+            "dialogue": [
+              "Eh?!"
+            ],
+            "emotion": "surprise"
+          },
+          "text_elements": [
+            "Swoosh!"
+          ],
+          "summary": "Something is about to hit the man's face."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[NoConChan] Shitto suru Hina _ Jealous Hina (Blue Archive)\\4.webp",
+      "summary": "Hina attempts to feed Sensei, but he refuses, leading to a discussion about his tiredness and embarrassment.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "hands up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Sensei refuses to be fed",
+              "Sensei places his hands up"
+            ],
+            "dialogue": [
+              "Ah! It's okay.",
+              "Just place it on my tray and I'll eat it."
+            ],
+            "emotion": "refusing"
+          },
+          "text_elements": [],
+          "summary": "Sensei refuses to be fed by Hina and asks her to put the food on his tray."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "smiling",
+              "pose": "holding food"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Hina wants to feed Sensei"
+            ],
+            "dialogue": [
+              "Since it's a special occasion, I'll feed you, Sensei.",
+              "Ah~"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Hina is happy and offers to feed Sensei."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "talking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Sensei refuses to be fed"
+            ],
+            "dialogue": [
+              "I've always been a bother to you, Sensei.",
+              "I'll feed you."
+            ],
+            "emotion": "refusing"
+          },
+          "text_elements": [],
+          "summary": "Sensei refuses to be fed and mentions he has always been a bother to Hina."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "unsure",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Hina asks Sensei why he is not eating"
+            ],
+            "dialogue": [
+              "Really, it's okay.",
+              "...Why?",
+              "Ah... Um... That's because",
+              "Ah!",
+              "Now that I think about it, I don't really feel like eating sausage today...",
+              "Ah?",
+              "Why aren't you eating?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Hina asks why Sensei is not eating."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "talking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Sensei makes excuses not to be fed",
+              "Sensei mentions feeling tired"
+            ],
+            "dialogue": [
+              "My goodness... Are you feeling very tired lately?",
+              "Normally, I'd be too embarrassed to do something like this."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Sensei makes excuses not to be fed and brings up that he is feeling tired."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[NoConChan] Shitto suru Hina _ Jealous Hina (Blue Archive)\\5.webp",
+      "summary": "Hina's jealousy causes a commotion at the cafeteria, resulting in spilled food and upset students. The protagonist notices Hina's unusual behavior.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Hina",
+              "expression": "angry",
+              "pose": "falling"
+            }
+          ],
+          "setting": {
+            "location": "Cafeteria",
+            "background_elements": [
+              "table",
+              "lunch tray"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Hina is falling",
+              "lunch tray is flying"
+            ],
+            "dialogue": [],
+            "emotion": "chaotic"
+          },
+          "text_elements": [
+            "Bang!"
+          ],
+          "summary": "Hina is falling with a lunch tray flying near her."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "crying",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "worried",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "Cafeteria",
+            "background_elements": [
+              "counter"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "watching the chaos"
+            ],
+            "dialogue": [
+              "Aah..."
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "Other students are watching the chaos with sad and worried expressions."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Sensei",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Hina",
+              "expression": "worried",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "Cafeteria",
+            "background_elements": [
+              "counter"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "looking at Hina"
+            ],
+            "dialogue": [
+              "Haah...",
+              "Hina...?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "The protagonist looks at Hina with a concerned expression."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images/[NoConChan] Shitto suru Hina _ Jealous Hina (Blue Archive)/6.webp",
+      "summary": "Hina and Sensei are having a discussion about food, while another girl, Ako, is mentioned in a way that suggests Hina is jealous. Hina appears distressed and is crying.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "concerned",
+              "pose": "standing"
+            },
+            {
+              "name": "Sensei",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "questioning"
+            ],
+            "dialogue": [
+              "...Is it because it's something I'm giving you?",
+              "It's not like that, so please, calm down first...!"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Hina and Sensei are talking, with Sensei questioning why Hina isn't eating."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "concerned",
+              "pose": "standing"
+            },
+            {
+              "name": "Sensei",
+              "expression": "concerned",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "trying to calm down"
+            ],
+            "dialogue": [
+              "Hi, Hina! Calm down!",
+              "Why aren't you eating?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [
+            "Startled!"
+          ],
+          "summary": "Sensei tries to calm Hina down and asks why she isn't eating."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "crying",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "crying",
+              "feeling hurt"
+            ],
+            "dialogue": [
+              "You have no problem accepting what Ako offers with her body,",
+              "but you can't stomach the food I give you...?"
+            ],
+            "emotion": "jealous"
+          },
+          "text_elements": [],
+          "summary": "Hina is crying and expresses jealousy, mentioning Ako and food."
+        }
+      ]
+    }
+  ]
+}

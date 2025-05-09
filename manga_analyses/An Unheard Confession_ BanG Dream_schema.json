@@ -1,0 +1,361 @@
+{
+  "manga_name": "An Unheard Confession_ (BanG Dream!)",
+  "summary": "Kokoro's sudden confession of love catches Misaki off guard. The story explores Misaki's inner turmoil and the implications of Kokoro's words, particularly when overheard.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\An Unheard Confession_ (BanG Dream!)\\0.webp",
+      "summary": "The page depicts Misaki listening to music with headphones and another character about to speak to her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "neutral",
+              "pose": "side profile"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "listening to music"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [
+            "♫",
+            "♫"
+          ],
+          "summary": "Misaki is listening to music with headphones in, seemingly focused on something."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "neutral",
+              "pose": "side profile"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "continues listening to music"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [
+            "..."
+          ],
+          "summary": "Misaki continues to listen to music, unaware of someone approaching."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "forward facing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "asking a question"
+            ],
+            "dialogue": [
+              "Misaki,",
+              "What are you listening to?"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "Another character approaches Misaki and asks her what she is listening to."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\An Unheard Confession_ (BanG Dream!)\\1.webp",
+      "summary": "The two girls are now together, with one offering to share her music with the other.  A subtle shift in expression hints at deeper feelings.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "looking at the other girl"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "pointing at something with her finger"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "sharing music",
+              "offering to listen to a song"
+            ],
+            "dialogue": [
+              "Sure!",
+              "I'm checking our next song. Want to listen?"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "One girl cheerfully asks the other if she wants to listen to the next song."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "listening"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing beside her"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "listening to music"
+            ],
+            "dialogue": [],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "The girls are now listening to music together, enjoying each other's company."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "thoughtful",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "..."
+            ],
+            "emotion": "pensive"
+          },
+          "text_elements": [],
+          "summary": "One of the girls appears lost in thought, suggesting unspoken feelings or concerns."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\An Unheard Confession_ (BanG Dream!)\\2.webp",
+      "summary": "Kokoro unexpectedly confesses her love to the other girl, creating a moment of tension and surprise.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "facing front"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "serious",
+              "pose": "looking to the side"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kokoro expresses her love"
+            ],
+            "dialogue": [
+              "I love you, Koko-ro."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "Kokoro directly confesses her love to the other girl, identified as Koko-ro."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "flustered",
+              "pose": "looking to the side"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Kokoro continues to confess her feelings"
+            ],
+            "dialogue": [
+              "Geez...",
+              "The most...in the world."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Kokoro continues to confess, becoming visibly flustered and embarrassed by her own bold declaration."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\An Unheard Confession_ (BanG Dream!)\\3.webp",
+      "summary": "The confession takes an awkward turn when the other girl overhears what was meant to be an unheard internal monologue, leading to further embarrassment.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "observing",
+              "speaking"
+            ],
+            "dialogue": [
+              "How pathetic…",
+              "Hm?",
+              "I can only say this when she can't hear."
+            ],
+            "emotion": "critical"
+          },
+          "text_elements": [],
+          "summary": "A girl, referring to Misaki, judges her behavior as pathetic, intending for the comment to be unheard."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "blushing",
+              "pose": "confused"
+            },
+            {
+              "name": "Girl",
+              "expression": "embarrassed",
+              "pose": "hugging herself"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "flowers"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "overhearing",
+              "being honest",
+              "blushing"
+            ],
+            "dialogue": [
+              "Ah",
+              "Misaki is, being really honest today!",
+              "It was only in one ear."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "*Bluuush*"
+          ],
+          "summary": "Misaki accidentally overhears the girl's judgmental comment, causing her to blush and feel even more embarrassed."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\An Unheard Confession_ (BanG Dream!)\\4.webp",
+      "summary": "This page serves as meta-commentary, revealing a key element: the intended unheard confession was actually heard, emphasizing the irony.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "facing forward"
+            },
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "looking to the side"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "i love you,",
+              "koko-ro."
+            ],
+            "emotion": "whimsical"
+          },
+          "text_elements": [
+            "A3's Band Scans",
+            "FORESHADOWING",
+            "Translator, Cleaner/Re-drawer,\nTypesetter, PR, QC - Lex",
+            "\"She can hear you. She's not\nwearing A*rPods.\"",
+            "Link to our Discord:\nhttps://discord.GG/VvntNxv",
+            "We like Bandori."
+          ],
+          "summary": "A meta commentary panel implying that, despite appearances, Misaki could hear Kokoro's confession."
+        }
+      ]
+    }
+  ]
+}

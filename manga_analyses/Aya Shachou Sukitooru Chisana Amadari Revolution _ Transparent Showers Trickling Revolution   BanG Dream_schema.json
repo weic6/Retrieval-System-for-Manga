@@ -1,0 +1,766 @@
+{
+  "manga_name": "[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)",
+  "summary": "The manga depicts the emotional journey of a group of girls, possibly a band, exploring themes of love, support, and personal growth. It seems to focus on Hina, who is struggling with something and is encouraged to express her emotions. The ending suggests a hopeful resolution with her sister and bandmates.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\0.webp",
+      "summary": "This page features a young woman playing an electric guitar with excitement and energy. The text above and below the image suggests a theme of transformation and renewal.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "excited",
+              "pose": "playing guitar, running"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "playing guitar",
+              "running"
+            ],
+            "dialogue": [],
+            "emotion": "energetic"
+          },
+          "text_elements": [
+            "Transparent Showers,",
+            "Trickling Revolution"
+          ],
+          "summary": "A young woman with short hair is depicted playing an electric guitar while running with a joyful expression."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\1.webp",
+      "summary": "The page shows a character crying and speaking to her mother followed by an image of the same girl running happily. The text in the image is \"NOW I KNOW THE MEANING OF THE ATFIELD\"",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "crying",
+              "pose": "face close-up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Mama!",
+              "You were always protecting me!"
+            ],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "A girl is crying and talking to her mother."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "running with guitar"
+            }
+          ],
+          "setting": {
+            "location": "urban",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "running"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A girl is running while holding a guitar."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\2.webp",
+      "summary": "Tsugumi is greeted by Hina in the morning outside. Hina is surprised to see her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Hazawa",
+              "expression": "neutral",
+              "pose": "peeking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "opens door",
+              "peeks out"
+            ],
+            "dialogue": [
+              "Hello?"
+            ],
+            "emotion": "inquisitive"
+          },
+          "text_elements": [
+            "KER-CHAK"
+          ],
+          "summary": "Someone opens a door and asks 'Hello?'"
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Tsugumi",
+              "expression": "surprised",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "approaches house",
+              "greets someone"
+            ],
+            "dialogue": [
+              "Tsugu-chan?",
+              "Tsu- Hazawa-san.",
+              "Ah, Huh, Hina-senpai? Oh right.",
+              "G-good morning."
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Tsugumi is surprised to be greeted by Hazawa, and says 'Good morning.'"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\3.webp",
+      "summary": "The page shows a girl realizing that her friend has found someone special, and she expresses relief and happiness about it.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "surprised",
+              "pose": "facing forward"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reacting"
+            ],
+            "dialogue": [
+              "oh...",
+              "i see."
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "A girl expresses surprise and realization."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "sitting at a desk"
+            },
+            {
+              "name": "Girl",
+              "expression": "talking",
+              "pose": "sitting at a desk"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "desk",
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "discussing"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Two girls are sitting at a desk, engaged in conversation."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "...has found her special someone..."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A girl smiles and thinks about someone finding a special person."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reacting"
+            ],
+            "dialogue": [
+              "onee-chan..."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A girl smiles and mentions her older sister."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "relieved",
+              "pose": "side profile"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "feeling relieved"
+            ],
+            "dialogue": [
+              "thank god."
+            ],
+            "emotion": "relieved"
+          },
+          "text_elements": [],
+          "summary": "A girl expresses relief and gratitude."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\4.webp",
+      "summary": "A girl is running towards someone, exclaiming with relief.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "relieved",
+              "pose": "running with arms outstretched"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "running",
+              "exclaiming"
+            ],
+            "dialogue": [
+              "Ah~",
+              "Thank god!!!"
+            ],
+            "emotion": "relieved"
+          },
+          "text_elements": [],
+          "summary": "A girl runs with outstretched arms and exclaims in relief."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\5.webp",
+      "summary": "Hina plays the guitar but is off-key, concerning Sayo. Lisa watches with a neutral expression.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "room",
+            "background_elements": [
+              "clock",
+              "speaker"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Whoa, whoa."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [
+            "TWANG"
+          ],
+          "summary": "The scene is set in a room where something sounds off."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Hina",
+              "expression": "concerned",
+              "pose": "playing guitar"
+            },
+            {
+              "name": "Sayo",
+              "expression": "worried",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "playing guitar"
+            ],
+            "dialogue": [
+              "That's strange~",
+              "I should be feeling more boppin' than usual today.",
+              "Hina-san?! Did something happen?",
+              "You're super off-key!"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Hina finds her playing strange, and Sayo notices that Hina is off-key and asks if something happened."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Lisa",
+              "expression": "neutral",
+              "pose": "observing"
+            }
+          ],
+          "setting": {
+            "location": "room",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "..."
+          ],
+          "summary": "Lisa looks on with a quiet expression."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\6.webp",
+      "summary": "Aya and Hina are at a table discussing something that happened, with Hina being told she should cry.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "table",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "So something like that happened...",
+              "I see."
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "A table with a cup on it is shown."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Aya",
+              "expression": "calm",
+              "pose": "sitting"
+            },
+            {
+              "name": "Hina",
+              "expression": "surprised",
+              "pose": "holding a cup"
+            }
+          ],
+          "setting": {
+            "location": "table",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "sitting"
+            ],
+            "dialogue": [
+              "Hina-chan, you should cry right here, right now.",
+              "Huh?!",
+              "Why?!",
+              "There's nothing at all for me to be sad about.",
+              "It's fine.",
+              "There are people who cry even when they aren't sad, right?",
+              "Like Aya-chan."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "Aya tells Hina that she should cry, but Hina is confused."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\7.webp",
+      "summary": "The page shows a character in distress, pleading with someone not to leave, followed by a scene where others are worried and a character sits alone at a table.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "crying",
+              "pose": "clinging"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "clinging to someone",
+              "crying",
+              "pleading"
+            ],
+            "dialogue": [
+              "I hate this!",
+              "Don't leave!"
+            ],
+            "emotion": "distress"
+          },
+          "text_elements": [],
+          "summary": "A girl clings to someone, begging them not to leave, expressing her hate for the situation."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "sad",
+              "pose": "holding a cup"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding a cup",
+              "thinking"
+            ],
+            "dialogue": [
+              "I don't want you to-",
+              "Don't leave me!",
+              "Onee-chan-"
+            ],
+            "emotion": "sadness"
+          },
+          "text_elements": [],
+          "summary": "A girl holds a cup and thinks about not wanting someone to leave, calling them 'Onee-chan'."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "worried",
+              "pose": "watching"
+            },
+            {
+              "name": "Girl",
+              "expression": "worried",
+              "pose": "watching"
+            },
+            {
+              "name": "Girl",
+              "expression": "worried",
+              "pose": "watching"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "watching"
+            ],
+            "dialogue": [],
+            "emotion": "worried"
+          },
+          "text_elements": [],
+          "summary": "Three girls watch with worried expressions."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "sad",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "cafe",
+            "background_elements": [
+              "table",
+              "chair"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sitting at a table",
+              "drinking"
+            ],
+            "dialogue": [],
+            "emotion": "sad"
+          },
+          "text_elements": [],
+          "summary": "A girl sits alone at a table, seemingly sad."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\8.webp",
+      "summary": "The girls are performing on stage, and one of them expresses her love for her sister. In the final panel, they are holding hands and expressing their feelings.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "playing guitar"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "playing guitar"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "none"
+            }
+          ],
+          "setting": {
+            "location": "stage",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "performing",
+              "playing",
+              "felt",
+              "was off-key"
+            ],
+            "dialogue": [
+              "That was the time I-felt like I was... performing most freely.",
+              "But out of all the times I've played in the past,",
+              "In the end, even after that... I was totally off-key."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The girls are performing on stage, and one of them reflects on how free she felt during that performance."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "emotional",
+              "pose": "looking"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "expressing love"
+            ],
+            "dialogue": [
+              "Onee-chan.",
+              "I love you so much."
+            ],
+            "emotion": "loving"
+          },
+          "text_elements": [],
+          "summary": "One of the girls expresses her love for her sister."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "holding hands"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "holding hands"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding hands",
+              "expressing feelings"
+            ],
+            "dialogue": [
+              "Someday,",
+              "Even if you don't need me as your 'initial reason' anymore..."
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [],
+          "summary": "The girls are holding hands and expressing their feelings for each other."
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "image_path": "./manga_images\\[Aya Shachou] Sukitooru Chisana Amadari Revolution _ Transparent Showers, Trickling Revolution   (BanG Dream!)\\9.webp",
+      "summary": "The page shows a girl with tears in her eyes saying she'll always be there, and then another girl expresses her love while playing guitar.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "crying",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "I'll always..."
+            ],
+            "emotion": "emotional"
+          },
+          "text_elements": [],
+          "summary": "A girl with tears in her eyes says that she'll always be there."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "excited",
+              "pose": "running with guitar"
+            }
+          ],
+          "setting": {
+            "location": "undefined",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "running",
+              "playing guitar"
+            ],
+            "dialogue": [
+              "Always",
+              "Love you!"
+            ],
+            "emotion": "joyful"
+          },
+          "text_elements": [],
+          "summary": "A girl runs while playing the guitar, expressing her love."
+        }
+      ]
+    }
+  ]
+}

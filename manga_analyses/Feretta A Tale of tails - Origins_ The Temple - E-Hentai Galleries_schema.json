@@ -1,0 +1,273 @@
+{
+  "manga_name": "[Feretta] A Tale of tails - Origins_ The Temple - E-Hentai Galleries",
+  "summary": "The manga tells the story of the origin of the temple and the Draako's quest for an artifact to help find her daughter and gain power. She faces numerous challenges to reach the artifact and eventually decides to stay at the temple and teach others.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Feretta] A Tale of tails - Origins_ The Temple - E-Hentai Galleries\\0.webp",
+      "summary": "The character recounts the history of the temple's founding and their arduous journey to reach an oracle artifact atop a mountain. They describe the challenges faced during the climb and their determination to claim the artifact.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "Mountain landscape",
+            "background_elements": [
+              "mountains",
+              "waterfall"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "The temple was founded here some two hundred years ago..",
+              "I'd heard tales of an oracle artefact, an ancient object that could tell me anything I wished to know. And I wished to know a lot.."
+            ],
+            "emotion": "contemplative"
+          },
+          "text_elements": [],
+          "summary": "Narration describes that the temple was founded 200 years ago and the character is looking for an oracle artefact."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "Mountain",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "I'd found my way to the mountain by a few reliable tips and reports of faint magical glow from the water coming off it."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Narration describes the character's journey to the mountain based on rumors."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Narrator",
+              "expression": "determined",
+              "pose": "climbing"
+            }
+          ],
+          "setting": {
+            "location": "Mountain",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "climbing"
+            ],
+            "dialogue": [
+              "The first climb nearly killed me on several occasions.",
+              "It felt like the mountain itself was trying to stop me."
+            ],
+            "emotion": "struggling"
+          },
+          "text_elements": [],
+          "summary": "The character struggles while climbing the mountain."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Narrator",
+              "expression": "annoyed",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "Mountain",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "I always was a bit bull headed.."
+            ],
+            "emotion": "frustrated"
+          },
+          "text_elements": [
+            "PBBBT!"
+          ],
+          "summary": "The character is frustrated and sticks their tongue out."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Narrator",
+              "expression": "determined",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "Mountain top",
+            "background_elements": [
+              "lake"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "And as I reached the top, the storm died. And all that remained was to claim the artefact.."
+            ],
+            "emotion": "calm"
+          },
+          "text_elements": [],
+          "summary": "The character has reached the top of the mountain and the storm has stopped."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Feretta] A Tale of tails - Origins_ The Temple - E-Hentai Galleries\\1.webp",
+      "summary": "The Draako describes her initial simple wants and her journey to gain power and eventually teach others at the temple.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Draako",
+              "expression": "determined",
+              "pose": "sitting cross-legged"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "mountains",
+              "grass"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "reflecting on initial goals"
+            ],
+            "dialogue": [
+              "My wants were simple, at first.",
+              "To know where my daughter was, and to gain the power to kill my mate and take her back."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Draako reflects on her initial simple desires."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "glowing artifact"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "studying an artifact"
+            ],
+            "dialogue": [
+              "The artefact promised to teach me everything it had to offer.",
+              "But it would take time."
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [],
+          "summary": "The Draako learns that the artifact will help her achieve her goals, but it will take time."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Draako",
+              "expression": "focused",
+              "pose": "carrying building materials"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "stone walls"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "building a home"
+            ],
+            "dialogue": [
+              "So I started making a home.",
+              "A place to train, gain strength, meditate.."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Draako begins building a home to train and meditate."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Draako",
+              "expression": "contemplative",
+              "pose": "gesturing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "glowing energy"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "unlocking new abilities"
+            ],
+            "dialogue": [
+              "New techniques and abilities were unlocked, my power grew far beyond that of my fellow Draako, both thanks to LARS' teachings, and my own mind."
+            ],
+            "emotion": "introspective"
+          },
+          "text_elements": [],
+          "summary": "Draako reflects on how her power grew beyond her peers."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Draako",
+              "expression": "content",
+              "pose": "standing"
+            },
+            {
+              "name": "Lemur",
+              "expression": "attentive",
+              "pose": "listening"
+            }
+          ],
+          "setting": {
+            "location": "temple courtyard",
+            "background_elements": [
+              "stone walls"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "teaching others"
+            ],
+            "dialogue": [
+              "And eventually, others came to learn from me.",
+              "So I figured I'd stay here for a while longer.."
+            ],
+            "emotion": "peaceful"
+          },
+          "text_elements": [],
+          "summary": "Draako teaches others and decides to stay longer at the temple."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "manga_name": "(LisaYukina) Happy Valentine_s Day! (BanG Dream!)",
+  "summary": "A sweet Valentine's Day story where Lisa gives Yukina her favorite chocolate, leading to a confession and reciprocation of feelings.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\(LisaYukina) Happy Valentine_s Day! (BanG Dream!)\\0.webp",
+      "summary": "A girl finds a gift bag in her locker and is confused by the lack of a name.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "worried",
+              "pose": "looking"
+            }
+          ],
+          "setting": {
+            "location": "locker",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking into locker"
+            ],
+            "dialogue": [],
+            "emotion": "worried"
+          },
+          "text_elements": [],
+          "summary": "A girl looks into her locker with a worried expression."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "locker",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "gift bag in locker"
+            ],
+            "dialogue": [
+              "What the..."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "A pink gift bag with a heart is found in the locker."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "confused",
+              "pose": "holding gift"
+            }
+          ],
+          "setting": {
+            "location": "locker",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding gift",
+              "looking at gift"
+            ],
+            "dialogue": [
+              "Who put this here? They didn't even put a name..."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "The girl is confused by the gift and questions who left it."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\(LisaYukina) Happy Valentine_s Day! (BanG Dream!)\\1.webp",
+      "summary": "Yukina is surprised by Lisa's arrival and the chocolate she brings. Lisa apologizes for being late and Yukina responds that she doesn't care, but she's never late.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Yukina",
+              "expression": "suspicious",
+              "pose": "holding chocolate"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "arriving",
+              "thinking"
+            ],
+            "dialogue": [
+              "milk chocolate? is it homemade...?"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [
+            "???"
+          ],
+          "summary": "Yukina is holding chocolate and wondering if it's homemade."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Lisa",
+              "expression": "cheerful",
+              "pose": "waving"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "arriving",
+              "greeting"
+            ],
+            "dialogue": [
+              "yaho~ yukina-!",
+              "Lisa, you're late."
+            ],
+            "emotion": "cheerful"
+          },
+          "text_elements": [],
+          "summary": "Lisa arrives and greets Yukina, but Yukina tells her she's late."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Yukina",
+              "expression": "concerned",
+              "pose": "looking at Lisa"
+            },
+            {
+              "name": "Lisa",
+              "expression": "apologetic",
+              "pose": "smiling"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "did something happen? you came out later than usual...",
+              "i ended up coming here alone for now.",
+              "ahaha... wellll, i set the wrong alarm so i overslept..."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Yukina asks Lisa why she's late, and Lisa apologizes, saying she overslept."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Lisa",
+              "expression": "embarrassed",
+              "pose": "smiling"
+            },
+            {
+              "name": "Yukina",
+              "expression": "annoyed",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "apologizing",
+              "speaking"
+            ],
+            "dialogue": [
+              "my bad, my bad!",
+              "ah, geez... i'm really out of it today, huh?",
+              "i-it's not like i really care, but... you're never late..."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "Lisa continues to apologize for being late, and Yukina says she doesn't care, but Lisa is never late."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\(LisaYukina) Happy Valentine_s Day! (BanG Dream!)\\2.webp",
+      "summary": "Two girls discuss a gift bag filled with chocolates, implying it's from admirers. The girl receiving the chocolates is flustered and unsure how to respond.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Yukina",
+              "expression": "unsure",
+              "pose": "holding bag"
+            },
+            {
+              "name": "Lisa",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "school hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "walking together",
+              "discussing a bag"
+            ],
+            "dialogue": [
+              "Anyway, what's thaat?",
+              "Gosh, could it be... Yukina, have you gotten... chocolate!?",
+              "Yeah, it was in my locker."
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "Lisa asks Yukina about the bag she's carrying, guessing it's chocolate. Yukina confirms it was in her locker."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "close up on bag",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "observing the bag"
+            ],
+            "dialogue": [
+              "Woow",
+              "Just looking at the design tells me it's filled with feelings, though-??"
+            ],
+            "emotion": "intrigued"
+          },
+          "text_elements": [],
+          "summary": "A close-up of the bag reveals a design that suggests it's filled with heartfelt feelings."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Yukina",
+              "expression": "flustered",
+              "pose": "holding bag"
+            },
+            {
+              "name": "Lisa",
+              "expression": "excited",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "school hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking about feelings"
+            ],
+            "dialogue": [
+              "Yukina's popular-*",
+              "So, are ya gonna accept those heart-felt feelings-?",
+              "A-, accepting feelings, you say..."
+            ],
+            "emotion": "nervous"
+          },
+          "text_elements": [],
+          "summary": "Lisa teases Yukina about accepting the heartfelt feelings implied by the chocolates. Yukina is visibly flustered by the suggestion."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\(LisaYukina) Happy Valentine_s Day! (BanG Dream!)\\3.webp",
+      "summary": "Lisa finds chocolate with no name on it, and Yukina is trying to figure out whether to leave it or for the person to confess.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Yukina",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Lisa",
+              "expression": "teasing",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "finds chocolate with no name on it",
+              "considers leaving it in case they take it back"
+            ],
+            "dialogue": [
+              "...well, it's a bit hard when there's no name on it...",
+              "If i leave it here, maybe they'll take it back?",
+              "Heh?"
+            ],
+            "emotion": "contemplative"
+          },
+          "text_elements": [],
+          "summary": "Yukina finds chocolate with no name on it and considers leaving it in case the person wants it back, while Lisa teases her."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Lisa",
+              "expression": "hopeful",
+              "pose": "leaning in"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "tries to cheer Yukina up",
+              "suggests the person who made the chocolate to confess"
+            ],
+            "dialogue": [
+              "W-, well, uh...! they still worked really hard on it, though!?!@?@12",
+              "Th, they might, uhm, go \"i was the one who made that chocolate\" and confess, right!????"
+            ],
+            "emotion": "hopeful"
+          },
+          "text_elements": [],
+          "summary": "Lisa tries to cheer Yukina up by saying the person who made the chocolate might confess."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Yukina",
+              "expression": "annoyed",
+              "pose": "holding up her hand"
+            },
+            {
+              "name": "Lisa",
+              "expression": "flustered",
+              "pose": "covering her mouth"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "questions how Lisa would know if it's homemade",
+              "is flustered by Yukina's comment"
+            ],
+            "dialogue": [
+              "Sigh...",
+              "...seriously, how would you know if it's homemade or not, Lisa?",
+              "Eck",
+              "T-, that's..."
+            ],
+            "emotion": "annoyed"
+          },
+          "text_elements": [],
+          "summary": "Yukina is annoyed by Lisa's comment and questions how she would know if the chocolate is homemade, making Lisa flustered."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\(LisaYukina) Happy Valentine_s Day! (BanG Dream!)\\4.webp",
+      "summary": "Lisa confesses that she was the one who made the chocolate. Yukina responds that she'll be looking forward to it.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Yukina",
+              "expression": "smirking",
+              "pose": "standing"
+            },
+            {
+              "name": "Lisa",
+              "expression": "shocked",
+              "pose": "behind Yukina"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": [
+              "wall"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "slides",
+              "speaks"
+            ],
+            "dialogue": [
+              "I'm kidding. Obviously I'd take whatever you made for me, Lisa.",
+              "Aghfjfg!?!?!?!",
+              "(You knew???)"
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [
+            "SLIDE"
+          ],
+          "summary": "Yukina teases Lisa, saying she will take whatever Lisa makes for her. Lisa is shocked that Yukina knew."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Yukina",
+              "expression": "smirking",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "speaks"
+            ],
+            "dialogue": [
+              "A confession with the line “I was the one who made that chocolate”, huh?",
+              "I'll be looking forward to it."
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [],
+          "summary": "Yukina acknowledges Lisa's confession and says she'll be looking forward to it."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Lisa",
+              "expression": "flustered",
+              "pose": "standing"
+            },
+            {
+              "name": "Yukina",
+              "expression": "smirking",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "confesses"
+            ],
+            "dialogue": [],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "PUFF",
+            "* She confessed after school!"
+          ],
+          "summary": "Lisa is overwhelmed by Yukina's response to her confession."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\(LisaYukina) Happy Valentine_s Day! (BanG Dream!)\\5.webp",
+      "summary": "A character is contemplating why Lisa is acting strange and giving her favorite chocolate. The character is internally monologuing about Lisa's behavior.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "flustered",
+              "pose": "side view"
+            }
+          ],
+          "setting": {
+            "location": "school hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking",
+              "observing"
+            ],
+            "dialogue": [
+              "Pushed herself quite a bit, actually",
+              "Lisa's so slow when it comes stuff like this... How am I supposed to not notice? It's my favorite chocolate,",
+              "And she's been anxiously trailing me ever since yesterday..."
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "The main character is thinking about Lisa's behavior and how she has been trailing her anxiously since yesterday."
+        }
+      ]
+    }
+  ]
+}

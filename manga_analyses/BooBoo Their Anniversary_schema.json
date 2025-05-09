@@ -1,0 +1,974 @@
+{
+  "manga_name": "[BooBoo] Their Anniversary",
+  "summary": "This manga tells the heartwarming story of a bear and a tiger celebrating their anniversary. The tiger initially seems grumpy and resistant to affection, but slowly warms up to the bear's love and care. They exchange gifts, share a meal with friends, and ultimately reconnect on a deeper level, resolving any underlying stress the tiger may have been experiencing.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[BooBoo] Their Anniversary\\0.webp",
+      "summary": "Two anthropomorphic animal characters are engaged in a conversation outdoors in a snowy setting. One character expresses his discomfort with the cold while the other apologizes for being late.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Bear",
+              "expression": "embarrassed",
+              "pose": "clasping hands"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "snow",
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "is waiting",
+              "is cold"
+            ],
+            "dialogue": [
+              "Hey!"
+            ],
+            "emotion": "cold"
+          },
+          "text_elements": [],
+          "summary": "A furry character is standing outside and is blushing, looking away and clasping his hands together in the cold."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Bear",
+              "expression": "blushing",
+              "pose": "talking"
+            },
+            {
+              "name": "Lion",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "snow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "arrived"
+            ],
+            "dialogue": [
+              "Sorry to keep you waiting",
+              "Hmm, if you show up a little later, I will be cold to death for sure."
+            ],
+            "emotion": "cold"
+          },
+          "text_elements": [],
+          "summary": "The bear is upset while the lion apologizes."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[BooBoo] Their Anniversary\\1.webp",
+      "summary": "A white tiger and a brown tiger are in a romantic encounter in a snowy environment. The white tiger is apologizing while the brown tiger seems reluctant at first but later becomes affectionate.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "White Tiger",
+              "expression": "apologetic",
+              "pose": "hugging"
+            },
+            {
+              "name": "Brown Tiger",
+              "expression": "annoyed",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "snow",
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "hugging",
+              "talking"
+            ],
+            "dialogue": [
+              "Aw, I'm really sorry~~",
+              "Stop clingy to me"
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "A white tiger apologizes while hugging a brown tiger who tells him to stop being clingy."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "White Tiger",
+              "expression": "gentle",
+              "pose": "looking"
+            },
+            {
+              "name": "Brown Tiger",
+              "expression": "blushing",
+              "pose": "looking"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking",
+              "blushing"
+            ],
+            "dialogue": [],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "Close-up of the two tigers, the brown tiger is blushing."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "White Tiger",
+              "expression": "loving",
+              "pose": "holding"
+            },
+            {
+              "name": "Brown Tiger",
+              "expression": "affectionate",
+              "pose": "leaning"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding",
+              "leaning",
+              "embracing"
+            ],
+            "dialogue": [],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "The white tiger is holding the brown tiger close, and the brown tiger is leaning in affectionately."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[BooBoo] Their Anniversary\\2.webp",
+      "summary": "The polar bear asks the tiger if he is cold, and the tiger is embarrassed by the polar bear's touch. The polar bear says he didn't get mad at the tiger and then says he has something for him.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Polar Bear",
+              "expression": "smiling",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "snow",
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "Now, you don't feel cold, do you?"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "The polar bear asks the tiger if he is cold."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Tiger",
+              "expression": "flustered",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "snow",
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [],
+          "summary": "The tiger is embarrassed by the polar bear's touch."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Tiger",
+              "expression": "flustered",
+              "pose": "being touched"
+            },
+            {
+              "name": "Polar Bear",
+              "expression": "smiling",
+              "pose": "touching"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "snow",
+              "trees"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "touching"
+            ],
+            "dialogue": [
+              "Forget it, I didn't mad at you or something."
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "The polar bear says he didn't get mad at the tiger."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Polar Bear",
+              "expression": "smiling",
+              "pose": "holding gift"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding gift"
+            ],
+            "dialogue": [
+              "Ah, yes I have something for you."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The polar bear says he has something for the tiger."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[BooBoo] Their Anniversary\\3.webp",
+      "summary": "A tiger-like character gifts his partner an anniversary gift of matching bracelets. The partner seems to have forgotten the special occasion, but happily accepts the gift.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Tiger character",
+              "expression": "angry",
+              "pose": "side view"
+            },
+            {
+              "name": "Bear character",
+              "expression": "happy",
+              "pose": "holding gift"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "giving gift"
+            ],
+            "dialogue": [
+              "Is this for me?",
+              "Of course! It is!!",
+              "Who do you think I'm gonna give it to.",
+              "But for what occasion?"
+            ],
+            "emotion": "loving, playful"
+          },
+          "text_elements": [],
+          "summary": "The tiger character is angry as he asks if the gift is for him, and the bear character confirms it is."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Tiger character",
+              "expression": "loving",
+              "pose": "holding gift"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "trees",
+              "snow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "giving gift"
+            ],
+            "dialogue": [
+              "Our anniversary blockhead!"
+            ],
+            "emotion": "loving"
+          },
+          "text_elements": [],
+          "summary": "The tiger character is giving a gift to his partner and calls him a blockhead for forgetting the anniversary."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Bear character",
+              "expression": "blushing",
+              "pose": "side view"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "blushing"
+            ],
+            "dialogue": [],
+            "emotion": "embarrassed, happy"
+          },
+          "text_elements": [],
+          "summary": "The bear character is blushing."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Tiger character",
+              "expression": "happy",
+              "pose": "hugging"
+            },
+            {
+              "name": "Bear character",
+              "expression": "happy",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "hugging"
+            ],
+            "dialogue": [
+              "Honey~"
+            ],
+            "emotion": "loving"
+          },
+          "text_elements": [],
+          "summary": "The two characters are hugging each other with hearts all around them."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images/[BooBoo] Their Anniversary/4.webp",
+      "summary": "The friends are having a meal together. They are talking about one of their friends who doesn't say anything when he's hungry.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "hungry",
+              "pose": "eating"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": [
+              "food",
+              "chopsticks"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "eating"
+            ],
+            "dialogue": [],
+            "emotion": "hungry"
+          },
+          "text_elements": [],
+          "summary": "A character is eating with chopsticks."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "confused",
+              "pose": "sitting"
+            },
+            {
+              "name": "Character",
+              "expression": "explaining",
+              "pose": "sitting"
+            },
+            {
+              "name": "Character",
+              "expression": "concerned",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": [
+              "food",
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "eating"
+            ],
+            "dialogue": [
+              "Why he doesn't say anything?",
+              "He's always like that when he's hungry.",
+              "I thought he's in a bad mood or something."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "The characters are talking about their friend's behavior when he's hungry."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Character",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": [
+              "food",
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "standing",
+              "talking"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Two characters are standing and looking at each other."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "happy",
+              "pose": "eating"
+            },
+            {
+              "name": "Character",
+              "expression": "neutral",
+              "pose": "feeding"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": [
+              "food",
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "feeding",
+              "eating"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A character is feeding another character."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[BooBoo] Their Anniversary\\5.webp",
+      "summary": "A group says goodbye and then two furry individuals are left alone and one asks the other to go for a walk. The other one seems stressed and is asked if something bad happened and is told they look stressed.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "dining table",
+            "background_elements": [
+              "chopsticks",
+              "bowl",
+              "plates",
+              "cup"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "A dining table with a bowl, chopsticks, cup, and plates."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "furry",
+              "expression": "smiling",
+              "pose": "waving"
+            },
+            {
+              "name": "furry",
+              "expression": "neutral",
+              "pose": "waving"
+            },
+            {
+              "name": "furry",
+              "expression": "smiling",
+              "pose": "waving"
+            },
+            {
+              "name": "furry",
+              "expression": "smiling",
+              "pose": "waving"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "waving goodbye"
+            ],
+            "dialogue": [
+              "Bye bye",
+              "Bye",
+              "Bye"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "A group of furry individuals says goodbye."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "furry",
+              "expression": "smiling",
+              "pose": "arm around"
+            },
+            {
+              "name": "furry",
+              "expression": "uncomfortable",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "offering a walk"
+            ],
+            "dialogue": [
+              "Well...well now we're alone together. Shall we go for a walk?"
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "Two furry individuals are left alone and one asks the other to go for a walk."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "furry",
+              "expression": "concerned",
+              "pose": "side view"
+            },
+            {
+              "name": "furry",
+              "expression": "smiling",
+              "pose": "side view"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "tree"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "walking"
+            ],
+            "dialogue": [],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Two furry individuals are walking outside."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "furry",
+              "expression": "concerned",
+              "pose": "close up"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "asking a question"
+            ],
+            "dialogue": [
+              "Did something bad happen?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "A furry individual is asked if something bad happened."
+        },
+        {
+          "panel_id": "6",
+          "characters": [
+            {
+              "name": "furry",
+              "expression": "concerned",
+              "pose": "close up"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "observing",
+              "commenting"
+            ],
+            "dialogue": [
+              "Your face looks stressful."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "A furry individual is told they look stressed."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[BooBoo] Their Anniversary\\6.webp",
+      "summary": "A fluffy cat-like character promises to stay by a wolf-like character's side. The wolf-like character thanks him and then playfully tries to scare the cat-like character.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Cat-like character",
+              "expression": "smiling",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "promising to stay by his side"
+            ],
+            "dialogue": [
+              "Even I don't know what happened but I will always stay by your side!"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "The cat-like character promises to always stay by the wolf-like character's side."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Wolf-like character",
+              "expression": "grateful",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thanking the cat-like character"
+            ],
+            "dialogue": [
+              "Thanks"
+            ],
+            "emotion": "grateful"
+          },
+          "text_elements": [],
+          "summary": "The wolf-like character thanks the cat-like character."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Cat-like character",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Wolf-like character",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "standing together",
+              "looking at each other"
+            ],
+            "dialogue": [],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "The two characters stand together."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Cat-like character",
+              "expression": "blushing",
+              "pose": "hugging"
+            },
+            {
+              "name": "Wolf-like character",
+              "expression": "blushing",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "hugging"
+            ],
+            "dialogue": [],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "The two characters hug."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Cat-like character",
+              "expression": "surprised",
+              "pose": "being pinched"
+            },
+            {
+              "name": "Wolf-like character",
+              "expression": "teasing",
+              "pose": "pinching"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "pinching the cat-like character's cheek",
+              "teasing"
+            ],
+            "dialogue": [
+              "What are you doing? Are you trying to scare me!?"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [
+            "つつつ",
+            "M",
+            "W"
+          ],
+          "summary": "The wolf-like character playfully pinches the cat-like character's cheek and asks if he's trying to scare him."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[BooBoo] Their Anniversary\\7.webp",
+      "summary": "A cat-like character asks if they can hold hands, and the other character agrees. They then discuss getting dessert and cake.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Cat-like character",
+              "expression": "smiling",
+              "pose": "reaching out"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "speaking",
+              "reaching out"
+            ],
+            "dialogue": [
+              "We didn't hold our hand for a quiet sometime did we?"
+            ],
+            "emotion": "affectionate"
+          },
+          "text_elements": [],
+          "summary": "A cat-like character reaches out to hold hands."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "blushing",
+              "pose": "facing character"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "responding"
+            ],
+            "dialogue": [
+              "Yeah..!"
+            ],
+            "emotion": "shy"
+          },
+          "text_elements": [],
+          "summary": "The other character responds in affirmation, seeming flustered."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Cat-like character",
+              "expression": "affectionate",
+              "pose": "holding hands"
+            },
+            {
+              "name": "Character",
+              "expression": "affectionate",
+              "pose": "holding hands"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding hands",
+              "suggesting dessert"
+            ],
+            "dialogue": [
+              "Well, do you want to go for some dessert after this?",
+              "If that so, I want a cake."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "The two characters hold hands and discuss getting dessert."
+        }
+      ]
+    }
+  ]
+}

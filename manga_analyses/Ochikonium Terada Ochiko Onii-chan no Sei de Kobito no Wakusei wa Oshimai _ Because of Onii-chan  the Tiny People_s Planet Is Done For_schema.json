@@ -1,0 +1,510 @@
+{
+  "manga_name": "[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!",
+  "summary": "A group of girls gains the ability to grow to immense sizes, leading to chaotic situations as they accidentally cause destruction and struggle to control their new powers. They attempt a photoshoot that escalates out of control.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!\\0.webp",
+      "summary": "The page introduces the manga title and features a scene where a girl asks her brother about a location for a cosplay photoshoot.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "lying down"
+            },
+            {
+              "name": "Onii-chan",
+              "expression": "unknown",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "bedroom",
+            "background_elements": [
+              "bed"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "lying on the bed",
+              "talking on the phone",
+              "asking about a photoshoot location"
+            ],
+            "dialogue": [
+              "Onii-chan, where would be a good place for our next cosplay photo shoot?",
+              "Hmm~? I'm good with anywhere."
+            ],
+            "emotion": "casual"
+          },
+          "text_elements": [
+            "Ah Ah Ah",
+            "NEET"
+          ],
+          "summary": "A girl lying on a bed asks her brother about a good place for their next cosplay photoshoot."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images/[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!/2.webp",
+      "summary": "Mahiro-chan has become a giant monster and is now towering over the planet. Others are reacting to the situation with surprise and worry.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mahiro-chan",
+              "expression": "surprised",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "trampling buildings",
+              "causing destruction"
+            ],
+            "dialogue": [
+              "Geez~! Mahiro-chan! Can't believe you went off on your own first!",
+              "M-Momiji!? S-So huge...!!? Woah! Watch your feet! You're trampling them!",
+              "...? Of course I am! I'm a giant monster on this planet after all!",
+              "(T-This is so weird, is she being influenced by something!?)"
+            ],
+            "emotion": "chaotic"
+          },
+          "text_elements": [
+            "THUD",
+            "CRUSH",
+            "26,879"
+          ],
+          "summary": "Mahiro-chan has grown to a gigantic size, causing chaos and destruction as she walks through the city. Others are worried about her and the situation."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Mahiro-chan",
+              "expression": "confused",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looking around",
+              "observing the destruction she caused"
+            ],
+            "dialogue": [
+              "Mahiro-chan, how can you call yourself a giant monster if you're so small?",
+              "(B-But I'm already quite big compared to...)",
+              "That aside, I don't see the others, but... I wonder where my big sister is?"
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [
+            "WHHRRR",
+            "?"
+          ],
+          "summary": "Another character is observing the giant Mahiro-chan and wondering about her size and location of other characters."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [],
+            "emotion": "chaotic"
+          },
+          "text_elements": [
+            "Hu",
+            "16,487"
+          ],
+          "summary": "The city is destroyed by the giant Mahiro-chan."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!\\3.webp",
+      "summary": "Momiji is enjoying her giant size while Kaede comments on her breasts being too big, causing damage to the city.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Momiji",
+              "expression": "smiling",
+              "pose": "making a peace sign"
+            },
+            {
+              "name": "Kaede",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings",
+              "clouds"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Momiji is crushing the city with her breasts",
+              "Kaede is commenting on Momiji's size"
+            ],
+            "dialogue": [
+              "Ya~! Momiji, are you enjoying yourself?",
+              "Wha... You're too huge, sis! You'll make a huge mess in the city!",
+              "Huh? This should be about normal size. By the way Momiji, haven't you crushed a lot, too?",
+              "Sis, don't compare me to yourself! How much damage you think you're doing just by putting your breasts down!?",
+              "K-Kaede-chan!? Your breasts are way too huge... Momiji is already enormous and even she could easily fit between them..."
+            ],
+            "emotion": "humorous"
+          },
+          "text_elements": [
+            "Boing",
+            "Crush",
+            "RUM",
+            "SLAM",
+            "BLE..."
+          ],
+          "summary": "Momiji is enjoying being gigantic and crushing the city, while Kaede comments on the damage and the size of Momiji's breasts."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!\\4.webp",
+      "summary": "Momiji has become a giant and is clumsily navigating a city while trying not to crush anyone with her large size, prompting concern and warnings from other characters.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Momiji",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Momiji is walking through a city as a giant",
+              "Crushing buildings and causing destruction"
+            ],
+            "dialogue": [
+              "So~? What was this 'huge monster' bit Momiji has been doing~? Don't bother these tiny people too much!♡",
+              "Woah! Kaede-chan! Watch out with your breastdozers, the city is...!",
+              "Mahiro-chan, your voice is too quiet, we can't hear you!",
+              "Going to drive the band monsters out of the city~♡",
+              "M-Momiji! Watch your footsteps! Please step where there are no people~!",
+              "I've been trying not to!! But my sis' huge breasts~!"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [
+            "LOOM...",
+            "Boing",
+            "Cling",
+            "Sway",
+            "Wobble",
+            "Crush",
+            "Crack",
+            "Thud",
+            "WHRR..."
+          ],
+          "summary": "Momiji is a giant walking through the city, trying not to crush people but her breasts are in the way."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!\\5.webp",
+      "summary": "A giant Mihari speaks to Kaede, who is being groped by tiny people. Mihari is trampling cities and Kaede is shocked by her size.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mihari",
+              "expression": "concerned",
+              "pose": "sitting"
+            },
+            {
+              "name": "Kaede",
+              "expression": "annoyed",
+              "pose": "being groped"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "water",
+              "sky"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "speaking to Kaede",
+              "trampling cities"
+            ],
+            "dialogue": [
+              "Finally found you! Wait a second... Kaede~? What are you doing this small? Haven't you traveled through multiple continents?",
+              "M-Mihari Don't grope me around these places! You're also trampling a lot of cities!❤♡❤♡",
+              "Hmm~? They don't have much of a choice in the matter. They'll just have to endure it until we're done with the photo shoot. We can't just keep being careful walking around here after all..."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [
+            "RUMBLE",
+            "THUMP!",
+            "THUD!!",
+            "KATHUD"
+          ],
+          "summary": "Mihari finds Kaede and warns her about groping and trampling cities."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kaede",
+              "expression": "shocked",
+              "pose": "surprised"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "witnessing Mihari's size"
+            ],
+            "dialogue": [
+              "M-Mihari~! You've grown way too much~!",
+              "Can't believe my huge sis could be picked up with just one hand...!"
+            ],
+            "emotion": "astonished"
+          },
+          "text_elements": [],
+          "summary": "Kaede is shocked by Mihari's immense size."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!\\6.webp",
+      "summary": "Asahi, dressed as a dinosaur, is rampaging, causing Mihari to complain about the shaking. A tiny character comments on Asahi's size.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Asahi",
+              "expression": "smiling",
+              "pose": "standing"
+            },
+            {
+              "name": "Mihari",
+              "expression": "worried",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Asahi is rampaging",
+              "Mihari is complaining about the shaking",
+              "A small character is observing Asahi"
+            ],
+            "dialogue": [
+              "Roar~! It's the big monster Asahi~! It's not fair you've been rampaging without me~!",
+              "Asahi-chan!? H-hey, please don't move! It's hard to stand with all that shaking...",
+              "Hmm? Are you saying something? You might want to speak a bit louder!",
+              "Asahi-chan!? How many times bigger than Mihari is she!?",
+              "He~y Asahi~! Stop playing a monster!",
+              "S-she's way too big to be a simple monster... Eeek~~!"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [
+            "KATHUD",
+            "LOOM",
+            "Stiffy",
+            "Wiggle"
+          ],
+          "summary": "Asahi, dressed as a monster, is rampaging, while Mihari complains about the shaking and another character comments on Asahi's size."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!\\7.webp",
+      "summary": "Asahi rampages on the Earth, causing destruction with each step, while the other characters lament her size and the planet's impending doom.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Asahi",
+              "expression": "excited",
+              "pose": "stomping"
+            },
+            {
+              "name": "Girl",
+              "expression": "worried",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "Earth",
+            "background_elements": [
+              "ocean",
+              "continents"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "rampages",
+              "stomping",
+              "destroying continents"
+            ],
+            "dialogue": [
+              "So, where should Asahi go rampage!? Can't wait to do it!",
+              "Asahi, stop! It's not a rampage at all, it's a photo shoot!",
+              "Right now, asahi could easily destroy the planet without even rampaging much...",
+              "Woah... she's impatiently stomping about five continents...!",
+              "Ah, looks like asahi-chan is so huge her feet don't even fit on a continent..."
+            ],
+            "emotion": "destruction"
+          },
+          "text_elements": [
+            "THUD",
+            "Crush",
+            "HHR",
+            "U",
+            "D",
+            "KRR"
+          ],
+          "summary": "Asahi is stomping on the Earth, excited to rampage, and destroying continents with each step."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Mihari",
+              "expression": "worried",
+              "pose": "running"
+            }
+          ],
+          "setting": {
+            "location": "Earth",
+            "background_elements": [
+              "city"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "running",
+              "lamenting"
+            ],
+            "dialogue": [
+              "Mihari! You'd better stop asahi soon or she'll destroy the entire planet!",
+              "E-even if you tell me that... There's no way i can stop a girl this huge! You know she can cross a continent in a single step, right? There's nothing bigger than asahi-chan on this planet anyway...",
+              "Even our big sisters can't stop her... Asahi-chan grew way too much!",
+              "A-all because i randomly choose this planet for our photo shoot... i'm so sorry everyone on this planet~~!"
+            ],
+            "emotion": "anxiety"
+          },
+          "text_elements": [
+            "THUD",
+            "Roa~! Asahi the monster is coming through♡"
+          ],
+          "summary": "Mihari expresses her worry that no one can stop Asahi's rampage."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "Outer Space",
+            "background_elements": [
+              "Earth"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "showing the Earth"
+            ],
+            "dialogue": [],
+            "emotion": "despair"
+          },
+          "text_elements": [
+            "WHOO",
+            "0 0 0 0..."
+          ],
+          "summary": "The Earth is shown from space, emphasizing the scale of Asahi's rampage and the planet's destruction."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "image_path": "./manga_images\\[Ochikonium (Terada Ochiko)] Onii-chan (no Sei de Kobito no Wakusei) wa Oshimai! _ (Because of) Onii-chan (, the Tiny People_s Planet) Is Done For!\\8.webp",
+      "summary": "The character is overwhelmed by the size of everything around her, She is panting and says she will change back if she gets too excited, because it was hard to become as small as she is.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Character",
+              "expression": "overwhelmed",
+              "pose": "clenched fist"
+            }
+          ],
+          "setting": {
+            "location": "outer space",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "observing everything",
+              "speaking",
+              "panting"
+            ],
+            "dialogue": [
+              "(e-everyone is so big and messing around mahiro-chan and momiji-chan are already big, but their big sisters are even bigger, then there's an even way bigger asahi-chan trampling all these continents... the tiny people must be feeling so hopeless that no one can stop them haa haa...",
+              "Gasp! i'm going to change back if i get too excited...! it was so hard to become as small as i possibly could to be able to observe what they are doing after all better be careful...)"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "Rumble",
+            "Pant",
+            "Ble..."
+          ],
+          "summary": "The character is overwhelmed by the size of everything around her, She is panting and says she will change back if she gets too excited, because it was hard to become as small as she is."
+        }
+      ]
+    }
+  ]
+}

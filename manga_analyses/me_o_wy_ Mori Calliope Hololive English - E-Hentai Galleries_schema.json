@@ -1,0 +1,339 @@
+{
+  "manga_name": "[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries",
+  "summary": "A collection of illustrations featuring Mori Calliope from Hololive English in various suggestive outfits and poses.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries\\0.webp",
+      "summary": "This image features an anime-style woman with pink hair, horns, and cow-print bikini top. She appears uncomfortable and is wearing a cowbell.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "uncomfortable",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "white background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "wears cow print bikini and cowbell",
+              "says 'M-moo..'"
+            ],
+            "dialogue": [
+              "M-moo.."
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "M-MOO..",
+            "ME O WY"
+          ],
+          "summary": "Mori Calliope looks embarrassed while wearing a cow-print bikini and cowbell, and she says 'M-moo..'."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries\\1.webp",
+      "summary": "A smiling Mori Calliope is shown in a button-down shirt and skirt while holding a pointer with a heart and the number 2 floating above her head.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "smiling",
+              "pose": "seated"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "poses",
+              "holds pointer"
+            ],
+            "dialogue": [
+              "Uh...???"
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [
+            "2",
+            "♥"
+          ],
+          "summary": "Mori Calliope smiles and holds a pointer with a heart and the number 2 above her head."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries\\2.webp",
+      "summary": "A full-body illustration of Mori Calliope in a black bodysuit and cloak with pink hair and a small crown.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "slightly smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "plain background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing",
+              "gesturing"
+            ],
+            "dialogue": [],
+            "emotion": "stylish"
+          },
+          "text_elements": [
+            "ME O WY"
+          ],
+          "summary": "Mori Calliope strikes a pose, showcasing her outfit."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries\\3.webp",
+      "summary": "A woman in a red latex suit poses with a confident expression. She is pointing and has a suggestive smirk.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "smirking",
+              "pose": "pointing"
+            }
+          ],
+          "setting": {
+            "location": "studio",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing",
+              "pointing"
+            ],
+            "dialogue": [],
+            "emotion": "confident"
+          },
+          "text_elements": [],
+          "summary": "Mori Calliope poses in a red latex suit, pointing with a confident and suggestive expression."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries\\4.webp",
+      "summary": "Mori Calliope is depicted in a bunny outfit with stockings and heels.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "plain background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "ME O WY"
+          ],
+          "summary": "Mori Calliope is standing in a bunny outfit."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries\\5.webp",
+      "summary": "This page shows character design sheets for Mori Calliope in a bunny suit, with different views and outfit variations.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "studio",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Mori Calliope standing in a bunny suit, showing different angles and outfit variations."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries\\6.webp",
+      "summary": "This page features four different poses of a woman with pink hair in a bunny suit, showcasing her from different angles.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "stoic",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "gray background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing",
+              "wearing bunny suit and stockings"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Mori Calliope is standing and posing in a bunny suit with stockings."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "stoic",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "gray background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing",
+              "wearing bunny suit and tights"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Mori Calliope is standing and posing in a bunny suit with tights."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "stoic",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "gray background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing",
+              "wearing bunny suit and jacket"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Mori Calliope is standing and posing in a bunny suit with a jacket draped over her shoulders."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "stoic",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "gray background",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing",
+              "wearing bunny suit and socks"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "Mori Calliope is standing and posing in a bunny suit with socks, facing away."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[me_o_wy_] Mori Calliope (Hololive English) - E-Hentai Galleries\\7.webp",
+      "summary": "A manga page shows a woman in a bikini and jacket. The woman has pink hair and is posing with her hands behind her head.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Mori Calliope",
+              "expression": "neutral",
+              "pose": "hands behind head"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "posing"
+            ],
+            "dialogue": [],
+            "emotion": "suggestive"
+          },
+          "text_elements": [
+            "ME O WY"
+          ],
+          "summary": "Mori Calliope is posing in a bikini and jacket."
+        }
+      ]
+    }
+  ]
+}

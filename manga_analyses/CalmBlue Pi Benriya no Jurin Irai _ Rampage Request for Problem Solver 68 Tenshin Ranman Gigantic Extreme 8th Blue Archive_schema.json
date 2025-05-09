@@ -1,0 +1,685 @@
+{
+  "manga_name": "[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)",
+  "summary": "Problem Solver 68 is hired to destroy a location outside of Kivotos. They end up destroying a miniature city with giant feet, causing chaos and panic. However, they destroy the wrong town and are penalized for breach of contract.",
+  "pages": [
+    {
+      "page_number": 42,
+      "image_path": "./manga_images/[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\0.webp",
+      "summary": "Two girls are tasked with destroying something, and they see the request, which is to destroy a place outside of Kivotos. The request is shown with a panel of giant feet stepping on a cityscape.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "stepping on buildings",
+              "crushing buildings"
+            ],
+            "dialogue": [
+              "Let me see... they want us to destroy all of this."
+            ],
+            "emotion": "destructive"
+          },
+          "text_elements": [
+            "ス"
+          ],
+          "summary": "A giant pair of feet is shown crushing a city."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "holding phone"
+            },
+            {
+              "name": "Girl",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "discussing a request"
+            ],
+            "dialogue": [
+              "So there's a place like this outside of Kivotos...",
+              "What's the request?"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "Two girls are discussing a request to destroy a place outside of Kivotos."
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "image_path": "./manga_images\\[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\1.webp",
+      "summary": "A girl asks if everyone is ready while a giant foot looms over a city. She reassures her friend that it is fine, as they are getting paid.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Kayoko",
+              "expression": "smiling",
+              "pose": "raised hand"
+            },
+            {
+              "name": "Unnamed",
+              "expression": "annoyed",
+              "pose": "holding phone"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking",
+              "reassuring friend",
+              "thinking"
+            ],
+            "dialogue": [
+              "It's fine, Kayoko-chan! We're getting paid, after all.",
+              "What kind of strange request is that..."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "A girl reassures her friend that they are getting paid despite the strange request."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kayoko",
+              "expression": "smiling",
+              "pose": "ready"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "about to step on city"
+            ],
+            "dialogue": [
+              "Alright everyone, are you ready?"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "ぐわ"
+          ],
+          "summary": "The girl asks if everyone is ready as a giant foot looms over a city."
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "image_path": "./manga_images\\[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\2.webp",
+      "summary": "A giant foot crushes a city as two girls observe the destruction, with people fleeing in panic.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings",
+              "rubble"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "crushing",
+              "destroying"
+            ],
+            "dialogue": [
+              "take that!"
+            ],
+            "emotion": "destructive"
+          },
+          "text_elements": [
+            "ズ"
+          ],
+          "summary": "A giant foot crushes a city, causing massive destruction."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "stare",
+              "pose": "sitting"
+            },
+            {
+              "name": "Girl",
+              "expression": "happy",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "rubble",
+              "destroyed buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "staring",
+              "observing"
+            ],
+            "dialogue": [
+              "wow, it's all flattened!"
+            ],
+            "emotion": "observant"
+          },
+          "text_elements": [
+            "*stare*"
+          ],
+          "summary": "Two girls observe the flattened city with one girl commenting on the destruction."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "People",
+              "expression": "fearful",
+              "pose": "running"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings",
+              "rubble"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "running",
+              "fleeing"
+            ],
+            "dialogue": [
+              "kya-aaa!",
+              "run!"
+            ],
+            "emotion": "panic"
+          },
+          "text_elements": [],
+          "summary": "People are running away in panic from the destruction."
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "image_path": "./manga_images\\[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\3.webp",
+      "summary": "A girl notices something flying and crushes a toy plane with her hand, then observes other toy planes on a table.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "curious",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "notices something flying"
+            ],
+            "dialogue": [
+              "Something's flying?"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [],
+          "summary": "A girl is curious about something flying."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "determined",
+              "pose": "holding"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "crushes a toy plane"
+            ],
+            "dialogue": [
+              "Let's stop...I'm starting to get attached."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [
+            "ブシャ"
+          ],
+          "summary": "The girl crushes a toy plane in her hand."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smirking",
+              "pose": "covering mouth"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": [
+              "toy planes"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sees toy planes"
+            ],
+            "dialogue": [
+              "Fufu",
+              "Oh, a plane. Is it trying to escape?"
+            ],
+            "emotion": "smirking"
+          },
+          "text_elements": [
+            "にやっ"
+          ],
+          "summary": "The girl observes toy planes on a table."
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "image_path": "./manga_images\\[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\4.webp",
+      "summary": "Mutsu-chan's giant foot crushes airplanes and buildings, as she taunts someone about escaping her.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "Destroyed city",
+            "background_elements": [
+              "destroyed buildings",
+              "airplanes"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "foot crushes airplanes and buildings"
+            ],
+            "dialogue": [],
+            "emotion": "destructive"
+          },
+          "text_elements": [
+            "ガシャン"
+          ],
+          "summary": "A giant foot stomps and crushes airplanes and buildings."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Mutsu-chan",
+              "expression": "smiling",
+              "pose": "waving"
+            }
+          ],
+          "setting": {
+            "location": "Destroyed city",
+            "background_elements": [
+              "airplanes"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "shows foot covered in airplanes"
+            ],
+            "dialogue": [
+              "Too bad! You can't escape from Mutsu-chan, you know?"
+            ],
+            "emotion": "triumphant"
+          },
+          "text_elements": [],
+          "summary": "Mutsu-chan smiles and shows her foot covered in tiny airplanes, taunting someone about escaping."
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "image_path": "./manga_images\\[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\5.webp",
+      "summary": "A giant girl asks if people want to play tag, but the people are panicking and running away from her giant foot that is over the city.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "asks"
+            ],
+            "dialogue": [
+              "Wanna play tag?",
+              "Everyone is panicking now. What's the matter?"
+            ],
+            "emotion": "confused"
+          },
+          "text_elements": [],
+          "summary": "A girl asks if people want to play tag while her giant foot is over a city."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Man",
+              "expression": "scared",
+              "pose": "running"
+            },
+            {
+              "name": "Woman",
+              "expression": "scared",
+              "pose": "running"
+            }
+          ],
+          "setting": {
+            "location": "city street",
+            "background_elements": [
+              "buildings",
+              "car"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "running away",
+              "panicking"
+            ],
+            "dialogue": [
+              "Help!",
+              "She's coming this way!?"
+            ],
+            "emotion": "fear"
+          },
+          "text_elements": [],
+          "summary": "People are running away in fear."
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "image_path": "./manga_images\\[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\6.webp",
+      "summary": "A giant girl destroys the city, as people in a train react to the tremor.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smirking",
+              "pose": "hand to mouth"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "speaking",
+              "destroying city"
+            ],
+            "dialogue": [
+              "Kufufu farewell."
+            ],
+            "emotion": "mischievous"
+          },
+          "text_elements": [],
+          "summary": "A girl smirks and says farewell as she destroys the city."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "stomping on buildings"
+            ],
+            "dialogue": [],
+            "emotion": "destructive"
+          },
+          "text_elements": [
+            "メキ"
+          ],
+          "summary": "A giant foot stomps on buildings."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "train tracks",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "train passing"
+            ],
+            "dialogue": [],
+            "emotion": "neutral"
+          },
+          "text_elements": [
+            "タタン"
+          ],
+          "summary": "A train passes by on the tracks."
+        },
+        {
+          "panel_id": "4",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "buildings destroyed"
+            ],
+            "dialogue": [],
+            "emotion": "destructive"
+          },
+          "text_elements": [],
+          "summary": "The city is destroyed."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Man",
+              "expression": "shocked",
+              "pose": "standing"
+            },
+            {
+              "name": "Man",
+              "expression": "shocked",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "train",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "What the hell was that!?",
+              "We somehow managed to escape."
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "People on a train are shocked."
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "image_path": "./manga_images\\[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\7.webp",
+      "summary": "A giant girl apologizes as she crushes a city under her feet, feeling bad but stating it's her job.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "sad",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "city",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "standing",
+              "apologizing"
+            ],
+            "dialogue": [
+              "I feel sorry for you, but a job is a job. Sorry.",
+              "...sigh"
+            ],
+            "emotion": "regretful"
+          },
+          "text_elements": [],
+          "summary": "A giant girl apologizes, saying it's her job as she stands in a city."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "city",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "crushing",
+              "stepping"
+            ],
+            "dialogue": [],
+            "emotion": "destructive"
+          },
+          "text_elements": [
+            "グリベリ",
+            "バキャン"
+          ],
+          "summary": "A giant foot steps on a city, crushing buildings."
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "image_path": "./manga_images/[CalmBlue (Pi)] Benriya no Jurin Irai _ Rampage Request for Problem Solver 68 (Tenshin Ranman Gigantic Extreme 8th) (Blue Archive)\\8.webp",
+      "summary": "Problem Solver 68 receives a penalty for failing to destroy a town; they appear to have forgotten about the task.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": null,
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": null,
+              "expression": "surprised",
+              "pose": "holding phone"
+            }
+          ],
+          "setting": {
+            "location": "city overlook",
+            "background_elements": [
+              "city",
+              "footprints"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "received message",
+              "looking at city"
+            ],
+            "dialogue": [
+              "Ah",
+              "I got a message from the client."
+            ],
+            "emotion": "surprise"
+          },
+          "text_elements": [],
+          "summary": "The characters are alerted to a message from their client."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "empty",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "received penalty fee"
+            ],
+            "dialogue": [
+              "Some day later, problem solver 68 received a huge penalty fee for breach of contract.",
+              "Eh? What do we do about this...?",
+              "Ah... Seems like we were supposed to destroy the neighboring town~"
+            ],
+            "emotion": "shock"
+          },
+          "text_elements": [],
+          "summary": "The team learns they received a penalty for forgetting to destroy a neighboring town."
+        }
+      ]
+    }
+  ]
+}

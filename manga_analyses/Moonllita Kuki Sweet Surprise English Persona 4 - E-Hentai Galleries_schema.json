@@ -1,0 +1,805 @@
+{
+  "manga_name": "[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries",
+  "summary": "A Persona 4 fan comic depicting a Valentine's Day romance.  The story follows Rise's supportive encouragement of Naoto, who secretly has a crush but doubts its reciprocation.  Mutual confessions lead to a budding romance.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries\\0.webp",
+      "summary": "A girl in a school uniform hugs another girl in a cap. The scene is decorated with hearts.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Naoto Shirogane",
+              "expression": "flustered",
+              "pose": "embraced"
+            },
+            {
+              "name": "Yukiko Amagi",
+              "expression": "happy",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "Indoors",
+            "background_elements": [
+              "Hearts"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "embracing",
+              "hugging"
+            ],
+            "dialogue": [],
+            "emotion": "affectionate"
+          },
+          "text_elements": [
+            "Sweet Surprise!"
+          ],
+          "summary": "Yukiko hugs Naoto in a surprise embrace, both wearing school uniforms."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries\\1.webp",
+      "summary": "A drawing of two Persona 4 characters hugging with text indicating reading order and copyright information.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Persona 4 Character",
+              "expression": "smiling",
+              "pose": "hugging"
+            },
+            {
+              "name": "Persona 4 Character",
+              "expression": "smiling",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "hugging"
+            ],
+            "dialogue": [],
+            "emotion": "affectionate"
+          },
+          "text_elements": [
+            "Read from left to right, top to bottom",
+            "Characters from Persona 4 - Atlus",
+            "Drawing and scenario by Moonllita",
+            "@MoonllitaArt (X, Bluesky, Instagram, Pixiv, Tumblr)",
+            "Do not use/reprint/resell/use in Al software or NFTs"
+          ],
+          "summary": "Two Persona 4 characters are depicted in a warm embrace."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries\\2.webp",
+      "summary": "Rise and Naoto discuss Valentine's Day plans, revealing Naoto's surprise that she has a crush on someone who may not reciprocate.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "Inaba",
+            "background_elements": [
+              "clouds"
+            ]
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Valentine's day, inaba"
+            ],
+            "emotion": "neutral"
+          },
+          "text_elements": [],
+          "summary": "A title panel sets the scene on Valentine's Day in Inaba with an overcast sky."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Rise",
+              "expression": "smiling",
+              "pose": "walking"
+            },
+            {
+              "name": "Naoto",
+              "expression": "surprised",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": [
+              "buildings"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "walking",
+              "holding hands"
+            ],
+            "dialogue": [
+              "Let's go buy chocolate together for our valentines!",
+              "We still have time before the shop closes!",
+              "Wait rise! I don't have any valentine..."
+            ],
+            "emotion": "friendly"
+          },
+          "text_elements": [],
+          "summary": "Rise invites Naoto to buy chocolate for valentines, but Naoto reveals she doesn't have one."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Rise",
+              "expression": "shocked",
+              "pose": "talking"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "talking"
+            ],
+            "dialogue": [
+              "Really?!",
+              "What a shame! You are so pretty naoto!",
+              "Not even a crush or something?"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Rise is shocked and asks if Naoto has a crush on someone."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Naoto",
+              "expression": "flustered",
+              "pose": "adjusting hat"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "adjusting hat"
+            ],
+            "dialogue": [
+              "I have...",
+              "But I don't think the person i like is interested..."
+            ],
+            "emotion": "shy"
+          },
+          "text_elements": [],
+          "summary": "Naoto reveals she has a crush, but doesn't think the person is interested."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries\\3.webp",
+      "summary": "Rise is encouraging Yu to find a gift for his future lover. They are at a chocolate store and Rise suggests a pink chocolate box, but Yu is unsure if it's too girly.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Rise",
+              "expression": "happy",
+              "pose": "holding hands"
+            },
+            {
+              "name": "Yu",
+              "expression": "flustered",
+              "pose": "holding hands"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding hands",
+              "Rise compliments Yu"
+            ],
+            "dialogue": [
+              "Oh really!?",
+              "And please stop putting yourself down!",
+              "You are the most amazing person I know! All guys think you are cute too!",
+              "Y-you think ?"
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [],
+          "summary": "Rise compliments Yu and asks him to stop putting himself down."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Rise",
+              "expression": "determined",
+              "pose": "fist up"
+            },
+            {
+              "name": "Yu",
+              "expression": "surprised",
+              "pose": "looking at Rise"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Rise encourages Yu to find a gift for his future lover"
+            ],
+            "dialogue": [
+              "So let's try to find something for your future lover!",
+              "Rise... it's a bit too fast to say."
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [],
+          "summary": "Rise encourages Yu to find a gift for his future lover."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Rise",
+              "expression": "curious",
+              "pose": "looking at Yu"
+            },
+            {
+              "name": "Yu",
+              "expression": "neutral",
+              "pose": "holding a chocolate box"
+            }
+          ],
+          "setting": {
+            "location": "chocolate store",
+            "background_elements": [
+              "chocolate displays",
+              "presents"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "Rise and Yu are at the chocolate store",
+              "Yu holds a chocolate box"
+            ],
+            "dialogue": [
+              "At the chocolate store",
+              "Oh, did you find something?"
+            ],
+            "emotion": "inquisitive"
+          },
+          "text_elements": [],
+          "summary": "Rise asks Yu if he found something at the chocolate store."
+        },
+        {
+          "panel_id": "4",
+          "characters": [],
+          "setting": {
+            "location": "chocolate store",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Yu considers a pink chocolate box"
+            ],
+            "dialogue": [
+              "Maybe...",
+              "A pink chocolate box?",
+              "Are you sure it's not too girly for a guy?"
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "Yu considers a pink chocolate box and wonders if it's too girly."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images/[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries\\4.webp",
+      "summary": "Yu Narukami buys Valentine's Day chocolates, then he and Ann Takamaki leave the store. Yu and Ann walk down the street.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Yu Narukami",
+              "expression": "blushing",
+              "pose": "holding box"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "holding a heart-shaped box of chocolates",
+              "thinking about pink being someone's favorite color"
+            ],
+            "dialogue": [
+              "I'm pretty sure pink is her favourite color. So I will choose that one."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "Yu Narukami is holding a heart-shaped box of chocolates and thinks pink is someone's favorite color."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Ann Takamaki",
+              "expression": "surprised",
+              "pose": "looking confused"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "looks surprised"
+            ],
+            "dialogue": [
+              "Her?"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Ann Takamaki looks surprised."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Store Clerk",
+              "expression": "neutral",
+              "pose": "standing behind counter"
+            },
+            {
+              "name": "Yu Narukami",
+              "expression": "neutral",
+              "pose": "standing"
+            },
+            {
+              "name": "Ann Takamaki",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "store",
+            "background_elements": [
+              "shelves",
+              "counter",
+              "chess set"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "buying chocolates",
+              "receiving thanks from store clerk",
+              "thanking store clerk"
+            ],
+            "dialogue": [
+              "Thank you! Have a nice Valentine's Day.",
+              "Thank you, you too!"
+            ],
+            "emotion": "polite"
+          },
+          "text_elements": [],
+          "summary": "Yu Narukami and Ann Takamaki purchase chocolates from a store and thank the clerk."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Yu Narukami",
+              "expression": "neutral",
+              "pose": "walking"
+            },
+            {
+              "name": "Ann Takamaki",
+              "expression": "neutral",
+              "pose": "walking"
+            }
+          ],
+          "setting": {
+            "location": "street",
+            "background_elements": [
+              "building",
+              "trees",
+              "sign"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "walking down the street",
+              "talking about time"
+            ],
+            "dialogue": [
+              "Let's not waste any time! It's almost night."
+            ],
+            "emotion": "urgent"
+          },
+          "text_elements": [],
+          "summary": "Yu and Ann walk down the street as Yu says they shouldn't waste any time because it's almost night."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries\\5.webp",
+      "summary": "Naoto gives Rise a heart-shaped box of chocolates, confessing her feelings. Rise is surprised and embraces Naoto, declaring her love in return.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Naoto",
+              "expression": "neutral",
+              "pose": "holding box"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Naoto presents a heart-shaped box to Rise"
+            ],
+            "dialogue": [
+              "It's for you Rise..."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "Naoto offers Rise a heart-shaped box of chocolates."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Rise",
+              "expression": "shocked",
+              "pose": "close up of eye"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Rise is surprised"
+            ],
+            "dialogue": [
+              "Hum?!"
+            ],
+            "emotion": "surprised"
+          },
+          "text_elements": [],
+          "summary": "Rise is surprised by the sudden gesture."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Naoto",
+              "expression": "flustered",
+              "pose": "offering box"
+            },
+            {
+              "name": "Rise",
+              "expression": "neutral",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Naoto offers Rise the chocolates",
+              "Naoto confesses her feelings"
+            ],
+            "dialogue": [
+              "Wait, me?!",
+              "Yes, I always had a crush on you.",
+              "I know you have senpai, and I will understand if you reject my feelings. But I wanted to give you these chocolates at least."
+            ],
+            "emotion": "nervous"
+          },
+          "text_elements": [],
+          "summary": "Naoto, flustered, confesses her feelings for Rise while offering the chocolates."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Rise",
+              "expression": "embarrassed",
+              "pose": "clutching chest"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Rise is touched by Naoto's confession"
+            ],
+            "dialogue": [
+              "Naoto..."
+            ],
+            "emotion": "touched"
+          },
+          "text_elements": [],
+          "summary": "Rise is touched by Naoto's confession."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Rise",
+              "expression": "happy",
+              "pose": "embracing Naoto"
+            },
+            {
+              "name": "Naoto",
+              "expression": "surprised",
+              "pose": "being embraced"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Rise embraces Naoto",
+              "Rise confesses her love for Naoto"
+            ],
+            "dialogue": [
+              "Rise..?!",
+              "I love you Naoto!"
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "Rise embraces Naoto and confesses her love in return."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images\\[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries\\6.webp",
+      "summary": "The female character gives the male character a gift of chocolates, and he is surprised and thankful. She suggests they go on a date, and he initially declines due to the late hour, but she insists on taking him to a restaurant that is still open.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "flustered",
+              "pose": "embraced"
+            },
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "embracing"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": [
+              "hearts"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "embracing",
+              "talking"
+            ],
+            "dialogue": [
+              "Really?!",
+              "Oh yeah also..."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "The female character embraces the male character, who looks surprised."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "unknown",
+              "pose": "holding a gift"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "presenting a gift",
+              "confessing"
+            ],
+            "dialogue": [
+              "I also bought some chocolates for you. I was a little embarrassed to give it to you."
+            ],
+            "emotion": "shy, romantic"
+          },
+          "text_elements": [],
+          "summary": "The female character presents a box of chocolates to the male character."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Boy",
+              "expression": "blushing",
+              "pose": "looking away"
+            }
+          ],
+          "setting": {
+            "location": "unknown",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "blushing",
+              "expressing gratitude",
+              "confessing surprise"
+            ],
+            "dialogue": [
+              "T-thank you...",
+              "I'm a bit surprised to be honest..."
+            ],
+            "emotion": "grateful, surprised"
+          },
+          "text_elements": [],
+          "summary": "The male character blushes and expresses his gratitude and surprise at receiving the gift."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "excited",
+              "pose": "suggestive"
+            },
+            {
+              "name": "Boy",
+              "expression": "hesitant",
+              "pose": "unsure"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": [
+              "windows",
+              "bushes"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "suggesting a date",
+              "expressing hesitation"
+            ],
+            "dialogue": [
+              "So let's go on a date!",
+              "Wait right now? It's a bit late..."
+            ],
+            "emotion": "excited, hesitant"
+          },
+          "text_elements": [],
+          "summary": "The female character suggests they go on a date, but the male character is hesitant due to the late hour."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "insistent",
+              "pose": "reassuring"
+            }
+          ],
+          "setting": {
+            "location": "restaurant",
+            "background_elements": [
+              "windows",
+              "bushes"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "reassuring",
+              "suggesting a restaurant"
+            ],
+            "dialogue": [
+              "Oh, don't worry! I know a restaurant that is still open at this time. Let's go!"
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "The female character reassures the male character and insists on taking him to a restaurant that is still open."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[Moonllita (Kuki)] Sweet Surprise (English) (Persona 4) - E-Hentai Galleries\\7.webp",
+      "summary": "A girl is hugging a boy, both appearing happy.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "hugging"
+            },
+            {
+              "name": "Boy",
+              "expression": "blushing",
+              "pose": "hugging"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "hugging each other"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "The girl hugs the boy and they both seem happy."
+        }
+      ]
+    }
+  ]
+}

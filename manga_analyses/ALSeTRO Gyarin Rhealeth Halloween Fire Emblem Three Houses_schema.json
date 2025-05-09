@@ -1,0 +1,943 @@
+{
+  "manga_name": "[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)",
+  "summary": "A Halloween-themed story where Byleth and Rhea explore their relationship, facing both tender and humorous moments amidst the festive atmosphere, while Seteth's patience is tested.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)\\0.jpg",
+      "summary": "A character dressed as a demon carries another character dressed as a witch. The witch appears flustered while the demon looks amused.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Sothis",
+              "expression": "flustered",
+              "pose": "being carried"
+            },
+            {
+              "name": "Byleth",
+              "expression": "amused",
+              "pose": "carrying"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "carrying",
+              "blushing"
+            ],
+            "dialogue": [],
+            "emotion": "flustered"
+          },
+          "text_elements": [],
+          "summary": "Byleth, dressed as a demon, carries a blushing Sothis, dressed as a witch."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)\\1.png",
+      "summary": "Byleth asks Rhea if she drinks, and Rhea considers the question.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "smiling",
+              "pose": "upper body shot"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "bookshelf"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "asks a question"
+            ],
+            "dialogue": [
+              "By the way, Rhea, do you drink?"
+            ],
+            "emotion": "inquisitive"
+          },
+          "text_elements": [],
+          "summary": "Byleth asks Rhea if she drinks."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Rhea",
+              "expression": "contemplative",
+              "pose": "thinking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "bookshelf"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "considers question",
+              "reflects on drinking"
+            ],
+            "dialogue": [
+              "Do I drink? Hmm...",
+              "It's not like I've never tried, but I've hardly ever had the chance to do so."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "Rhea considers Byleth's question about drinking."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)\\2.png",
+      "summary": "Rhea asks Byleth to forget her duties as archbishop and come with her. Rhea also mentions that the harvest festival will be serving up plenty of beer and wine tomorrow. The next night, Byleth seems to be contemplating Rhea's offer.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Rhea",
+              "expression": "blushing",
+              "pose": "holding hands"
+            },
+            {
+              "name": "Byleth",
+              "expression": "smirking",
+              "pose": "holding hands"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "flowers"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "holding hands",
+              "asking"
+            ],
+            "dialogue": [
+              "Forget your duties as archbishop for one day and come with me."
+            ],
+            "emotion": "flirty"
+          },
+          "text_elements": [],
+          "summary": "Rhea asks Byleth to forget her duties as archbishop for one day and come with her."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "smirking",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "outdoors",
+            "background_elements": [
+              "candy"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "talking about the harvest festival"
+            ],
+            "dialogue": [
+              "Well, the harvest festival will be serving up plenty of beer and wine tomorrow."
+            ],
+            "emotion": "casual"
+          },
+          "text_elements": [],
+          "summary": "Byleth mentions that the harvest festival will be serving up plenty of beer and wine tomorrow."
+        },
+        {
+          "panel_id": "3",
+          "characters": [],
+          "setting": {
+            "location": "night",
+            "background_elements": [
+              "castle",
+              "bats"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "showing the next night"
+            ],
+            "dialogue": [],
+            "emotion": "mysterious"
+          },
+          "text_elements": [
+            "The next night..."
+          ],
+          "summary": "Shows the next night with a castle and bats in the background."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "thinking",
+              "pose": "looking sideways"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "contemplating"
+            ],
+            "dialogue": [
+              "Oh, Byleth, you..."
+            ],
+            "emotion": "thoughtful"
+          },
+          "text_elements": [],
+          "summary": "Byleth is contemplating Rhea's offer."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)\\3.png",
+      "summary": "Byleth struggles to handle a drunk Rhea, worrying about potential consequences and unwanted attention. The scene is tense as Byleth tries to prevent a compromising situation.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Rhea",
+              "expression": "drunk",
+              "pose": "leaning"
+            },
+            {
+              "name": "Byleth",
+              "expression": "concerned",
+              "pose": "supporting"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Rhea leans on Byleth",
+              "Byleth supports Rhea"
+            ],
+            "dialogue": [
+              "Byleth, mm..."
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [],
+          "summary": "Rhea, drunk, leans on Byleth, prompting a worried reaction."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "concerned",
+              "pose": "reaching"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "closes a door",
+              "speaks in a worried tone"
+            ],
+            "dialogue": [
+              "Rhea, watch your step.",
+              "Oof, I look away for one moment, and she's dead drunk the next!"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [
+            "CREAK",
+            "SHUT"
+          ],
+          "summary": "Byleth closes a door, expressing concern over Rhea's drunkenness."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "anxious",
+              "pose": "sweating"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "becomes anxious"
+            ],
+            "dialogue": [
+              "Not when it's sure to arouse anyone's interest!"
+            ],
+            "emotion": "anxious"
+          },
+          "text_elements": [
+            "GULP"
+          ],
+          "summary": "Byleth worries about the situation attracting unwanted attention."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Rhea",
+              "expression": "dazed",
+              "pose": "dreamy"
+            }
+          ],
+          "setting": {
+            "location": "hallway",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "appears dazed"
+            ],
+            "dialogue": [
+              "I absolutely cannot let her get caught like this!"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [
+            "DAZED"
+          ],
+          "summary": "Rhea looks dazed, and Byleth resolves to prevent her from being seen in this state."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_path": "./manga_images\\[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)\\4.png",
+      "summary": "Byleth and Rhea are together, and Byleth seems to have fallen on top of Rhea. Byleth is apologizing to Rhea.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": null,
+              "expression": null,
+              "pose": null
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "Ah!"
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [
+            "TOTTER..."
+          ],
+          "summary": "Someone is falling, expressing surprise."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "flustered",
+              "pose": "sitting"
+            },
+            {
+              "name": "Rhea",
+              "expression": "surprised",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "falling on top of each other"
+            ],
+            "dialogue": [
+              "Lep!",
+              "Here, you'll feel better if you sit-",
+              "Oh no, it's your first time drinking in a while, so it's only natural.",
+              "My apologies, Byleth. Things were so enjoyable I wound up letting myself go...",
+              "Rhea, look out-"
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [
+            "POMF"
+          ],
+          "summary": "Byleth falls onto Rhea, who warns her to look out, while Byleth apologizes for letting herself go."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "flustered",
+              "pose": "close up"
+            },
+            {
+              "name": "Rhea",
+              "expression": "surprised",
+              "pose": "close up"
+            }
+          ],
+          "setting": {
+            "location": "indoor",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [],
+            "dialogue": [
+              "E-Excuse me..."
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [
+            "BUMP",
+            "...!"
+          ],
+          "summary": "Byleth and Rhea are very close to each other, and Byleth apologizes."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_path": "./manga_images\\[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)\\5.png",
+      "summary": "This page shows a couple, Byleth and Rhea, engaging in a passionate kiss. The panels capture the intensity and intimacy of their embrace, with close-ups highlighting their expressions and physical connection.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "kissing",
+              "pose": "close-up"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [
+              "Byle-"
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [],
+          "summary": "Close-up of Byleth's lips as they are kissing."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "flustered",
+              "pose": "kissing"
+            },
+            {
+              "name": "Rhea",
+              "expression": "determined",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "haah...",
+            "haah..."
+          ],
+          "summary": "Byleth and Rhea begin kissing."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Rhea",
+              "expression": "kissing",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "Mn"
+          ],
+          "summary": "Rhea is kissing Byleth."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "kissing",
+              "pose": "kissing"
+            },
+            {
+              "name": "Rhea",
+              "expression": "kissing",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "Mn"
+          ],
+          "summary": "Byleth and Rhea continue to kiss each other."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "kissing",
+              "pose": "kissing"
+            },
+            {
+              "name": "Rhea",
+              "expression": "kissing",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [
+              "Rhea..."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "haah...",
+            "Ha..."
+          ],
+          "summary": "Byleth and Rhea continue to kiss each other in a close embrace."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_path": "./manga_images/[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)/6.png",
+      "summary": "The page shows a romantic encounter between two characters, followed by the perspective of one character feeling conflicted about their actions and then the other character asking what's wrong.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [
+              "Ah..."
+            ],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "Nom",
+            "haah."
+          ],
+          "summary": "A character is getting kissed, visibly audible."
+        },
+        {
+          "panel_id": "2",
+          "characters": [],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "kissing"
+            ],
+            "dialogue": [],
+            "emotion": "romantic"
+          },
+          "text_elements": [
+            "haah...",
+            "Lick",
+            "Mm"
+          ],
+          "summary": "The kiss continues with more audible sounds."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "shocked",
+              "pose": "wide-eyed"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "reacting in shock"
+            ],
+            "dialogue": [],
+            "emotion": "shock"
+          },
+          "text_elements": [
+            "GA",
+            "SP"
+          ],
+          "summary": "The character being kissed is visibly shocked."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "concerned",
+              "pose": "thinking"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinking"
+            ],
+            "dialogue": [
+              "What am I thinking, doing this when you're too drunk to stand?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [
+            "Wh-"
+          ],
+          "summary": "The character is concerned about their actions."
+        },
+        {
+          "panel_id": "5",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "concerned",
+              "pose": "lying down"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "pillow"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "asking a question"
+            ],
+            "dialogue": [
+              "Is something the matter, Byleth?"
+            ],
+            "emotion": "concerned"
+          },
+          "text_elements": [
+            "...?"
+          ],
+          "summary": "Byleth, lying down, asks if something is wrong."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "image_path": "./manga_images\\[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)\\7.png",
+      "summary": "Rhea and Byleth share intimate moments, expressing their feelings and desires for each other. The page culminates in a passionate kiss, signifying their deep connection.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "flustered",
+              "pose": "holding Rhea's face"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Byleth is being touched by Rhea"
+            ],
+            "dialogue": [
+              "Hehe,"
+            ],
+            "emotion": "flustered"
+          },
+          "text_elements": [],
+          "summary": "Byleth seems flustered by Rhea's touch."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "determined",
+              "pose": "looking down"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Byleth speaks"
+            ],
+            "dialogue": [
+              "I should know better than to treat you like that, Rhea."
+            ],
+            "emotion": "determined"
+          },
+          "text_elements": [],
+          "summary": "Byleth resolves to treat Rhea better."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Rhea",
+              "expression": "happy",
+              "pose": "looking up"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Rhea speaks"
+            ],
+            "dialogue": [
+              "Moreover,",
+              "I've felt firsthand just how much you cherished me today.",
+              "Fear not."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [],
+          "summary": "Rhea expresses her happiness and trust in Byleth."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Rhea",
+              "expression": "passionate",
+              "pose": "kissing"
+            },
+            {
+              "name": "Byleth",
+              "expression": "passionate",
+              "pose": "kissing"
+            }
+          ],
+          "setting": {
+            "location": "unspecified",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "Rhea and Byleth kiss"
+            ],
+            "dialogue": [
+              "Haah...",
+              "(whisper) You promised me, didn't you? Now make me forget I was ever archbishop. ♡"
+            ],
+            "emotion": "passionate"
+          },
+          "text_elements": [
+            "WHISPER"
+          ],
+          "summary": "Rhea and Byleth share a passionate kiss, with Rhea whispering her desires."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "image_path": "./manga_images\\[ALSeTRO (Gyarin)] Rhealeth Halloween (Fire Emblem Three Houses)\\8.png",
+      "summary": "Byleth, dressed as a demon, is embracing Rhea, while Seteth is getting increasingly frustrated at being interrupted.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Byleth",
+              "expression": "happy",
+              "pose": "embracing"
+            },
+            {
+              "name": "Rhea",
+              "expression": "happy",
+              "pose": "being embraced"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "embracing",
+              "saying"
+            ],
+            "dialogue": [
+              "Eek! Byleth, slow down...!",
+              "With pleasure!"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [
+            "GLOMP",
+            "Rhea!"
+          ],
+          "summary": "Byleth, dressed as a demon, embraces Rhea."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Rhea",
+              "expression": "content",
+              "pose": "embraced"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "being embraced",
+              "thinking"
+            ],
+            "dialogue": [
+              "You're so warm, Rhea...!",
+              "I came to deliver an important message to Rhea, but..."
+            ],
+            "emotion": "content"
+          },
+          "text_elements": [
+            "Ah",
+            "Ngh",
+            "No",
+            "Mn",
+            "Ah",
+            "No"
+          ],
+          "summary": "Rhea is being embraced by Byleth and is feeling warm, while Seteth appears to be approaching."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Seteth",
+              "expression": "angry",
+              "pose": "clenching fist"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "clenching fist",
+              "being pissed"
+            ],
+            "dialogue": [],
+            "emotion": "angry"
+          },
+          "text_elements": [
+            "SCRNCH",
+            "PISSED..."
+          ],
+          "summary": "Seteth is angry and clenching his fist, appearing to be frustrated."
+        }
+      ]
+    }
+  ]
+}

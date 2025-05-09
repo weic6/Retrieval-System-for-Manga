@@ -46,80 +46,83 @@ def create_documents_from_manga_schema(manga_data):
     for manga in manga_data:
         manga_title = manga["title"]
         manga_obj = manga["data"]
-        
-        # Create a book-level document
-        book_summary = manga_obj.get("summary", "")
-        if book_summary:
-            book_doc = f"Manga: {manga_obj['manga_name']}. Summary: {book_summary}"
-            documents.append(book_doc)
-            metadatas.append({
-                "manga_title": manga_title,
-                "type": "book_summary",
-                "level": "book"
-            })
-            ids.append(f"{manga_title}_book")
-        
-        # Create page-level documents
-        for page in manga_obj.get("pages", []):
-            page_number = page.get("page_number", "unknown")
-            page_summary = page.get("summary", "")
-            
-            # Create a descriptive page-level document
-            page_doc = f"Manga: {manga_obj['manga_name']}. Page {page_number}. {page_summary}"
-            documents.append(page_doc)
-            metadatas.append({
-                "manga_title": manga_title,
-                "type": "page",
-                "page_number": page_number,
-                "level": "page",
-                "image_path": page.get("image_path", "")
-            })
-            ids.append(f"{manga_title}_page_{page_number}")
-            
-            # Create panel-level documents
-            for panel_idx, panel in enumerate(page.get("panels", [])):
-                panel_id = panel.get("panel_id", f"{panel_idx+1}")
-                panel_summary = panel.get("summary", "")
-                
-                # Combine character information
-                characters_text = ""
-                for char in panel.get("characters", []):
-                    char_name = char.get("name", "")
-                    char_expr = char.get("expression", "")
-                    char_pose = char.get("pose", "")
-                    if char_name:
-                        characters_text += f"{char_name} with {char_expr} expression, {char_pose}. "
-                
-                # Combine setting information
-                setting = panel.get("setting", {})
-                location = setting.get("location", "")
-                bg_elements = ", ".join(setting.get("background_elements", []))
-                setting_text = f"Location: {location}. Background elements: {bg_elements}. "
-                
-                # Combine narrative information
-                narrative = panel.get("narrative", {})
-                actions = ", ".join(narrative.get("actions", []))
-                dialogue = ". ".join(narrative.get("dialogue", []))
-                emotion = narrative.get("emotion", "")
-                narrative_text = f"Actions: {actions}. Dialogue: {dialogue}. Emotion: {emotion}. "
-                
-                # Combine text elements
-                text_elements = ", ".join(panel.get("text_elements", []))
-                text_elements_text = f"Text elements: {text_elements}. " if text_elements else ""
-                
-                # Create a descriptive panel-level document
-                panel_doc = f"Manga: {manga_obj['manga_name']}. Page {page_number}, Panel {panel_id}. {panel_summary} {characters_text}{setting_text}{narrative_text}{text_elements_text}"
-                documents.append(panel_doc)
+        if manga_obj:
+            # Create a book-level document
+            book_summary = manga_obj.get("summary", "")
+            if book_summary:
+                book_doc = f"Manga: {manga_obj['manga_name']}. Summary: {book_summary}"
+                documents.append(book_doc)
                 metadatas.append({
                     "manga_title": manga_title,
-                    "type": "panel",
+                    "type": "book_summary",
+                    "level": "book"
+                })
+                ids.append(f"{manga_title}_book")
+            
+            # Create page-level documents
+            for page_index, page in enumerate(manga_obj.get("pages", [])):
+                page_number = page.get("page_number", "unknown")
+                page_summary = page.get("summary", "")
+                
+                # Create a descriptive page-level document
+                page_doc = f"Manga: {manga_obj['manga_name']}. Page {page_number}. {page_summary}"
+                documents.append(page_doc)
+                metadatas.append({
+                    "manga_title": manga_title,
+                    "type": "page",
                     "page_number": page_number,
-                    "panel_id": panel_id,
-                    "level": "panel",
+                    "level": "page",
                     "image_path": page.get("image_path", "")
                 })
-                ids.append(f"{manga_title}_page_{page_number}_panel_{panel_id}")
-    
+                ids.append(f"{manga_title}_page_{page_index+1}")
+                
+                # Create panel-level documents
+                for panel_idx, panel in enumerate(page.get("panels", [])):
+                    panel_id = panel.get("panel_id", f"{panel_idx+1}")
+                    panel_summary = panel.get("summary", "")
+                    
+                    # Combine character information
+                    characters_text = ""
+                    for char in panel.get("characters", []):
+                        char_name = char.get("name", "")
+                        char_expr = char.get("expression", "")
+                        char_pose = char.get("pose", "")
+                        if char_name:
+                            characters_text += f"{char_name} with {char_expr} expression, {char_pose}. "
+                    
+                    # Combine setting information
+                    setting = panel.get("setting", {})
+                    location = setting.get("location", "")
+                    bg_elements = ", ".join(setting.get("background_elements", []))
+                    setting_text = f"Location: {location}. Background elements: {bg_elements}. "
+                    
+                    # Combine narrative information
+                    narrative = panel.get("narrative", {})
+                    actions = ", ".join(narrative.get("actions", []))
+                    dialogue = ". ".join(narrative.get("dialogue", []))
+                    emotion = narrative.get("emotion", "")
+                    narrative_text = f"Actions: {actions}. Dialogue: {dialogue}. Emotion: {emotion}. "
+                    
+                    # Combine text elements
+                    text_elements = ", ".join(panel.get("text_elements", []))
+                    text_elements_text = f"Text elements: {text_elements}. " if text_elements else ""
+                    
+                    # Create a descriptive panel-level document
+                    panel_doc = f"Manga: {manga_obj['manga_name']}. Page {page_number}, Panel {panel_id}. {panel_summary} {characters_text}{setting_text}{narrative_text}{text_elements_text}"
+                    documents.append(panel_doc)
+                    metadatas.append({
+                        "manga_title": manga_title,
+                        "type": "panel",
+                        "page_number": page_number,
+                        "panel_id": panel_id,
+                        "level": "panel",
+                        "image_path": page.get("image_path", "")
+                    })
+                    ids.append(f"{manga_title}_page_{page_index+1}_panel_{panel_id}")
+        if len(set(ids)) != len(ids):
+            print(ids)
+            duplicate_ids = [id for id in ids if ids.count(id) > 1]
+            raise ValueError(f"Duplicate IDs found: {duplicate_ids[:5]}")
     return documents, metadatas, ids
 
 def vectorize_manga_schemas(chroma_path="_chroma"):

@@ -1,0 +1,354 @@
+{
+  "manga_name": "Kokoro Adores Misaki (BanG Dream!)",
+  "summary": "A short manga exploring Kokoro's romantic feelings for Misaki, who remains largely oblivious. Kokoro struggles with her emotions while Misaki continues with her normal routine.",
+  "pages": [
+    {
+      "page_number": 1,
+      "image_path": "./manga_images\\Kokoro Adores Misaki (BanG Dream!)\\0.webp",
+      "summary": "Kokoro happily greets Misaki during break time, commenting on Misaki's lovely smile.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "thinks"
+            ],
+            "dialogue": [
+              "She came here again..."
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Misaki notices Kokoro approaching her."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "smiling",
+              "pose": "leaning over desk"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "window"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "greets"
+            ],
+            "dialogue": [
+              "Ah~ Misaki~"
+            ],
+            "emotion": "excited"
+          },
+          "text_elements": [
+            "BANG"
+          ],
+          "summary": "Kokoro greets Misaki enthusiastically."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "surprised",
+              "pose": "standing"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "sees",
+              "addresses"
+            ],
+            "dialogue": [
+              "Oh!",
+              "Misaki, you,"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Kokoro expresses surprise at seeing Misaki."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "comments"
+            ],
+            "dialogue": [
+              "Had a very lovely smile just now!"
+            ],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "Kokoro compliments Misaki's smile."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_path": "./manga_images\\Kokoro Adores Misaki (BanG Dream!)\\1.webp",
+      "summary": "Misaki is unaware of Kokoro's feelings, while Kokoro realizes she might be in love with Misaki.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "smiling",
+              "pose": "forward facing"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": [
+              "stars",
+              "ducks"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "is unaware"
+            ],
+            "dialogue": [
+              "No awareness.",
+              "Smile...?",
+              "Huh?"
+            ],
+            "emotion": "lighthearted"
+          },
+          "text_elements": [],
+          "summary": "Misaki smiles, oblivious to Kokoro's inner turmoil."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "shocked",
+              "pose": "covering mouth"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is covering her mouth",
+              "is shocked"
+            ],
+            "dialogue": [
+              "Could it be?",
+              "That i'm"
+            ],
+            "emotion": "shocked"
+          },
+          "text_elements": [],
+          "summary": "Kokoro covers her mouth in shock, realizing her feelings."
+        },
+        {
+          "panel_id": "3",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "questioning",
+              "pose": "peeking over desk"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": [
+              "desk"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "is peeking over desk",
+              "is questioning"
+            ],
+            "dialogue": [
+              "Oh?"
+            ],
+            "emotion": "curious"
+          },
+          "text_elements": [
+            "?"
+          ],
+          "summary": "Misaki peeks over the desk, curious about Kokoro's reaction."
+        },
+        {
+          "panel_id": "4",
+          "characters": [
+            {
+              "name": "Kokoro",
+              "expression": "embarrassed",
+              "pose": "covering face"
+            },
+            {
+              "name": "Misaki",
+              "expression": "smiling",
+              "pose": "side view"
+            }
+          ],
+          "setting": {
+            "location": "unclear",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "is covering her face",
+              "is embarrassed"
+            ],
+            "dialogue": [
+              "With Kokoro...?",
+              "Really in love",
+              "There's nothing to be embarrassed about, Misaki!"
+            ],
+            "emotion": "embarrassed"
+          },
+          "text_elements": [
+            "Fssshhh"
+          ],
+          "summary": "Kokoro is embarrassed about being in love with Misaki."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_path": "./manga_images\\Kokoro Adores Misaki (BanG Dream!)\\2.webp",
+      "summary": "Kokoro's distraught reaction is shown while Misaki remains cheerful.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": []
+          },
+          "narrative": {
+            "actions": [
+              "smiling"
+            ],
+            "dialogue": [],
+            "emotion": "happy"
+          },
+          "text_elements": [],
+          "summary": "A girl smiles contentedly."
+        },
+        {
+          "panel_id": "2",
+          "characters": [
+            {
+              "name": "Girl",
+              "expression": "crying",
+              "pose": "leaning"
+            }
+          ],
+          "setting": {
+            "location": "indoors",
+            "background_elements": [
+              "table"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "peering over a table",
+              "crying"
+            ],
+            "dialogue": [],
+            "emotion": "sad"
+          },
+          "text_elements": [
+            "BA-",
+            "DUMP"
+          ],
+          "summary": "A girl peers over a table, appearing distressed and crying."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_path": "./manga_images\\Kokoro Adores Misaki (BanG Dream!)\\3.webp",
+      "summary": "Kokoro changes the subject, seeking the Among Us room code.",
+      "panels": [
+        {
+          "panel_id": "1",
+          "characters": [
+            {
+              "name": "Misaki",
+              "expression": "neutral",
+              "pose": "sitting"
+            },
+            {
+              "name": "Kokoro",
+              "expression": "smiling",
+              "pose": "sitting"
+            }
+          ],
+          "setting": {
+            "location": "classroom",
+            "background_elements": [
+              "desk",
+              "books"
+            ]
+          },
+          "narrative": {
+            "actions": [
+              "sitting at a desk"
+            ],
+            "dialogue": [
+              "What's the Among Us room code?"
+            ],
+            "emotion": "playful"
+          },
+          "text_elements": [],
+          "summary": "Kokoro playfully asks Misaki for the Among Us room code."
+        }
+      ]
+    }
+  ]
+}
